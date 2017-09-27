@@ -56,7 +56,7 @@ parcel_network_assignments.txt - Same as the previous file, but in text format.
 - README.md - This file
 - *SeparateHemispheres* directory - Files with each hemisphere separate. This can be useful for ensuring that parcels from each hemisphere are in the correct order by loading each hemisphere separately (e.g., in MATLAB).
   - cortex_ColeAnticevic_NetPartition_GlasserParcels_v1_L.label.gii - Left hemisphere cortex-only partition
-	- cortex_ColeAnticevic_NetPartition_GlasserParcels_v1_R.label.gii - Right hemisphere cortex-only partition
+  - cortex_ColeAnticevic_NetPartition_GlasserParcels_v1_R.label.gii - Right hemisphere cortex-only partition
 	- CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_L.dlabel.nii - Left hemisphere cortex+subcortex network assignments for each parcel
 	- CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_R.dlabel.nii - Right hemisphere cortex+subcortex network assignments for each parcel
 	- CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_L.dlabel.nii - Left hemisphere cortex+subcortex list of parcels, with a label for each parcel.
