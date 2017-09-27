@@ -1,4 +1,4 @@
-# Cole-Anticevic Labs Network Partition info
+# The Cole-Anticevic Human Brain Network Partition
 
 ## Authors
 Marjolein Spronk, Jie Lisa Ji, Kaustubh Kulkarni, Grega Repovs, Alan Anticevic, and Michael W. Cole
@@ -7,9 +7,9 @@ Cole Neurocognition Lab, http://www.colelab.org/
 
 Anticevic Lab, http://anticeviclab.yale.edu/
 
-## Version and acknowledgement info
+## Version and Acknowledgement info
 
-**Version 1**: July 19th, 2017
+**Version 1**: September 27th, 2017
 
 Available from: https://github.com/ColeLab/ColeAnticevicNetPartition/
 
@@ -48,12 +48,6 @@ wb_command -cifti-merge-dense COLUMN Q1-Q6_RelatedParcellation210.LR.CorticalAre
 - cortex_Illustration_ColeLabNetpartition_splithalfvalidation_v1.pdf - An illustration of the split half validation results.
 - L_ColeLab_NetPartition_GlasserParcels.label.gii - A GIFTI file that can be loaded into Connectome Workbench to visualize the partition (left hemisphere)
 - network_labelfile.txt - The labels for each network, along with color information (RGBA value).
-Format is:
-<Partition Name>
-<Partition Number> <R> <G> <B> <A>
-Example:
-Visual
-1 0 0 255 255
 - parcel_network_assignments.mat - A vector of numbers, one per parcel, indicating which network that parcel was assigned to in the network partition. (Parcel order: L first, R second.)
 parcel_network_assignments.txt - Same as the previous file, but in text format.
 - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Black.32k_fs_LR.border - The left-hemisphere borders of the Glasser parcels (useful for use with L_ColeLab_NetPartition_GlasserParcels.label.gii for visualizing the partition)
