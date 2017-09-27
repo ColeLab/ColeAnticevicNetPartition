@@ -4,7 +4,7 @@ Authors: Marjolein Spronk <marjoleinspronk@gmail.com>, Jie Lisa Ji, Kaustubh Kul
 Cole Neurocognition Lab, http://www.colelab.org/
 Anticevic Lab, http://anticeviclab.yale.edu/
 
-Final version: July 19th, 2017
+Version 1: July 19th, 2017
 
 Available at: https://github.com/ColeLab/ColeAnticevicNetPartition/
 
