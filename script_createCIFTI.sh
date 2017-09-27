@@ -1,4 +1,0 @@
-#!/bin/bash
-
-#Creating integrated CIFTI label file across cortical and subcortical parcellations
-wb_command -cifti-create-label ColeAnticevicNetPartition_parcels.labels.nii -left-label cortex_ColeAnticevic_NetPartition_GlasserParcels_final_L.label.gii -right-label cortex_ColeAnticevic_NetPartition_GlasserParcels_final_R.label.gii -volume subcortex_ColeAnticevic_NetPartition_parcels_v1_LR.dlabel.nii subcortex_ColeAnticevic_NetPartition_parcels_v1_LR.dlabel.nii 
