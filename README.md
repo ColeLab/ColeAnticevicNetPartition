@@ -16,6 +16,8 @@ Available from: https://github.com/ColeLab/ColeAnticevicNetPartition/
 Cite as: tba
 and https://github.com/ColeLab/ColeAnticevicNetPartition/
 
+Data were provided by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.
+
 ## OVERVIEW
 
 This network partition was created using the Glasser 2016 parcels [Glasser MF, Coalson TS, Robinson EC, Hacker CD, Harwell J, Yacoub E, Ugurbil K, Andersson J, Beckmann CF, Jenkinson M, Smith SM, Van Essen DC (2016) A multi-modal parcellation of human cerebral cortex. Nature. PMID: 27437579 http://doi.org/10.1038/nature18933], along with data of 337 unrelated healthy volunteers from the WashU-Minn Human Connectome Project (HCP) [https://www.humanconnectome.org/]. Resting-state fMRI data were used (across all 4 resting-state fMRI runs per subject). ICA+FIX was used for denoising and MSMAll for registration (along with standard HCP minimal preprocessing). Pearson correlations between time series were then calculated between all parcels/regions, and network communities were identified using the general Louvain algorithm.
@@ -29,7 +31,7 @@ The Glasser2016 parcels are available here: https://balsa.wustl.edu/sceneFile/sh
 
 ## QUICK START
 
-Open Connectome Workbench (https://www.humanconnectome.org/software/connectome-workbench). Load the ColeAnticevicNetPartition_v1.wb.spec file. Open the associated scene file (ColeAnticevicNetPartition_MainScene_v1.wb.scene) and select one of the scenes of interest. This will allow you to view the network partition and parcels.
+Open Connectome Workbench (https://www.humanconnectome.org/software/connectome-workbench). Load the ColeAnticevicNetPartition_v1.wb.spec file. Click the "Load Scenes" button, select one of the scenes of interest, and click the "Show" button. This will allow you to view the network partition and parcels.
 
 ### Caption for "cortex_Illustration_ColeLabNetpartition_v1.pdf":
 Left: Illustration of the network partition with the Glasser parcels. The colors correspond to the colors labeled in the network matrix (to the right).
@@ -50,14 +52,24 @@ wb_command -cifti-merge-dense COLUMN Q1-Q6_RelatedParcellation210.LR.CorticalAre
 - network_labelfile.txt - The labels for each network, along with color information (RGBA value).
 - parcel_network_assignments.mat - A vector of numbers, one per parcel, indicating which network that parcel was assigned to in the network partition. (Parcel order: L first, R second.)
 parcel_network_assignments.txt - Same as the previous file, but in text format.
-- Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Black.32k_fs_LR.border - The left-hemisphere borders of the Glasser parcels (useful for use with L_ColeLab_NetPartition_GlasserParcels.label.gii for visualizing the partition)
-- Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Black.32k_fs_LR.border - The right-hemisphere borders of the Glasser parcels (useful for use with R_ColeLab_NetPartition_GlasserParcels.label.gii for visualizing the partition)
+- Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Black.32k_fs_LR.border - The left-hemisphere borders of the Glasser parcels
+- Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Black.32k_fs_LR.border - The right-hemisphere borders of the Glasser parcels
 - R_ColeLab_NetPartition_GlasserParcels.label.gii - A GIFTI file that can be loaded into Connectome Workbench to visualize the partition (right hemisphere)
 - README.md - This file
+- S1200_AverageT1w_restore.nii.gz - The average of 1096 subjects from the HCP dataset, from the S1200 release. From HCP_S1200_GroupAvg_v1.zip. For more info visit http://www.humanconnectome.org/documentation/S1200 and https://www.humanconnectome.org/study/hcp-young-adult/article/s1200-group-average-data-release. Before using data from HCP you must agree to the HCP Open Access Data Use Terms at http://humanconnectome.org/data/data-use-terms/DataUseTerms-HCP-Open-Access-26Apr2013.pdf
+- S1200.L.inflated_MSMAll.32k_fs_LR.surf.gii - Left hemisphere inflated cortical surface
+- S1200.L.midthickness_MSMAll.32k_fs_LR.surf.gii - Left hemisphere midthickness cortical surface
+- S1200.L.pial_MSMAll.32k_fs_LR.surf.gii - Left hemisphere pial cortical surface
+- S1200.L.very_inflated_MSMAll.32k_fs_LR.surf.gii - Left hemisphere very inflated cortical surface
+- S1200.R.inflated_MSMAll.32k_fs_LR.surf.gii - Right hemisphere inflated cortical surface
+- S1200.R.midthickness_MSMAll.32k_fs_LR.surf.gii - Right hemisphere midthickness cortical surface
+- S1200.R.pial_MSMAll.32k_fs_LR.surf.gii - Right hemisphere pial cortical surface
+- S1200.R.very_inflated_MSMAll.32k_fs_LR.surf.gii - Right hemisphere very inflated cortical surface
+- S1200.sulc_MSMAll.32k_fs_LR.dscalar.nii -  Cortical surface sulcus pattern for visualization of cortical surface
 - *SeparateHemispheres* directory - Files with each hemisphere separate. This can be useful for ensuring that parcels from each hemisphere are in the correct order by loading each hemisphere separately (e.g., in MATLAB).
   - cortex_ColeAnticevic_NetPartition_GlasserParcels_v1_L.label.gii - Left hemisphere cortex-only partition
   - cortex_ColeAnticevic_NetPartition_GlasserParcels_v1_R.label.gii - Right hemisphere cortex-only partition
-	- CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_L.dlabel.nii - Left hemisphere cortex+subcortex network assignments for each parcel
-	- CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_R.dlabel.nii - Right hemisphere cortex+subcortex network assignments for each parcel
-	- CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_L.dlabel.nii - Left hemisphere cortex+subcortex list of parcels, with a label for each parcel.
-	- CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_R.dlabel.nii - Right hemisphere cortex+subcortex list of parcels, with a label for each parcel.
+  - CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_L.dlabel.nii - Left hemisphere cortex+subcortex network assignments for each parcel
+  - CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_R.dlabel.nii - Right hemisphere cortex+subcortex network assignments for each parcel
+  - CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_L.dlabel.nii - Left hemisphere cortex+subcortex list of parcels, with a label for each parcel.
+  - CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_R.dlabel.nii - Right hemisphere cortex+subcortex list of parcels, with a label for each parcel.

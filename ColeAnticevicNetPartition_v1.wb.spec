@@ -55,12 +55,12 @@
    <DataFile Structure="All"
              DataFileType="CONNECTIVITY_DENSE_LABEL"
              Selected="true">
-      subcortex_ColeAnticevic_NetPartition_parcels_v1_LR.dlabel.nii
+      CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_LR.dlabel.nii
    </DataFile>
    <DataFile Structure="All"
              DataFileType="CONNECTIVITY_DENSE_LABEL"
              Selected="true">
-      subcortex_ColeAnticevic_NetPartition_netassignments_v1_LR.dlabel.nii
+      CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_LR.dlabel.nii
    </DataFile>
    <DataFile Structure="All"
              DataFileType="CONNECTIVITY_DENSE_SCALAR"
