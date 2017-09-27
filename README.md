@@ -2,8 +2,12 @@
 
 ## Authors
 Marjolein Spronk, Jie Lisa Ji, Kaustubh Kulkarni, Grega Repovs, Alan Anticevic, and Michael W. Cole
+
 Cole Neurocognition Lab, http://www.colelab.org/
+
 Anticevic Lab, http://anticeviclab.yale.edu/
+
+## Version and acknowledgement info
 
 **Version 1**: July 19th, 2017
 
