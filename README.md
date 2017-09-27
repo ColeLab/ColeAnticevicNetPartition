@@ -1,9 +1,9 @@
 # Cole-Anticevic Labs Network Partition info
 
-## Authors: Marjolein Spronk <marjoleinspronk@gmail.com>, Jie Lisa Ji, Kaustubh Kulkarni <kulkarni.bio@gmail.com>, Grega Repovs, Alan Anticevic, and Michael W. Cole <mwcole@mwcole.net>
-
-## Cole Neurocognition Lab, http://www.colelab.org/
-## Anticevic Lab, http://anticeviclab.yale.edu/
+## Authors
+Marjolein Spronk, Jie Lisa Ji, Kaustubh Kulkarni, Grega Repovs, Alan Anticevic, and Michael W. Cole
+Cole Neurocognition Lab, http://www.colelab.org/
+Anticevic Lab, http://anticeviclab.yale.edu/
 
 **Version 1**: July 19th, 2017
 
