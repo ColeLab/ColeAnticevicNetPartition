@@ -50,12 +50,12 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 
 - ColeAnticevicNetPartition_v1.wb.spec - Main Connectome Workbench file, specifying network partition visualization files. Load this file with wb_view to visualize and interact with the network partition.
 - ColeAnticevicNetPartition_MainScene_v1.wb.scene - Connectome Workbench scene file.
-- cortex_community_order.mat - The order the Glasser parcels should be in to reveal the community structure identified by this network partition. Note that this file assumes you have the left hemisphere Glasser parcellation regions first, followed by the right hemisphere regions.
+- cortex_community_order.mat - The order the Glasser parcels should be in to reveal the community structure identified by this network partition, in MATLAB format. Note that this file assumes you have the left hemisphere Glasser parcellation regions first, followed by the right hemisphere regions.
 - cortex_community_order.txt - Same as the previous file, but in text format.
 - LoadParcellatedDataInMatlab_Example.m - Example of how to parcellate CIFTI fMRI data and load it into MATLAB
 - LoadParcellatedDataInMatlab_Example_cortexonly.m - Example of how to parcellate CIFTI fMRI data and load it into MATLAB, using cortical parcels only (no subcortical parcels)
 - network_labelfile.txt - The labels for each network, along with color information (RGBA value).
-- parcel_network_assignments.mat - A vector of numbers, one per parcel, indicating which network that parcel was assigned to in the network partition. (Parcel order: L first, R second.)
+- parcel_network_assignments.mat - A vector of numbers, one per parcel, indicating which network that parcel was assigned to in the network partition (in MATLAB format). (Parcel order: L first, R second.)
 - parcel_network_assignments.txt - Same as the previous file, but in text format.
 - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Black.32k_fs_LR.border - The left-hemisphere borders of the Glasser parcels
 - Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Black.32k_fs_LR.border - The right-hemisphere borders of the Glasser parcels
