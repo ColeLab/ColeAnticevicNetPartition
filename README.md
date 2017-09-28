@@ -7,7 +7,7 @@ Cole Neurocognition Lab, http://www.colelab.org/
 
 Anticevic Lab, http://anticeviclab.yale.edu/
 
-## Version and Acknowledgement info
+## Version Info and Acknowledgements
 
 **Version 1**: September 27th, 2017
 
