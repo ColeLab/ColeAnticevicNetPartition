@@ -40,7 +40,7 @@ Download and open Connectome Workbench (https://www.humanconnectome.org/software
 *Bottom Left*: Axial slices illustrating the subcortical extension of the cortical network partition. Each voxel was assigned to the network that it had the highest mean resting-state functional connectivity with. See [citation] for more information.
 *Bottom Right*: Coronal slices illustrating the subcortical extension of the cortical network partition.
 
-![Alt text](ColeAnticevicHumanNetPartition_animation.gif?raw=true "Animation of ColeAnticevicNetPartition_v1")
+![Alt text](images/ColeAnticevicHumanNetPartition_animation.gif?raw=true "Animation of ColeAnticevicNetPartition_v1")
 
 ## Included Files
 
