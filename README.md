@@ -30,18 +30,20 @@ The Glasser2016 parcels are available here: https://balsa.wustl.edu/sceneFile/sh
 
 ## Quick Start
 
-Download and open Connectome Workbench (https://www.humanconnectome.org/software/connectome-workbench). Load the ColeAnticevicNetPartition_v1.wb.spec file. Click the "Load Scenes" button, select one of the scenes of interest, and click the "Show" button. This will allow you to view the network partition and parcels.
+Download and open Connectome Workbench (https://www.humanconnectome.org/software/connectome-workbench). Load the ColeAnticevicNetPartition_v1.wb.spec file. Click the "Load Scenes" button, select one of the scenes of interest, and click the "Show" button. This will allow you to view and interact with the network partition and parcels.
 
 ## The Network Partition
 
 ![Alt text](cortex_Illustration_ColeAnticevicNetpartition_v1.jpg?raw=true "Illustration of ColeAnticevicNetPartition_v1")
 *Top Left*: Illustration of the network partition with the Glasser parcels. The colors correspond to the colors labeled in the network matrix (to the right).
 *Top Right*: Network matrix with Pearson correlation-based resting-state functional connectivity, sorted based on community affiliation according to the network partition. An fMRI dataset of 337 subjects from the WashU-Minn Human Connectome Project (HCP) was used (https://www.humanconnectome.org/), with 4 runs for each subject. See [citation] for more information.
-*Bottom Left*: Axial slices illustrating the subcortical extension of the cortical network partition. Each voxel was assigned to the network with the highest mean resting-state functional connectivity. See [citation] for more information.
+*Bottom Left*: Axial slices illustrating the subcortical extension of the cortical network partition. Each voxel was assigned to the network that it had the highest mean resting-state functional connectivity with. See [citation] for more information.
 *Bottom Right*: Coronal slices illustrating the subcortical extension of the cortical network partition.
 
 ## Included Files
 
+- ColeAnticevicNetPartition_v1.wb.spec - Main Connectome Workbench file, specifying network partition visualization files. Load this file with wb_view to visualize and interact with the network partition.
+- ColeAnticevicNetPartition_MainScene_v1.wb.scene - Connectome Workbench scene file.
 - cortex_community_order.mat - The order the Glasser parcels should be in to reveal the community structure identified by this network partition. Note that this file assumes you have the left hemisphere Glasser parcellation regions first, followed by the right hemisphere regions.
 - cortex_community_order.txt - Same as the previous file, but in text format.
 - cortex_Illustration_ColeLabNetpartition_v1.pdf - An illustration of the network partition.
