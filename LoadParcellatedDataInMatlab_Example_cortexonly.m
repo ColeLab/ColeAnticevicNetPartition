@@ -20,3 +20,8 @@ NUMPARCELS=360;
 tseriesMatSubj=zeros(NUMPARCELS,size(L_dat.cdata,2));
 tseriesMatSubj(1:180,:)=L_dat.cdata);
 tseriesMatSubj(181:end,:)=R_dat.cdata);
+
+%Loading other relevant files
+load('cortex_community_order.mat');
+netorder=readtable('network_labelfile.txt','ReadVariableNames',false);
+netassignments=table2array(readtable('cortex_parcel_network_assignments.txt','ReadVariableNames',false));
