@@ -26,20 +26,17 @@ The cortical network partition was extended into subcortex. Briefly, this was ac
 
 See the main paper reporting on this partition for more information [citation].
 
-
 The Glasser2016 parcels are available here: https://balsa.wustl.edu/sceneFile/show/lLMz
 
 ## QUICK START
 
 Open Connectome Workbench (https://www.humanconnectome.org/software/connectome-workbench). Load the ColeAnticevicNetPartition_v1.wb.spec file. Click the "Load Scenes" button, select one of the scenes of interest, and click the "Show" button. This will allow you to view the network partition and parcels.
 
-### Caption for "cortex_Illustration_ColeLabNetpartition_v1.pdf":
-Left: Illustration of the network partition with the Glasser parcels. The colors correspond to the colors labeled in the network matrix (to the right).
-Right: Network matrix with Pearson correlation-based functional connectivity, sorted based on community affiliation according to the network partition. A dataset of 337 subjects from the WashU-Minn Human Connectome Project (HCP) was used [https://www.humanconnectome.org/], with 4 runs for each subject. See [citation] for more information.
-
-### Caption for "cortex_Illustration_ColeLabNetpartition_splithalfvalidation_v1.pdf":
-Illustration of the split-half validation of the network partition. Network detection was repeated with two groups (N=168 and N=169) matched on age, gender, handedness and education. Analysis was done in exactly the same way as the analysis for the main partition. See [citation] for more information.
-
+![Alt text](cortex_Illustration_ColeAnticevicNetpartition_v1.jpg?raw=true "Illustration of ColeAnticevicNetPartition_v1")
+Top Left: Illustration of the network partition with the Glasser parcels. The colors correspond to the colors labeled in the network matrix (to the right).
+Top Right: Network matrix with Pearson correlation-based resting-state functional connectivity, sorted based on community affiliation according to the network partition. An fMRI dataset of 337 subjects from the WashU-Minn Human Connectome Project (HCP) was used (https://www.humanconnectome.org/), with 4 runs for each subject. See [citation] for more information.
+Bottom Left: Axial slices illustrating the subcortical extension of the cortical network partition. Each voxel was assigned to the network with the highest mean resting-state functional connectivity. See [citation] for more information.
+Bottom Right: Coronal slices illustrating the subcortical extension of the cortical network partition.
 
 ## INCLUDED FILES
 
@@ -49,6 +46,7 @@ wb_command -cifti-merge-dense COLUMN Q1-Q6_RelatedParcellation210.LR.CorticalAre
 - cortex_Illustration_ColeLabNetpartition_v1.pdf - An illustration of the network partition.
 - cortex_Illustration_ColeLabNetpartition_splithalfvalidation_v1.pdf - An illustration of the split half validation results.
 - L_ColeLab_NetPartition_GlasserParcels.label.gii - A GIFTI file that can be loaded into Connectome Workbench to visualize the partition (left hemisphere)
+- LoadParcellatedDataInMatlab_Example.m - Example of how to parcelate CIFTI fMRI data and load it into MATLAB
 - network_labelfile.txt - The labels for each network, along with color information (RGBA value).
 - parcel_network_assignments.mat - A vector of numbers, one per parcel, indicating which network that parcel was assigned to in the network partition. (Parcel order: L first, R second.)
 parcel_network_assignments.txt - Same as the previous file, but in text format.
@@ -66,7 +64,7 @@ parcel_network_assignments.txt - Same as the previous file, but in text format.
 - S1200.R.pial_MSMAll.32k_fs_LR.surf.gii - Right hemisphere pial cortical surface
 - S1200.R.very_inflated_MSMAll.32k_fs_LR.surf.gii - Right hemisphere very inflated cortical surface
 - S1200.sulc_MSMAll.32k_fs_LR.dscalar.nii -  Cortical surface sulcus pattern for visualization of cortical surface
-- *SeparateHemispheres* directory - Files with each hemisphere separate. This can be useful for ensuring that parcels from each hemisphere are in the correct order by loading each hemisphere separately (e.g., in MATLAB).
+- *SeparateHemispheres* directory - Files with each hemisphere separated. This can be useful for ensuring that parcels from each hemisphere are in the correct order by loading each hemisphere separately (e.g., in MATLAB).
   - cortex_ColeAnticevic_NetPartition_GlasserParcels_v1_L.label.gii - Left hemisphere cortex-only partition
   - cortex_ColeAnticevic_NetPartition_GlasserParcels_v1_R.label.gii - Right hemisphere cortex-only partition
   - CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_L.dlabel.nii - Left hemisphere cortex+subcortex network assignments for each parcel
