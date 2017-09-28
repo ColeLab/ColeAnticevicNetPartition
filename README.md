@@ -32,7 +32,7 @@ The Glasser2016 parcels are available here: https://balsa.wustl.edu/sceneFile/sh
 
 Download and open Connectome Workbench (https://www.humanconnectome.org/software/connectome-workbench). Load the ColeAnticevicNetPartition_v1.wb.spec file. Click the "Load Scenes" button, select one of the scenes of interest, and click the "Show" button. This will allow you to view the network partition and parcels.
 
-## THE Network Partition
+## The Network Partition
 
 ![Alt text](cortex_Illustration_ColeAnticevicNetpartition_v1.jpg?raw=true "Illustration of ColeAnticevicNetPartition_v1")
 *Top Left*: Illustration of the network partition with the Glasser parcels. The colors correspond to the colors labeled in the network matrix (to the right).
