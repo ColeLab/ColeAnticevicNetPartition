@@ -34,7 +34,7 @@ Download and open Connectome Workbench (https://www.humanconnectome.org/software
 
 ## The Network Partition
 
-![Alt text](cortex_Illustration_ColeAnticevicNetpartition_v1.jpg?raw=true "Illustration of ColeAnticevicNetPartition_v1")
+![Alt text](images/cortex_Illustration_ColeAnticevicNetpartition_v1.jpg?raw=true "Illustration of ColeAnticevicNetPartition_v1")
 *Top Left*: Illustration of the network partition with the Glasser parcels. The colors correspond to the colors labeled in the network matrix (to the right).
 *Top Right*: Network matrix with Pearson correlation-based resting-state functional connectivity, sorted based on community affiliation according to the network partition. An fMRI dataset of 337 subjects from the WashU-Minn Human Connectome Project (HCP) was used (https://www.humanconnectome.org/), with 4 runs for each subject. See [citation] for more information.
 *Bottom Left*: Axial slices illustrating the subcortical extension of the cortical network partition. Each voxel was assigned to the network that it had the highest mean resting-state functional connectivity with. See [citation] for more information.
@@ -48,9 +48,6 @@ Download and open Connectome Workbench (https://www.humanconnectome.org/software
 - ColeAnticevicNetPartition_MainScene_v1.wb.scene - Connectome Workbench scene file.
 - cortex_community_order.mat - The order the Glasser parcels should be in to reveal the community structure identified by this network partition. Note that this file assumes you have the left hemisphere Glasser parcellation regions first, followed by the right hemisphere regions.
 - cortex_community_order.txt - Same as the previous file, but in text format.
-- cortex_Illustration_ColeLabNetpartition_v1.pdf - An illustration of the network partition.
-- cortex_Illustration_ColeAnticevicNetpartition_v1.jpg - Same illustration in JPEG format.
-- cortex_Illustration_ColeLabNetpartition_splithalfvalidation_v1.pdf - An illustration of the split half validation results.
 - LoadParcellatedDataInMatlab_Example.m - Example of how to parcellate CIFTI fMRI data and load it into MATLAB
 - LoadParcellatedDataInMatlab_Example_cortexonly.m - Example of how to parcellate CIFTI fMRI data and load it into MATLAB, using cortical parcels only (no subcortical parcels)
 - network_labelfile.txt - The labels for each network, along with color information (RGBA value).
@@ -78,3 +75,8 @@ parcel_network_assignments.txt - Same as the previous file, but in text format.
   - CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_R.dlabel.nii - Right hemisphere cortex+subcortex list of parcels, with a label for each parcel.
   - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, left hemisphere
   - Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, right hemisphere
+- *images* directory
+  - cortex_Illustration_ColeLabNetpartition_v1.pdf - An illustration of the network partition.
+	- cortex_Illustration_ColeAnticevicNetpartition_v1.jpg - Same illustration in JPEG format.
+	- cortex_Illustration_ColeLabNetpartition_splithalfvalidation_v1.pdf - An illustration of the split half validation results.
+	- ColeAnticevicHumanNetPartition_animation.gif - An animated GIF illustrating the partition across transaxial slices of the S1200 HCP average T1 image.
