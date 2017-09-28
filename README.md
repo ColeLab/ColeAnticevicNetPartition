@@ -22,9 +22,9 @@ Data were provided by the Human Connectome Project, WU-Minn Consortium (Principa
 
 This network partition was created using the Glasser 2016 parcels [Glasser MF, Coalson TS, Robinson EC, Hacker CD, Harwell J, Yacoub E, Ugurbil K, Andersson J, Beckmann CF, Jenkinson M, Smith SM, Van Essen DC (2016) A multi-modal parcellation of human cerebral cortex. Nature. PMID: 27437579 http://doi.org/10.1038/nature18933], along with data of 337 unrelated healthy volunteers from the WashU-Minn Human Connectome Project (HCP) [https://www.humanconnectome.org/]. Resting-state fMRI data were used (across all 4 resting-state fMRI runs per subject). ICA+FIX was used for denoising and MSMAll for registration (along with standard HCP minimal preprocessing). Pearson correlations between time series were then calculated between all parcels/regions, and network communities were identified using the general Louvain algorithm.
 
-The cortical network partition was extended into subcortex. Briefly, this was accomplished by labeling each subcortical voxel with the cortical network with the strongest average Pearson correlation.
+The cortical network partition was extended into subcortex. This was accomplished by labeling each subcortical voxel with the cortical network with the strongest average Pearson correlation.
 
-See the main paper reporting on this partition for more information [citation].
+See the main publication reporting this partition for more information [citation].
 
 The Glasser2016 parcels are available here: https://balsa.wustl.edu/sceneFile/show/lLMz
 
@@ -80,7 +80,7 @@ parcel_network_assignments.txt - Same as the previous file, but in text format.
   - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, left hemisphere
   - Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, right hemisphere
 - *images* directory
-  - cortex_Illustration_ColeLabNetpartition_v1.pdf - An illustration of the network partition.
+  - cortex_Illustration_ColeAnticevicNetpartition_v1.pdf - An illustration of the network partition.
   - cortex_Illustration_ColeAnticevicNetpartition_v1.jpg - Same illustration in JPEG format.
-  - cortex_Illustration_ColeLabNetpartition_splithalfvalidation_v1.pdf - An illustration of the split half validation results.
+  - cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf - An illustration of the split half validation results.
   - ColeAnticevicHumanNetPartition_animation.gif - An animated GIF illustrating the partition across transaxial slices of the S1200 HCP average T1 image.
