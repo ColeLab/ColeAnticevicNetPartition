@@ -53,7 +53,7 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 - cortex_community_order.mat - The order the Glasser parcels should be in to reveal the community structure identified by this network partition, in MATLAB format. Note that this file assumes you have the left hemisphere Glasser parcellation regions first, followed by the right hemisphere regions.
 - cortex_community_order.txt - Same as the previous file, but in text format.
 - [LoadParcellatedDataInMatlab_Example.m](LoadParcellatedDataInMatlab_Example.m) - Example of how to parcellate CIFTI fMRI data and load it into MATLAB
-- LoadParcellatedDataInMatlab_Example_cortexonly.m - Example of how to parcellate CIFTI fMRI data and load it into MATLAB, using cortical parcels only (no subcortical parcels)
+- [LoadParcellatedDataInMatlab_Example_cortexonly.m](LoadParcellatedDataInMatlab_Example_cortexonly.m) - Example of how to parcellate CIFTI fMRI data and load it into MATLAB, using cortical parcels only (no subcortical parcels)
 - network_labelfile.txt - The labels for each network, along with color information (RGBA value).
 - parcel_network_assignments.mat - A vector of numbers, one per parcel, indicating which network that parcel was assigned to in the network partition (in MATLAB format). (Parcel order: L first, R second.)
 - parcel_network_assignments.txt - Same as the previous file, but in text format.
@@ -80,7 +80,7 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
   - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, left hemisphere
   - Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, right hemisphere
 - *images* directory
-  - cortex_Illustration_ColeAnticevicNetpartition_v1.pdf - An illustration of the network partition.
-  - cortex_Illustration_ColeAnticevicNetpartition_v1.jpg - Same illustration in JPEG format.
-  - cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf - An illustration of the split half validation results.
-  - ColeAnticevicHumanNetPartition_animation.gif - An animated GIF illustrating the partition across transaxial slices of the S1200 HCP average T1 image.
+  - [cortex_Illustration_ColeAnticevicNetpartition_v1.pdf](cortex_Illustration_ColeAnticevicNetpartition_v1.pdf) - An illustration of the network partition.
+  - [cortex_Illustration_ColeAnticevicNetpartition_v1.jpg](cortex_Illustration_ColeAnticevicNetpartition_v1.jpg) - Same illustration in JPEG format.
+  - [cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf](cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf) - An illustration of the split half validation results.
+  - [ColeAnticevicHumanNetPartition_animation.gif](ColeAnticevicHumanNetPartition_animation.gif) - An animated GIF illustrating the partition across transaxial slices of the S1200 HCP average T1 image.
