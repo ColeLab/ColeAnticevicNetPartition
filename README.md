@@ -80,7 +80,7 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
   - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, left hemisphere
   - Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, right hemisphere
 - *images* directory
-  - [cortex_Illustration_ColeAnticevicNetpartition_v1.pdf](cortex_Illustration_ColeAnticevicNetpartition_v1.pdf) - An illustration of the network partition.
-  - [cortex_Illustration_ColeAnticevicNetpartition_v1.jpg](cortex_Illustration_ColeAnticevicNetpartition_v1.jpg) - Same illustration in JPEG format.
-  - [cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf](cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf) - An illustration of the split half validation results.
-  - [ColeAnticevicHumanNetPartition_animation.gif](ColeAnticevicHumanNetPartition_animation.gif) - An animated GIF illustrating the partition across transaxial slices of the S1200 HCP average T1 image.
+  - [cortex_Illustration_ColeAnticevicNetpartition_v1.pdf](images/cortex_Illustration_ColeAnticevicNetpartition_v1.pdf) - An illustration of the network partition.
+  - [cortex_Illustration_ColeAnticevicNetpartition_v1.jpg](images/cortex_Illustration_ColeAnticevicNetpartition_v1.jpg) - Same illustration in JPEG format.
+  - [cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf](images/cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf) - An illustration of the split half validation results.
+  - [ColeAnticevicHumanNetPartition_animation.gif](images/ColeAnticevicHumanNetPartition_animation.gif) - An animated GIF illustrating the partition across transaxial slices of the S1200 HCP average T1 image.
