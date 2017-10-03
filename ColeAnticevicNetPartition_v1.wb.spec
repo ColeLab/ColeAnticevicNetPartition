@@ -72,6 +72,11 @@
              Selected="false">
       ColeAnticevicNetPartition_MainScene_v1.wb.scene
    </DataFile>
+   <DataFile Structure="All"
+             DataFileType="SCENE"
+             Selected="true">
+      ColeAnticevicNetPartition_OtherScenes_v1.wb.scene
+   </DataFile>
    <DataFile Structure="Invalid"
              DataFileType="VOLUME"
              Selected="true">
