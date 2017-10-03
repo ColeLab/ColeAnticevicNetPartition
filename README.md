@@ -49,7 +49,8 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 ## Included Files
 
 - ColeAnticevicNetPartition_v1.wb.spec - Main Connectome Workbench file, specifying network partition visualization files. Load this file with wb_view to visualize and interact with the network partition.
-- ColeAnticevicNetPartition_MainScene_v1.wb.scene - Connectome Workbench scene file.
+- ColeAnticevicNetPartition_MainScene_v1.wb.scene - The main Connectome Workbench scene file.
+- ColeAnticevicNetPartition_OtherScenes_v1.wb.scene - Alternative scenes for use with Connectome Workbench. These were separated from the main scene file to accommodate computers with low amounts of RAM.
 - cortex_community_order.mat - The order the Glasser parcels should be in to reveal the community structure identified by this network partition, in MATLAB format. Note that this file assumes you have the left hemisphere Glasser parcellation regions first, followed by the right hemisphere regions.
 - cortex_community_order.txt - Same as the previous file, but in text format.
 - [LoadParcellatedDataInMatlab_Example.m](LoadParcellatedDataInMatlab_Example.m) - Example of how to parcellate CIFTI fMRI data and load it into MATLAB
