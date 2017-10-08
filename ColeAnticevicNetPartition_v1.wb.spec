@@ -74,7 +74,7 @@
    </DataFile>
    <DataFile Structure="All"
              DataFileType="SCENE"
-             Selected="true">
+             Selected="false">
       ColeAnticevicNetPartition_OtherScenes_v1.wb.scene
    </DataFile>
    <DataFile Structure="Invalid"
