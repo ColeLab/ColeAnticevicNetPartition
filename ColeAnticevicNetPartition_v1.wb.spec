@@ -68,6 +68,11 @@
       S1200.sulc_MSMAll.32k_fs_LR.dscalar.nii
    </DataFile>
    <DataFile Structure="All"
+             DataFileType="CONNECTIVITY_PARCEL"
+             Selected="true">
+      data/cortex_fc_avg.pconn.nii
+   </DataFile>
+   <DataFile Structure="All"
              DataFileType="SCENE"
              Selected="false">
       ColeAnticevicNetPartition_MainScene_v1.wb.scene
