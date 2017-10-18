@@ -18,8 +18,7 @@ Posterior Multimodal
 10 177 89 40 255
 Dorsal-attention
 5 0 255 0 255
-Ventral Multimodal (Unknown1)
+Ventral Multimodal
 11 255 156 0 255
-Orbito-Affective (Unknown2)
+Orbito-Affective
 12 65 124 0 255
-
