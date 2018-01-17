@@ -9,11 +9,13 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
-**Version 1.0**: September 27th, 2017
+**Version 1.0.1**: January 17, 2018, added a version of the subcortical parcellation with global signal regression (GSR) applied as a preprocess step. This was included due to concern over extensive assignment of subcortical voxels to the visual networks (which GSR reduced). A version of the parcellation based on the conjunction of the GSR and non-GSR versions is included, for those who wish to only use subcortical voxels with assignments consistent with and without GSR.
+**Version 1.0**: September 27, 2017
+
 
 Available from: https://github.com/ColeLab/ColeAnticevicNetPartition/
 
-Cite as: tba
+Cite as: Spronk M, Ji JL, Kulkarni K, Repovs G, Anticevic A, Cole MW (Preprint) "Mapping the human brain's cortical-subcortical functional network organization". bioRxiv. http://doi.org/10.1101/206292
 and https://github.com/ColeLab/ColeAnticevicNetPartition/
 
 Data were provided by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University. This work was supported by the NIH via awards K99/R00-MH096801 (Cole), DP5-OD012109 (Anticevic), R01-MH109520 (Cole), R01-MH108590 (Anticevic), R01-AG055556 (Cole), and R01-MH112189 (Anticevic), as well as the Brain and Behavior Foundation (NARSAD) Independent Investigator grant (Anticevic) and ARRS J7-6829 (Repovs).
@@ -85,3 +87,7 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
   - [cortex_Illustration_ColeAnticevicNetpartition_v1.jpg](images/cortex_Illustration_ColeAnticevicNetpartition_v1.jpg) - Same illustration in JPEG format.
   - [cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf](images/cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf) - An illustration of the split half validation results.
   - [ColeAnticevicHumanNetPartition_animation.gif](images/ColeAnticevicHumanNetPartition_animation.gif) - An animated GIF illustrating the partition across transaxial slices of the S1200 HCP average T1 image.
+- *GSRSubcortex* directory
+	- final_LR_subcortex_atlas_subcortexGSR.dlabel.nii - Subcortical parcellation with global signal regression (GSR) applied to subcortical voxels as a preprocessing step. This was included due to concern over extensive assignment of subcortical voxels to the visual networks (which GSR reduced).
+	- subcortex_atlas_ConjunctionGSRnoGSR_n.dlabel.nii - A version of the parcellation based on the conjunction of the GSR and non-GSR versions, for those who wish to only use subcortical voxels with assignments consistent with and without GSR.
+	- subcortex_atlas_subcortexGSR.dlabel.nii - Subcortical parcellation with GSR applied to subcortical voxels as a preprocessing step.
