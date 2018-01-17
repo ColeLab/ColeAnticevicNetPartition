@@ -10,6 +10,7 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 ## Version Info and Acknowledgements
 
 **Version 1.0.1**: January 17, 2018, added a version of the subcortical parcellation with global signal regression (GSR) applied as a preprocess step. This was included due to concern over extensive assignment of subcortical voxels to the visual networks (which GSR reduced). A version of the parcellation based on the conjunction of the GSR and non-GSR versions is included, for those who wish to only use subcortical voxels with assignments consistent with and without GSR.
+
 **Version 1.0**: September 27, 2017
 
 
