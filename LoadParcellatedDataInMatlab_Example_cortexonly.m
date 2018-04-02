@@ -18,8 +18,8 @@ R_dat = ciftiopen(R_parcelTSFilename,'wb_command');
 
 NUMPARCELS=360;
 tseriesMatSubj=zeros(NUMPARCELS,size(L_dat.cdata,2));
-tseriesMatSubj(1:180,:)=L_dat.cdata);
-tseriesMatSubj(181:end,:)=R_dat.cdata);
+tseriesMatSubj(1:180,:)=L_dat.cdata;
+tseriesMatSubj(181:end,:)=R_dat.cdata;
 
 %Loading other relevant files
 load('cortex_community_order.mat');
