@@ -87,10 +87,10 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
   - CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_R.dlabel.nii - Right hemisphere cortex+subcortex list of parcels, with a label for each parcel.
   - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, left hemisphere
   - Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, right hemisphere
-	- subcortex_atlas_GSR_L.nii - Left hemisphere subcortex-only network partition
-	- subcortex_atlas_GSR_R.nii - Right hemisphere subcortex-only network partition
-	- subcortex_atlas_GSR_parcels_L.nii - Left hemisphere subcortex-only network parcellation (each parcel separated)
-	- subcortex_atlas_GSR_parcels_R.nii - Right hemisphere subcortex-only network parcellation (each parcel separated)
+  - subcortex_atlas_GSR_L.nii - Left hemisphere subcortex-only network partition
+  - subcortex_atlas_GSR_R.nii - Right hemisphere subcortex-only network partition
+  - subcortex_atlas_GSR_parcels_L.nii - Left hemisphere subcortex-only network parcellation (each parcel separated)
+  - subcortex_atlas_GSR_parcels_R.nii - Right hemisphere subcortex-only network parcellation (each parcel separated)
 - *images* directory
   - [Figure1.jpg](images/Figure1.jpg) - An illustration of the network partition.
   - [cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf](images/cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf) - An illustration of the split half validation results.
