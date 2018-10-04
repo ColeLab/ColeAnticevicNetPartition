@@ -69,18 +69,18 @@
    </DataFile>
    <DataFile Structure="All"
              DataFileType="CONNECTIVITY_PARCEL"
-             Selected="true">
+             Selected="false">
       data/cortex_fc_avg.pconn.nii
    </DataFile>
    <DataFile Structure="All"
              DataFileType="SCENE"
              Selected="false">
-      ColeAnticevicNetPartition_MainScene_v1.wb.scene
+      ColeAnticevicNetPartition_MainScene_v1pt02.wb.scene
    </DataFile>
    <DataFile Structure="All"
              DataFileType="SCENE"
              Selected="false">
-      ColeAnticevicNetPartition_OtherScenes_v1.wb.scene
+      ColeAnticevicNetPartition_OtherScenes_v1pt02.wb.scene
    </DataFile>
    <DataFile Structure="Invalid"
              DataFileType="VOLUME"

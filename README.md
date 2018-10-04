@@ -9,14 +9,16 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
-**Version 1.0.1**: January 17, 2018, added a version of the subcortical parcellation with global signal regression (GSR) applied as a preprocess step. This was included due to concern over extensive assignment of subcortical voxels to the visual networks (which GSR reduced). A version of the parcellation based on the conjunction of the GSR and non-GSR versions is included, for those who wish to only use subcortical voxels with assignments consistent with and without GSR.
+**Version 1.0.2**: October 3, 2018, changed subcortical parcellation with global signal regression (GSR) applied as a preprocessing to be the primary version. This is based on results reported in the final version of the article accepted for publication after peer review.
+
+**Version 1.0.1**: January 17, 2018, added a version of the subcortical parcellation with GSR applied as a preprocess step. This was included due to concern over extensive assignment of subcortical voxels to the visual networks (which GSR reduced). A version of the parcellation based on the conjunction of the GSR and non-GSR versions is included, for those who wish to only use subcortical voxels with assignments consistent with and without GSR.
 
 **Version 1.0**: September 27, 2017
 
 
 Available from: https://github.com/ColeLab/ColeAnticevicNetPartition/
 
-Cite as: Spronk M, Ji JL, Kulkarni K, Repovs G, Anticevic A, Cole MW (Preprint) "Mapping the human brain's cortical-subcortical functional network organization". bioRxiv. http://doi.org/10.1101/206292
+Cite as: Ji JL, Spronk M, Kulkarni K, Repovs G, Anticevic A, Cole MW (Preprint) "Mapping the human brain's cortical-subcortical functional network organization". bioRxiv. http://doi.org/10.1101/206292
 and https://github.com/ColeLab/ColeAnticevicNetPartition/
 
 Data were provided by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University. This work was supported by the NIH via awards K99/R00-MH096801 (Cole), DP5-OD012109 (Anticevic), R01-MH109520 (Cole), R01-MH108590 (Anticevic), R01-AG055556 (Cole), and R01-MH112189 (Anticevic), as well as the Brain and Behavior Foundation (NARSAD) Independent Investigator grant (Anticevic) and ARRS J7-6829 (Repovs).
@@ -37,11 +39,11 @@ Download and open Connectome Workbench (https://www.humanconnectome.org/software
 
 ## The Network Partition
 
-![Alt text](images/cortex_Illustration_ColeAnticevicNetpartition_v1.jpg?raw=true "Illustration of ColeAnticevicNetPartition_v1")
+![Alt text](images/Figure1.jpg?raw=true "Illustration of ColeAnticevicNetPartition_v1")
 *Top Left*: Illustration of the network partition with the Glasser parcels. The colors correspond to the colors labeled in the network matrix (to the right).
-*Top Right*: Network matrix with Pearson correlation-based resting-state functional connectivity, sorted based on community affiliation according to the network partition. An fMRI dataset of 337 subjects from the WashU-Minn Human Connectome Project (HCP) was used (https://www.humanconnectome.org/), with 4 runs for each subject. See [citation] for more information.
-*Bottom Left*: Axial slices illustrating the subcortical extension of the cortical network partition. Each voxel was assigned to the network that it had the highest mean resting-state functional connectivity with. See [citation] for more information.
-*Bottom Right*: Coronal slices illustrating the subcortical extension of the cortical network partition.
+*Top Right*: Axial slices illustrating the subcortical extension of the cortical network partition. Each voxel was assigned to the network that it had the highest mean resting-state functional connectivity with. See [citation] for more information.
+*Bottom Left*: Network matrix with Pearson correlation-based resting-state functional connectivity, sorted based on community affiliation according to the network partition. An fMRI dataset of 337 subjects from the WashU-Minn Human Connectome Project (HCP) was used (https://www.humanconnectome.org/), with 4 runs for each subject. See [citation] for more information.
+*Bottom Right*: Same as bottom left, but now also including subcortical parcels.
 
 
 ![Alt text](images/ColeAnticevicHumanNetPartition_animation.gif?raw=true "Animation of ColeAnticevicNetPartition_v1")
@@ -52,8 +54,8 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 ## Included Files
 
 - ColeAnticevicNetPartition_v1.wb.spec - Main Connectome Workbench file, specifying network partition visualization files. Load this file with wb_view to visualize and interact with the network partition.
-- ColeAnticevicNetPartition_MainScene_v1.wb.scene - The main Connectome Workbench scene file.
-- ColeAnticevicNetPartition_OtherScenes_v1.wb.scene - Alternative scenes for use with Connectome Workbench. These were separated from the main scene file to accommodate computers with low amounts of RAM.
+- ColeAnticevicNetPartition_MainScene_v1pt02.wb.scene - The main Connectome Workbench scene file.
+- ColeAnticevicNetPartition_OtherScenes_v1pt02.wb.scene - Alternative scenes for use with Connectome Workbench. These were separated from the main scene file to accommodate computers with low amounts of RAM.
 - cortex_community_order.mat - The order the Glasser parcels should be in to reveal the community structure identified by this network partition, in MATLAB format. Note that this file assumes you have the left hemisphere Glasser parcellation regions first, followed by the right hemisphere regions.
 - cortex_community_order.txt - Same as the previous file, but in text format.
 - [LoadParcellatedDataInMatlab_Example.m](LoadParcellatedDataInMatlab_Example.m) - Example of how to parcellate CIFTI fMRI data and load it into MATLAB
