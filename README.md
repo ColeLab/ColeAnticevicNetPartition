@@ -96,3 +96,7 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 	-  CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_LR.dlabel.nii- Same as above, but at the network assignment level (rather than level of individual parcels).
 	- subcortex_atlas_ConjunctionGSRnoGSR_n.dlabel.nii - A version of the parcellation based on the conjunction of the GSR and non-GSR versions, for those who wish to only use subcortical voxels with assignments consistent with and without GSR.
 	- *SeparateHemispheres* directory - Files with hemispheres separated, for subcortical parcellation without global signal regression (GSR) applied to subcortical voxels as a preprocessing step.
+- *data* directory
+	- cortex_fc_avg.pconn.nii - Correlation matrix used for creating the cortical partition. Formatted for visualization in Workbench.
+	- meanFCMatSorted.csv - Same correlation matrix, formatted as a comma separated value file.
+	- meanFCMatSorted.mat - Same correlation matrix, formatted as a MATLAB file.
