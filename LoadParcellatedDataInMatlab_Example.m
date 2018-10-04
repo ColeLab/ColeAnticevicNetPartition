@@ -1,5 +1,5 @@
 
-%Setting the parcel files to be the 648 parcels (cortical + subcortical)
+%Setting the parcel files to be the 718 parcels (cortical + subcortical)
 L_parcelCIFTIFile='SeparateHemispheres/CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_L.dlabel.nii';
 R_parcelCIFTIFile='SeparateHemispheres/CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_R.dlabel.nii';
 
@@ -16,7 +16,7 @@ eval(['!wb_command -cifti-parcellate ' inputFile ' ' R_parcelCIFTIFile ' COLUMN 
 L_dat = ciftiopen(L_parcelTSFilename,'wb_command');
 R_dat = ciftiopen(R_parcelTSFilename,'wb_command');
 
-NUMPARCELS=648;
+NUMPARCELS=718;
 tseriesMatSubj=zeros(NUMPARCELS,size(L_dat.cdata,2));
-tseriesMatSubj(1:324,:)=L_dat.cdata);
-tseriesMatSubj(325:end,:)=R_dat.cdata);
+tseriesMatSubj(1:359,:)=L_dat.cdata);
+tseriesMatSubj(359:end,:)=R_dat.cdata);

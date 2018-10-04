@@ -1,7 +1,7 @@
-# The Cole-Anticevic Human Brain Network Partition
+# The Cole-Anticevic Brain-wide Network Partition (CAB-NP)
 
 ## Authors
-Marjolein Spronk, Jie Lisa Ji, Kaustubh Kulkarni, Grega Repovs, Alan Anticevic, and Michael W. Cole
+Jie Lisa Ji, Marjolein Spronk, Kaustubh Kulkarni, Grega Repovs, Alan Anticevic, and Michael W. Cole
 
 Cole Neurocognition Lab, http://www.colelab.org/
 
@@ -9,7 +9,7 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
-**Version 1.0.2**: October 3, 2018, changed subcortical parcellation with global signal regression (GSR) applied as a preprocessing to be the primary version. This is based on results reported in the final version of the article accepted for publication after peer review.
+**Version 1.0.2**: October 4, 2018, changed subcortical parcellation with global signal regression (GSR) applied as a preprocessing to be the primary version. This is based on results reported in the final version of the article accepted for publication after peer review.
 
 **Version 1.0.1**: January 17, 2018, added a version of the subcortical parcellation with GSR applied as a preprocess step. This was included due to concern over extensive assignment of subcortical voxels to the visual networks (which GSR reduced). A version of the parcellation based on the conjunction of the GSR and non-GSR versions is included, for those who wish to only use subcortical voxels with assignments consistent with and without GSR.
 
@@ -18,8 +18,10 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 Available from: https://github.com/ColeLab/ColeAnticevicNetPartition/
 
-Cite as: Ji JL, Spronk M, Kulkarni K, Repovs G, Anticevic A, Cole MW (Preprint) "Mapping the human brain's cortical-subcortical functional network organization". bioRxiv. http://doi.org/10.1101/206292
+Cite as: Ji JL, Spronk M, Kulkarni K, Repovs G, Anticevic A, Cole MW (In Press) "Mapping the human brain's cortical-subcortical functional network organization". NeuroImage. https://doi.org/10.1016/j.neuroimage.2018.10.006
 and https://github.com/ColeLab/ColeAnticevicNetPartition/
+
+Scientific article also available as a bioRxiv preprint: http://doi.org/10.1101/206292
 
 Data were provided by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University. This work was supported by the NIH via awards K99/R00-MH096801 (Cole), DP5-OD012109 (Anticevic), R01-MH109520 (Cole), R01-MH108590 (Anticevic), R01-AG055556 (Cole), and R01-MH112189 (Anticevic), as well as the Brain and Behavior Foundation (NARSAD) Independent Investigator grant (Anticevic) and ARRS J7-6829 (Repovs).
 
@@ -86,11 +88,11 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
   - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, left hemisphere
   - Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, right hemisphere
 - *images* directory
-  - [cortex_Illustration_ColeAnticevicNetpartition_v1.pdf](images/cortex_Illustration_ColeAnticevicNetpartition_v1.pdf) - An illustration of the network partition.
-  - [cortex_Illustration_ColeAnticevicNetpartition_v1.jpg](images/cortex_Illustration_ColeAnticevicNetpartition_v1.jpg) - Same illustration in JPEG format.
+  - [Figure1.jpg](images/Figure1.jpg) - An illustration of the network partition.
   - [cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf](images/cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf) - An illustration of the split half validation results.
   - [ColeAnticevicHumanNetPartition_animation.gif](images/ColeAnticevicHumanNetPartition_animation.gif) - An animated GIF illustrating the partition across transaxial slices of the S1200 HCP average T1 image.
-- *GSRSubcortex* directory
-	- final_LR_subcortex_atlas_subcortexGSR.dlabel.nii - Subcortical parcellation with global signal regression (GSR) applied to subcortical voxels as a preprocessing step. This was included due to concern over extensive assignment of subcortical voxels to the visual networks (which GSR reduced).
+- *NoGSRSubcortex* directory
+	- CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_LR.dlabel.nii - Subcortical parcellation without global signal regression (GSR) applied to subcortical voxels as a preprocessing step. Cortex is also included.
+	-  CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_LR.dlabel.nii- Same as above, but at the network assignment level (rather than level of individual parcels).
 	- subcortex_atlas_ConjunctionGSRnoGSR_n.dlabel.nii - A version of the parcellation based on the conjunction of the GSR and non-GSR versions, for those who wish to only use subcortical voxels with assignments consistent with and without GSR.
-	- subcortex_atlas_subcortexGSR.dlabel.nii - Subcortical parcellation with GSR applied to subcortical voxels as a preprocessing step.
+	- *SeparateHemispheres* directory - Files with hemispheres separated, for subcortical parcellation without global signal regression (GSR) applied to subcortical voxels as a preprocessing step.
