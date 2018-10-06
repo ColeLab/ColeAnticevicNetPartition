@@ -75,12 +75,12 @@
    <DataFile Structure="All"
              DataFileType="SCENE"
              Selected="false">
-      ColeAnticevicNetPartition_MainScene_v1pt02.wb.scene
+      ColeAnticevicNetPartition_MainScene_v1.wb.scene
    </DataFile>
    <DataFile Structure="All"
              DataFileType="SCENE"
-             Selected="false">
-      ColeAnticevicNetPartition_OtherScenes_v1pt02.wb.scene
+             Selected="true">
+      ColeAnticevicNetPartition_OtherScenes_v1.wb.scene
    </DataFile>
    <DataFile Structure="Invalid"
              DataFileType="VOLUME"
