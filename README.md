@@ -9,6 +9,8 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
+**Version 1.0.3**: October 7, 2018, filenames changed for simplicity and consistency.
+
 **Version 1.0.2**: October 4, 2018, changed subcortical parcellation with global signal regression (GSR) applied as a preprocessing to be the primary version. This is based on results reported in the final version of the article accepted for publication after peer review.
 
 **Version 1.0.1**: January 17, 2018, added a version of the subcortical parcellation with GSR applied as a preprocess step. This was included due to concern over extensive assignment of subcortical voxels to the visual networks (which GSR reduced). A version of the parcellation based on the conjunction of the GSR and non-GSR versions is included, for those who wish to only use subcortical voxels with assignments consistent with and without GSR.
@@ -37,7 +39,7 @@ The Glasser2016 parcels are available here: https://balsa.wustl.edu/sceneFile/sh
 
 ## Quick Start
 
-Download and open Connectome Workbench (https://www.humanconnectome.org/software/connectome-workbench). Load the ColeAnticevicNetPartition_v1.wb.spec file. Click the "Load Scenes" button, select one of the scenes of interest, and click the "Show" button. This will allow you to view and interact with the network partition and parcels.
+Download and open Connectome Workbench (https://www.humanconnectome.org/software/connectome-workbench). Load the ColeAnticevicNetPartition.wb.spec file. Click the "Load Scenes" button, select one of the scenes of interest, and click the "Show" button. This will allow you to view and interact with the network partition and parcels.
 
 ## The Network Partition
 
@@ -55,9 +57,9 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 
 ## Included Files
 
-- ColeAnticevicNetPartition_v1.wb.spec - Main Connectome Workbench file, specifying network partition visualization files. Load this file with wb_view to visualize and interact with the network partition.
-- ColeAnticevicNetPartition_MainScene_v1pt02.wb.scene - The main Connectome Workbench scene file.
-- ColeAnticevicNetPartition_OtherScenes_v1pt02.wb.scene - Alternative scenes for use with Connectome Workbench. These were separated from the main scene file to accommodate computers with low amounts of RAM.
+- ColeAnticevicNetPartition.wb.spec - Main Connectome Workbench file, specifying network partition visualization files. Load this file with wb_view to visualize and interact with the network partition.
+- ColeAnticevicNetPartition_MainScene.wb.scene - The main Connectome Workbench scene file.
+- ColeAnticevicNetPartition_OtherScenes.wb.scene - Alternative scenes for use with Connectome Workbench. These were separated from the main scene file to accommodate computers with low amounts of RAM.
 - cortex_community_order.mat - The order the Glasser parcels should be in to reveal the community structure identified by this network partition, in MATLAB format. Note that this file assumes you have the left hemisphere Glasser parcellation regions first, followed by the right hemisphere regions.
 - cortex_community_order.txt - Same as the previous file, but in text format.
 - [LoadParcellatedDataInMatlab_Example.m](LoadParcellatedDataInMatlab_Example.m) - Example of how to parcellate CIFTI fMRI data and load it into MATLAB
@@ -65,6 +67,8 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 - network_labelfile.txt - The labels for each network, along with color information (RGBA value).
 - cortex_parcel_network_assignments.mat - A vector of numbers, one per parcel, indicating which network that parcel was assigned to in the network partition (in MATLAB format). (Parcel order: L first, R second.)
 - cortex_parcel_network_assignments.txt - Same as the previous file, but in text format.
+-  CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_netassignments_LR.dlabel.nii - Cortex + subcortex (whole-brain) network assignments. Global signal regression (GSR) applied to subcortical voxels as a preprocessing step.
+- CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii - Same as above, but at the parcel level (rather than the network assignment level).
 - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Black.32k_fs_LR.border - The left-hemisphere borders of the Glasser parcels
 - Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Black.32k_fs_LR.border - The right-hemisphere borders of the Glasser parcels
 - README.md - This file
@@ -79,12 +83,12 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 - S1200.R.very_inflated_MSMAll.32k_fs_LR.surf.gii - Right hemisphere very inflated cortical surface
 - S1200.sulc_MSMAll.32k_fs_LR.dscalar.nii -  Cortical surface sulcus pattern for visualization of cortical surface
 - *SeparateHemispheres* directory - Files with each hemisphere separated. This can be useful for ensuring that parcels from each hemisphere are in the correct order by loading each hemisphere separately (e.g., in MATLAB).
-  - cortex_ColeAnticevic_NetPartition_GlasserParcels_v1_L.label.gii - Left hemisphere cortex-only partition
-  - cortex_ColeAnticevic_NetPartition_GlasserParcels_v1_R.label.gii - Right hemisphere cortex-only partition
-  - CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_L.dlabel.nii - Left hemisphere cortex+subcortex network assignments for each parcel
-  - CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_R.dlabel.nii - Right hemisphere cortex+subcortex network assignments for each parcel
-  - CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_L.dlabel.nii - Left hemisphere cortex+subcortex list of parcels, with a label for each parcel.
-  - CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_R.dlabel.nii - Right hemisphere cortex+subcortex list of parcels, with a label for each parcel.
+  - cortex_ColeAnticevic_NetPartition_GlasserParcels_L.label.gii - Left hemisphere cortex-only partition
+  - cortex_ColeAnticevic_NetPartition_GlasserParcels_R.label.gii - Right hemisphere cortex-only partition
+  - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_netassignments_L.dlabel.nii - Left hemisphere cortex+subcortex network assignments for each parcel
+  - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_netassignments_R.dlabel.nii - Right hemisphere cortex+subcortex network assignments for each parcel
+  - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_L.dlabel.nii - Left hemisphere cortex+subcortex list of parcels, with a label for each parcel.
+  - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_R.dlabel.nii - Right hemisphere cortex+subcortex list of parcels, with a label for each parcel.
   - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, left hemisphere
   - Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, right hemisphere
   - subcortex_atlas_GSR_L.nii - Left hemisphere subcortex-only network partition
@@ -96,8 +100,8 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
   - [cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf](images/cortex_Illustration_ColeAnticevicNetpartition_splithalfvalidation_v1.pdf) - An illustration of the split half validation results.
   - [ColeAnticevicHumanNetPartition_animation.gif](images/ColeAnticevicHumanNetPartition_animation.gif) - An animated GIF illustrating the partition across transaxial slices of the S1200 HCP average T1 image.
 - *NoGSRSubcortex* directory
-	- CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_LR.dlabel.nii - Subcortical parcellation without global signal regression (GSR) applied to subcortical voxels as a preprocessing step. Cortex is also included.
-	-  CortexSubcortex_ColeAnticevic_NetPartition_netassignments_v1_LR.dlabel.nii- Same as above, but at the network assignment level (rather than level of individual parcels).
+	- CortexSubcortex_ColeAnticevic_NetPartition_woSubcorGSR_parcels_LR.dlabel.nii - Subcortical parcellation without global signal regression (GSR) applied to subcortical voxels as a preprocessing step. Cortex is also included.
+	-  CortexSubcortex_ColeAnticevic_NetPartition_woSubcorGSR_netassignments_LR.dlabel.nii - Same as above, but at the network assignment level (rather than level of individual parcels).
 	- subcortex_atlas_ConjunctionGSRnoGSR_n.dlabel.nii - A version of the parcellation based on the conjunction of the GSR and non-GSR versions, for those who wish to only use subcortical voxels with assignments consistent with and without GSR.
 	- *SeparateHemispheres* directory - Files with hemispheres separated, for subcortical parcellation without global signal regression (GSR) applied to subcortical voxels as a preprocessing step.
 - *data* directory

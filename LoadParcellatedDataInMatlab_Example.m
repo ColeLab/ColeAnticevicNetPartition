@@ -1,7 +1,7 @@
 
 %Setting the parcel files to be the 718 parcels (cortical + subcortical)
-L_parcelCIFTIFile='SeparateHemispheres/CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_L.dlabel.nii';
-R_parcelCIFTIFile='SeparateHemispheres/CortexSubcortex_ColeAnticevic_NetPartition_parcels_v1_R.dlabel.nii';
+L_parcelCIFTIFile='SeparateHemispheres/CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_L.dlabel.nii';
+R_parcelCIFTIFile='SeparateHemispheres/CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_R.dlabel.nii';
 
 L_parcelTSFilename='Output_Atlas.L.Parcels.32k_fs_LR.ptseries.nii';
 R_parcelTSFilename='Output_Atlas.R.Parcels.32k_fs_LR.ptseries.nii';
