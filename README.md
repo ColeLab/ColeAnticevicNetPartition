@@ -9,6 +9,8 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
+**Version 1.0.4**: October 9, 2018, added cortex+subcortex parcel order files and dscalar versions of CIFTI files.
+
 **Version 1.0.3**: October 7, 2018, filenames changed for simplicity and consistency.
 
 **Version 1.0.2**: October 4, 2018, changed subcortical parcellation with global signal regression (GSR) applied as a preprocessing to be the primary version. This is based on results reported in the final version of the article accepted for publication after peer review.
@@ -62,10 +64,14 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 - ColeAnticevicNetPartition_OtherScenes.wb.scene - Alternative scenes for use with Connectome Workbench. These were separated from the main scene file to accommodate computers with low amounts of RAM.
 - cortex_community_order.mat - The order the Glasser parcels should be in to reveal the community structure identified by this network partition, in MATLAB format. Note that this file assumes you have the left hemisphere Glasser parcellation regions first, followed by the right hemisphere regions.
 - cortex_community_order.txt - Same as the previous file, but in text format.
+- cortex_subcortex_community_order.mat - The order of all 718 regions (cortex+subcortex), sorted by network affiliation, in MATLAB format.
+- cortex_subcortex_community_order.txt - The order of all 718 regions (cortex+subcortex), sorted by network affiliation, in plain text format.
+- cortex_subcortex_parcel_network_assignments.mat - A vector of numbers, one per cortex+subcortex parcel, indicating which network that parcel was assigned to in the network partition (in MATLAB format). (Parcel order: L first, R second.)
+- cortex_subcortex_parcel_network_assignments.txt - Same as the previous file, but in text format.
 - [LoadParcellatedDataInMatlab_Example.m](LoadParcellatedDataInMatlab_Example.m) - Example of how to parcellate CIFTI fMRI data and load it into MATLAB
 - [LoadParcellatedDataInMatlab_Example_cortexonly.m](LoadParcellatedDataInMatlab_Example_cortexonly.m) - Example of how to parcellate CIFTI fMRI data and load it into MATLAB, using cortical parcels only (no subcortical parcels)
 - network_labelfile.txt - The labels for each network, along with color information (RGBA value).
-- cortex_parcel_network_assignments.mat - A vector of numbers, one per parcel, indicating which network that parcel was assigned to in the network partition (in MATLAB format). (Parcel order: L first, R second.)
+- cortex_parcel_network_assignments.mat - A vector of numbers, one per cortical parcel, indicating which network that parcel was assigned to in the network partition (in MATLAB format). (Parcel order: L first, R second.)
 - cortex_parcel_network_assignments.txt - Same as the previous file, but in text format.
 -  CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_netassignments_LR.dlabel.nii - Cortex + subcortex (whole-brain) network assignments. Global signal regression (GSR) applied to subcortical voxels as a preprocessing step.
 - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii - Same as above, but at the parcel level (rather than the network assignment level).
@@ -103,8 +109,13 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 	- CortexSubcortex_ColeAnticevic_NetPartition_woSubcorGSR_parcels_LR.dlabel.nii - Subcortical parcellation without global signal regression (GSR) applied to subcortical voxels as a preprocessing step. Cortex is also included.
 	-  CortexSubcortex_ColeAnticevic_NetPartition_woSubcorGSR_netassignments_LR.dlabel.nii - Same as above, but at the network assignment level (rather than level of individual parcels).
 	- subcortex_atlas_ConjunctionGSRnoGSR_n.dlabel.nii - A version of the parcellation based on the conjunction of the GSR and non-GSR versions, for those who wish to only use subcortical voxels with assignments consistent with and without GSR.
+	- CortexSubcortex_ColeAnticevic_NetPartition_woSubcorGSR_netassignments_LR.dscalar.nii - Dscalar version of network assignments.
+	- CortexSubcortex_ColeAnticevic_NetPartition_woSubcorGSR_parcels_LR.dscalar.nii - Dscalar version of parcel-level network assignments.
 	- *SeparateHemispheres* directory - Files with hemispheres separated, for subcortical parcellation without global signal regression (GSR) applied to subcortical voxels as a preprocessing step.
 - *data* directory
 	- cortex_fc_avg.pconn.nii - Correlation matrix used for creating the cortical partition. Formatted for visualization in Workbench.
 	- meanFCMatSorted.csv - Same correlation matrix, formatted as a comma separated value file.
 	- meanFCMatSorted.mat - Same correlation matrix, formatted as a MATLAB file.
+	- cortex_gamma1.295_partition_before_reassignment.mat - Network assignment for the cortical parcels prior to the clean up (reassignment) step.
+	- CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_netassignments_LR.dscalar.nii - Dscalar version of network assignments.
+	- CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dscalar.nii - Dscalar version of parcel-level network assignments.

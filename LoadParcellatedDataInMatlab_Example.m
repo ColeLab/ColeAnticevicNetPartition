@@ -20,3 +20,13 @@ NUMPARCELS=718;
 tseriesMatSubj=zeros(NUMPARCELS,size(L_dat.cdata,2));
 tseriesMatSubj(1:359,:)=L_dat.cdata);
 tseriesMatSubj(359:end,:)=R_dat.cdata);
+
+%Loading other relevant files
+load('cortex_subcortex_community_order.mat');
+netorder=readtable('network_labelfile.txt','ReadVariableNames',false);
+netassignments=table2array(readtable('cortex_subcortex_parcel_network_assignments.txt','ReadVariableNames',false));
+
+%Computing Pearson correlation-based functional connectivity and vizualizing the data (assuming preprocessing has already been done)
+FCmat=corrcoef(tseriesMatSubj');
+FCmat_sorted=FCmat(indsort,indsort);
+figure;imagesc(FCmat_sorted)
