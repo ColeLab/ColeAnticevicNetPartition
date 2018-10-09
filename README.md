@@ -43,7 +43,7 @@ Software versions this release was tested on:
 Connectome Workbench 1.3.2
 MATLAB R2014b
 
-Many features are available in Connectome Workbench's wb_command for interfacing with CAB-NP.
+Many features are available in Connectome Workbench's wb_command (https://www.humanconnectome.org/software/workbench-command) for interfacing with CAB-NP.
 
 
 ## Quick Start

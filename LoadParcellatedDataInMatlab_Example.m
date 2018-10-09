@@ -5,7 +5,6 @@ addpath('code/')
 addpath('code/gifti-1.6/')
 
 %Setting the parcel files to be the 718 parcels (cortical + subcortical)
-%(loading hemispheres separately to ensure correct parcel order)
 parcelCIFTIFile='CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii';
 
 parcelTSFilename='Output_Atlas_CortSubcort.Parcels.LR.ptseries.nii';
