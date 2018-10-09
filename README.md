@@ -39,6 +39,13 @@ See the main publication reporting this partition for more information: Ji JL, S
 
 The Glasser2016 parcels are available here: https://balsa.wustl.edu/sceneFile/show/lLMz
 
+Software versions this release was tested on:
+Connectome Workbench 1.3.2
+MATLAB R2014b
+
+Many features are available in Connectome Workbench's wb_command for interfacing with CAB-NP.
+
+
 ## Quick Start
 
 Download and open Connectome Workbench (https://www.humanconnectome.org/software/connectome-workbench). Load the ColeAnticevicNetPartition.wb.spec file. Click the "Load Scenes" button, select one of the scenes of interest, and click the "Show" button. This will allow you to view and interact with the network partition and parcels.

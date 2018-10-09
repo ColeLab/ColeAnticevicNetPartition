@@ -1,25 +1,26 @@
+%Make sure to have this in your shell path:
+%wb_command
+
+addpath('code/')
+addpath('code/gifti-1.6/')
 
 %Setting the parcel files to be the 718 parcels (cortical + subcortical)
-L_parcelCIFTIFile='SeparateHemispheres/CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_L.dlabel.nii';
-R_parcelCIFTIFile='SeparateHemispheres/CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_R.dlabel.nii';
+%(loading hemispheres separately to ensure correct parcel order)
+parcelCIFTIFile='CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii';
 
-L_parcelTSFilename='Output_Atlas.L.Parcels.32k_fs_LR.ptseries.nii';
-R_parcelTSFilename='Output_Atlas.R.Parcels.32k_fs_LR.ptseries.nii';
+parcelTSFilename='Output_Atlas_CortSubcort.Parcels.LR.ptseries.nii';
 
 %Set this to be your input fMRI data CIFTI file
-inputFile='Run1_fMRIData_Atlas.dtseries.nii';
+%inputFile='Run1_fMRIData_Atlas.dtseries.nii';
+inputFile='../test/rfMRI_REST1_LR_Atlas_MSMAll.dtseries.nii';
 
-eval(['!wb_command -cifti-parcellate ' inputFile ' ' L_parcelCIFTIFile ' COLUMN ' L_parcelTSFilename ' -method MEAN'])
-eval(['!wb_command -cifti-parcellate ' inputFile ' ' R_parcelCIFTIFile ' COLUMN ' R_parcelTSFilename ' -method MEAN'])
+eval(['!wb_command -cifti-parcellate ' inputFile ' ' parcelCIFTIFile ' COLUMN ' parcelTSFilename ' -method MEAN'])
 
 %Load parcellated data (requires the ciftiopen function from the HCP website, FieldTrip)
-L_dat = ciftiopen(L_parcelTSFilename,'wb_command');
-R_dat = ciftiopen(R_parcelTSFilename,'wb_command');
+LR_dat = ciftiopen(parcelTSFilename,'wb_command');
 
 NUMPARCELS=718;
-tseriesMatSubj=zeros(NUMPARCELS,size(L_dat.cdata,2));
-tseriesMatSubj(1:359,:)=L_dat.cdata);
-tseriesMatSubj(359:end,:)=R_dat.cdata);
+tseriesMatSubj=LR_dat.cdata;
 
 %Loading other relevant files
 load('cortex_subcortex_community_order.mat');
