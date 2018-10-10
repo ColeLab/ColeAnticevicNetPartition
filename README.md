@@ -9,6 +9,8 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
+**Version 1.0.5**: October 10, 2018, first public release.
+
 **Version 1.0.4**: October 9, 2018, added cortex+subcortex parcel order files and dscalar versions of CIFTI files.
 
 **Version 1.0.3**: October 7, 2018, filenames changed for simplicity and consistency.
