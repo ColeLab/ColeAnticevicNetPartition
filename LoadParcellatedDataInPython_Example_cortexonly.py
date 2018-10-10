@@ -1,6 +1,7 @@
 # Taku Ito
 # 10/09/2018
 
+# Script requires workbench (wb_command), in addition to the below python packages
 # Load dependencies
 import numpy as np
 import nibabel as nib
@@ -17,18 +18,16 @@ R_parcelTSFilename='Output_Atlas.R.Parcels.32k_fs_LR.ptseries.nii'
 #Set this to be your input fMRI data CIFTI file
 inputFile='Run1_fMRIData_Atlas.dtseries.nii';
 
-# Load in dlabel files
-L_parcels = np.squeeze(nib.load(L_parcelCIFTIFile).get_data())
-R_parcels = np.squeeze(nib.load(R_parcelCIFTIFile).get_data())
-
-# Load in dense array time series
+# Load in dense array time series using nibabel
 dtseries = np.squeeze(nib.load(inputFile).get_data())
 # Find time points
 n_timepoints = dtseries.shape[1]
 
+# Parcellate dense time series using wb_command for left and right hemispheres
 os.system('wb_command -cifti-parcellate ' + inputFile + ' ' + L_parcelCIFTIFile + ' COLUMN ' + L_parcelTSFilename + ' -method MEAN')
 os.system('wb_command -cifti-parcellate ' + inputFile + ' ' + R_parcelCIFTIFile + ' COLUMN ' + R_parcelTSFilename + ' -method MEAN')
 
+# Load in parcellated data using nibabel
 l_parcellated = np.squeeze(nib.load(L_parcelTSFilename).get_data()).T
 r_parcellated = np.squeeze(nib.load(R_parcelTSFilename).get_data()).T
 
@@ -52,3 +51,5 @@ plt.imshow(FCMat_sorted,origin='lower',cmap='gray_r')
 plt.colorbar(fraction=0.046)
 plt.title('Sorted FC Matrix',fontsize=24)
 plt.show()
+
+tseriesMatSubj = lr_parcellated
