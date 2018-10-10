@@ -79,6 +79,7 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 - cortex_subcortex_parcel_network_assignments.txt - Same as the previous file, but in text format.
 - [LoadParcellatedDataInMatlab_Example.m](LoadParcellatedDataInMatlab_Example.m) - Example of how to parcellate CIFTI fMRI data and load it into MATLAB
 - [LoadParcellatedDataInMatlab_Example_cortexonly.m](LoadParcellatedDataInMatlab_Example_cortexonly.m) - Example of how to parcellate CIFTI fMRI data and load it into MATLAB, using cortical parcels only (no subcortical parcels)
+- [LoadParcellatedDataInPython_Example.py](LoadParcellatedDataInPython_Example.py) - Example of how to parcellate CIFTI fMRI data and load it into Python
 - [LoadParcellatedDataInPython_Example_cortexonly.py](LoadParcellatedDataInPython_Example_cortexonly.py) - Example of how to parcellate CIFTI fMRI data and load it into Python, using cortical parcels only (no subcortical parcels)
 - network_labelfile.txt - The labels for each network, along with color information (RGBA value).
 - cortex_parcel_network_assignments.mat - A vector of numbers, one per cortical parcel, indicating which network that parcel was assigned to in the network partition (in MATLAB format). (Parcel order: L first, R second.)
