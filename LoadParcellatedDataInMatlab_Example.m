@@ -10,8 +10,7 @@ parcelCIFTIFile='CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_L
 parcelTSFilename='Output_Atlas_CortSubcort.Parcels.LR.ptseries.nii';
 
 %Set this to be your input fMRI data CIFTI file
-%inputFile='Run1_fMRIData_Atlas.dtseries.nii';
-inputFile='rfMRI_REST1_LR_Atlas_MSMAll.dtseries.nii';
+inputFile='HCPS1200MSMAll/100206/MNINonLinear/Results/rfMRI_REST1_LR/rfMRI_REST1_LR_Atlas_MSMAll.dtseries.nii';
 
 eval(['!wb_command -cifti-parcellate ' inputFile ' ' parcelCIFTIFile ' COLUMN ' parcelTSFilename ' -method MEAN'])
 

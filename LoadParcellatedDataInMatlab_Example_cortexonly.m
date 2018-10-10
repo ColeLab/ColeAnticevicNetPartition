@@ -14,7 +14,7 @@ L_parcelTSFilename='Output_Atlas.L.Parcels.32k_fs_LR.ptseries.nii';
 R_parcelTSFilename='Output_Atlas.R.Parcels.32k_fs_LR.ptseries.nii';
 
 %Set this to be your input fMRI data CIFTI file
-inputFile='rfMRI_REST1_LR_Atlas_MSMAll.dtseries.nii';
+inputFile='HCPS1200MSMAll/100206/MNINonLinear/Results/rfMRI_REST1_LR/rfMRI_REST1_LR_Atlas_MSMAll.dtseries.nii';
 
 eval(['!wb_command -cifti-parcellate ' inputFile ' ' L_parcelCIFTIFile ' COLUMN ' L_parcelTSFilename ' -method MEAN'])
 eval(['!wb_command -cifti-parcellate ' inputFile ' ' R_parcelCIFTIFile ' COLUMN ' R_parcelTSFilename ' -method MEAN'])
