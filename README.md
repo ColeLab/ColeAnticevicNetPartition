@@ -41,7 +41,7 @@ See the main publication reporting this partition for more information: Ji JL, S
 
 The Glasser2016 parcels are available here: https://balsa.wustl.edu/study/show/RVVG
 
-More info on the cortical parcels is available in the main and supplemental documents released as part of the main Glasser2016 publication:
+More info on the cortical parcels is available in the main and supplemental documents released as part of the main Glasser2016 publication (e.g., details in Table 1 of the Supplementary Neuroanatomical Results document, page 81):
 Glasser, Matthew F, Timothy S Coalson, Emma C Robinson, Carl D Hacker, John Harwell, Essa Yacoub, Kamil Ugurbil, et al. (2016). "A Multi-Modal Parcellation of Human Cerebral Cortex." Nature, July. doi:10.1038/nature18933. http://www.nature.com/doifinder/10.1038/nature18933
 
 Software versions this release was tested on:
