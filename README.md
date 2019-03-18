@@ -39,7 +39,10 @@ The cortical network partition was extended into subcortex. This was accomplishe
 
 See the main publication reporting this partition for more information: Ji JL, Spronk M, Kulkarni K, Repovs G, Anticevic A, Cole MW (In Press) "Mapping the human brain's cortical-subcortical functional network organization". NeuroImage. https://doi.org/10.1016/j.neuroimage.2018.10.006 [Open access preprint: http://doi.org/10.1101/206292]
 
-The Glasser2016 parcels are available here: https://balsa.wustl.edu/sceneFile/show/lLMz
+The Glasser2016 parcels are available here: https://balsa.wustl.edu/study/show/RVVG
+
+More info on the cortical parcels is available in the main and supplemental documents released as part of the main Glasser2016 publication:
+Glasser, Matthew F, Timothy S Coalson, Emma C Robinson, Carl D Hacker, John Harwell, Essa Yacoub, Kamil Ugurbil, et al. (2016). "A Multi-Modal Parcellation of Human Cerebral Cortex." Nature, July. doi:10.1038/nature18933. http://www.nature.com/doifinder/10.1038/nature18933
 
 Software versions this release was tested on:
 Connectome Workbench 1.3.2
