@@ -22,10 +22,10 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 **Version 1.0.0**: September 27, 2017
 
 
-Available from: https://github.com/ColeLab/ColeAnticevicNetPartition/
-
 **Cite as**: Ji JL, Spronk M, Kulkarni K, Repovs G, Anticevic A, Cole MW (In Press) "Mapping the human brain's cortical-subcortical functional network organization". NeuroImage. https://doi.org/10.1016/j.neuroimage.2018.10.006
 and https://github.com/ColeLab/ColeAnticevicNetPartition/
+
+Interactive versions of the figures from the paper available here: https://balsa.wustl.edu/study/show/wZML
 
 Scientific article also available as a bioRxiv preprint: http://doi.org/10.1101/206292
 
