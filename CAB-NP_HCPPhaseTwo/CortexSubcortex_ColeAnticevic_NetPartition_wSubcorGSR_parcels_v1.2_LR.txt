@@ -1,0 +1,1436 @@
+Visual1-3_LCtx
+1 0 0 255 255
+Visual2-27_LCtx
+2 100 0 255 255
+Visual2-28_LCtx
+3 100 0 255 255
+Visual2-29_LCtx
+4 100 0 255 255
+Visual2-30_LCtx
+5 100 0 255 255
+Visual2-31_LCtx
+6 100 0 255 255
+Visual2-32_LCtx
+7 100 0 255 255
+Somatomotor-20_LCtx
+8 0 255 255 255
+Somatomotor-21_LCtx
+9 0 255 255 255
+Cingulo-Opercular-29_LCtx
+10 153 0 153 255
+Dorsal-Attention-11_LCtx
+11 0 255 0 255
+Language-9_LCtx
+12 0 155 155 255
+Visual2-33_LCtx
+13 100 0 255 255
+Frontoparietal-28_LCtx
+14 255 255 0 255
+Frontoparietal-29_LCtx
+15 255 255 0 255
+Visual2-34_LCtx
+16 100 0 255 255
+Visual2-35_LCtx
+17 100 0 255 255
+Visual2-36_LCtx
+18 100 0 255 255
+Visual2-37_LCtx
+19 100 0 255 255
+Visual2-38_LCtx
+20 100 0 255 255
+Visual2-39_LCtx
+21 100 0 255 255
+Visual2-40_LCtx
+22 100 0 255 255
+Visual2-41_LCtx
+23 100 0 255 255
+Auditory-7_LCtx
+24 250 62 251 255
+Language-10_LCtx
+25 0 155 155 255
+Language-11_LCtx
+26 0 155 155 255
+Posterior-Multimodal-4_LCtx
+27 177 89 40 255
+Language-12_LCtx
+28 0 155 155 255
+Frontoparietal-30_LCtx
+29 255 255 0 255
+Default-37_LCtx
+30 255 0 0 255
+Default-38_LCtx
+31 255 0 0 255
+Default-39_LCtx
+32 255 0 0 255
+Default-40_LCtx
+33 255 0 0 255
+Default-41_LCtx
+34 255 0 0 255
+Default-42_LCtx
+35 255 0 0 255
+Somatomotor-22_LCtx
+36 0 255 255 255
+Cingulo-Opercular-30_LCtx
+37 153 0 153 255
+Cingulo-Opercular-31_LCtx
+38 153 0 153 255
+Somatomotor-23_LCtx
+39 0 255 255 255
+Somatomotor-24_LCtx
+40 0 255 255 255
+Somatomotor-25_LCtx
+41 0 255 255 255
+Somatomotor-26_LCtx
+42 0 255 255 255
+Cingulo-Opercular-32_LCtx
+43 153 0 153 255
+Cingulo-Opercular-33_LCtx
+44 153 0 153 255
+Cingulo-Opercular-34_LCtx
+45 153 0 153 255
+Dorsal-Attention-12_LCtx
+46 0 255 0 255
+Somatomotor-27_LCtx
+47 0 255 255 255
+Visual2-42_LCtx
+48 100 0 255 255
+Visual2-43_LCtx
+49 100 0 255 255
+Dorsal-Attention-13_LCtx
+50 0 255 0 255
+Somatomotor-28_LCtx
+51 0 255 255 255
+Somatomotor-29_LCtx
+52 0 255 255 255
+Somatomotor-30_LCtx
+53 0 255 255 255
+Somatomotor-31_LCtx
+54 0 255 255 255
+Somatomotor-32_LCtx
+55 0 255 255 255
+Somatomotor-33_LCtx
+56 0 255 255 255
+Cingulo-Opercular-35_LCtx
+57 153 0 153 255
+Cingulo-Opercular-36_LCtx
+58 153 0 153 255
+Cingulo-Opercular-37_LCtx
+59 153 0 153 255
+Cingulo-Opercular-38_LCtx
+60 153 0 153 255
+Default-43_LCtx
+61 255 0 0 255
+Default-44_LCtx
+62 255 0 0 255
+Frontoparietal-31_LCtx
+63 255 255 0 255
+Default-45_LCtx
+64 255 0 0 255
+Default-46_LCtx
+65 255 0 0 255
+Default-47_LCtx
+66 255 0 0 255
+Default-48_LCtx
+67 255 0 0 255
+Default-49_LCtx
+68 255 0 0 255
+Default-50_LCtx
+69 255 0 0 255
+Default-51_LCtx
+70 255 0 0 255
+Default-52_LCtx
+71 255 0 0 255
+Default-53_LCtx
+72 255 0 0 255
+Frontoparietal-32_LCtx
+73 255 255 0 255
+Language-13_LCtx
+74 0 155 155 255
+Language-14_LCtx
+75 0 155 155 255
+Default-54_LCtx
+76 255 0 0 255
+Frontoparietal-33_LCtx
+77 255 255 0 255
+Cingulo-Opercular-39_LCtx
+78 153 0 153 255
+Language-15_LCtx
+79 0 155 155 255
+Frontoparietal-34_LCtx
+80 255 255 0 255
+Language-16_LCtx
+81 0 155 155 255
+Frontoparietal-35_LCtx
+82 255 255 0 255
+Frontoparietal-36_LCtx
+83 255 255 0 255
+Cingulo-Opercular-40_LCtx
+84 153 0 153 255
+Frontoparietal-37_LCtx
+85 255 255 0 255
+Cingulo-Opercular-41_LCtx
+86 153 0 153 255
+Default-55_LCtx
+87 255 0 0 255
+Default-56_LCtx
+88 255 0 0 255
+Frontoparietal-38_LCtx
+89 255 255 0 255
+Default-57_LCtx
+90 255 0 0 255
+Frontoparietal-39_LCtx
+91 255 255 0 255
+Frontoparietal-40_LCtx
+92 255 255 0 255
+Default-58_LCtx
+93 255 0 0 255
+Default-59_LCtx
+94 255 0 0 255
+Dorsal-Attention-14_LCtx
+95 0 255 0 255
+Dorsal-Attention-15_LCtx
+96 0 255 0 255
+Frontoparietal-41_LCtx
+97 255 255 0 255
+Frontoparietal-42_LCtx
+98 255 255 0 255
+Cingulo-Opercular-42_LCtx
+99 153 0 153 255
+Somatomotor-34_LCtx
+100 0 255 255 255
+Somatomotor-35_LCtx
+101 0 255 255 255
+Somatomotor-36_LCtx
+102 0 255 255 255
+Auditory-8_LCtx
+103 250 62 251 255
+Auditory-9_LCtx
+104 250 62 251 255
+Cingulo-Opercular-43_LCtx
+105 153 0 153 255
+Cingulo-Opercular-44_LCtx
+106 153 0 153 255
+Auditory-10_LCtx
+107 250 62 251 255
+Cingulo-Opercular-45_LCtx
+108 153 0 153 255
+Cingulo-Opercular-46_LCtx
+109 153 0 153 255
+Orbito-Affective-3_LCtx
+110 65 125 0 168
+Frontoparietal-43_LCtx
+111 255 255 0 255
+Orbito-Affective-4_LCtx
+112 65 125 0 168
+Cingulo-Opercular-47_LCtx
+113 153 0 153 255
+Cingulo-Opercular-48_LCtx
+114 153 0 153 255
+Somatomotor-37_LCtx
+115 0 255 255 255
+Dorsal-Attention-16_LCtx
+116 0 255 0 255
+Dorsal-Attention-17_LCtx
+117 0 255 0 255
+Default-60_LCtx
+118 255 0 0 255
+Default-61_LCtx
+119 255 0 0 255
+Default-62_LCtx
+120 255 0 0 255
+Visual1-4_LCtx
+121 0 0 255 255
+Ventral-Multimodal-2_LCtx
+122 255 157 0 255
+Language-17_LCtx
+123 0 155 155 255
+Auditory-11_LCtx
+124 250 62 251 255
+Language-18_LCtx
+125 0 155 155 255
+Default-63_LCtx
+126 255 0 0 255
+Dorsal-Attention-18_LCtx
+127 0 255 0 255
+Language-19_LCtx
+128 0 155 155 255
+Language-20_LCtx
+129 0 155 155 255
+Default-64_LCtx
+130 255 0 0 255
+Default-65_LCtx
+131 255 0 0 255
+Default-66_LCtx
+132 255 0 0 255
+Frontoparietal-44_LCtx
+133 255 255 0 255
+Default-67_LCtx
+134 255 0 0 255
+Ventral-Multimodal-3_LCtx
+135 255 157 0 255
+Dorsal-Attention-19_LCtx
+136 0 255 0 255
+Dorsal-Attention-20_LCtx
+137 0 255 0 255
+Visual2-44_LCtx
+138 100 0 255 255
+Language-21_LCtx
+139 0 155 155 255
+Posterior-Multimodal-5_LCtx
+140 177 89 40 255
+Posterior-Multimodal-6_LCtx
+141 177 89 40 255
+Visual1-5_LCtx
+142 0 0 255 255
+Dorsal-Attention-21_LCtx
+143 0 255 0 255
+Frontoparietal-45_LCtx
+144 255 255 0 255
+Frontoparietal-46_LCtx
+145 255 255 0 255
+Dorsal-Attention-22_LCtx
+146 0 255 0 255
+Cingulo-Opercular-49_LCtx
+147 153 0 153 255
+Cingulo-Opercular-50_LCtx
+148 153 0 153 255
+Frontoparietal-47_LCtx
+149 255 255 0 255
+Default-68_LCtx
+150 255 0 0 255
+Default-69_LCtx
+151 255 0 0 255
+Visual2-45_LCtx
+152 100 0 255 255
+Visual2-46_LCtx
+153 100 0 255 255
+Visual2-47_LCtx
+154 100 0 255 255
+Default-70_LCtx
+155 255 0 0 255
+Visual2-48_LCtx
+156 100 0 255 255
+Visual2-49_LCtx
+157 100 0 255 255
+Visual2-50_LCtx
+158 100 0 255 255
+Visual2-51_LCtx
+159 100 0 255 255
+Visual2-52_LCtx
+160 100 0 255 255
+Default-71_LCtx
+161 255 0 0 255
+Default-72_LCtx
+162 255 0 0 255
+Visual2-53_LCtx
+163 100 0 255 255
+Default-73_LCtx
+164 255 0 0 255
+Default-74_LCtx
+165 255 0 0 255
+Orbito-Affective-5_LCtx
+166 65 125 0 168
+Cingulo-Opercular-51_LCtx
+167 153 0 153 255
+Somatomotor-38_LCtx
+168 0 255 255 255
+Cingulo-Opercular-52_LCtx
+169 153 0 153 255
+Frontoparietal-48_LCtx
+170 255 255 0 255
+Frontoparietal-49_LCtx
+171 255 255 0 255
+Language-22_LCtx
+172 0 155 155 255
+Auditory-12_LCtx
+173 250 62 251 255
+Auditory-13_LCtx
+174 250 62 251 255
+Auditory-14_LCtx
+175 250 62 251 255
+Default-75_LCtx
+176 255 0 0 255
+Default-76_LCtx
+177 255 0 0 255
+Cingulo-Opercular-53_LCtx
+178 153 0 153 255
+Cingulo-Opercular-54_LCtx
+179 153 0 153 255
+Cingulo-Opercular-55_LCtx
+180 153 0 153 255
+Visual_RCtx
+181 0 0 255 255
+Visual2_RCtx
+182 100 0 255 255
+Visual2-1_RCtx
+183 100 0 255 255
+Visual2-2_RCtx
+184 100 0 255 255
+Visual2-3_RCtx
+185 100 0 255 255
+Visual2-4_RCtx
+186 100 0 255 255
+Visual2-5_RCtx
+187 100 0 255 255
+Somatomotor_RCtx
+188 0 255 255 255
+Somatomotor-1_RCtx
+189 0 255 255 255
+Cingulo-Opercular_RCtx
+190 153 0 153 255
+Cingulo-Opercular-1_RCtx
+191 153 0 153 255
+Language_RCtx
+192 0 155 155 255
+Visual2-6_RCtx
+193 100 0 255 255
+Frontoparietal_RCtx
+194 255 255 0 255
+Frontoparietal-1_RCtx
+195 255 255 0 255
+Visual2-7_RCtx
+196 100 0 255 255
+Visual2-8_RCtx
+197 100 0 255 255
+Visual2-9_RCtx
+198 100 0 255 255
+Visual2-10_RCtx
+199 100 0 255 255
+Visual2-11_RCtx
+200 100 0 255 255
+Visual2-12_RCtx
+201 100 0 255 255
+Visual2-13_RCtx
+202 100 0 255 255
+Visual2-14_RCtx
+203 100 0 255 255
+Auditory_RCtx
+204 250 62 251 255
+Cingulo-Opercular-2_RCtx
+205 153 0 153 255
+Language-1_RCtx
+206 0 155 155 255
+Posterior-Multimodal_RCtx
+207 177 89 40 255
+Posterior-Multimodal-1_RCtx
+208 177 89 40 255
+Frontoparietal-2_RCtx
+209 255 255 0 255
+Default_RCtx
+210 255 0 0 255
+Default-1_RCtx
+211 255 0 0 255
+Default-2_RCtx
+212 255 0 0 255
+Default-3_RCtx
+213 255 0 0 255
+Default-4_RCtx
+214 255 0 0 255
+Default-5_RCtx
+215 255 0 0 255
+Somatomotor-2_RCtx
+216 0 255 255 255
+Cingulo-Opercular-3_RCtx
+217 153 0 153 255
+Cingulo-Opercular-4_RCtx
+218 153 0 153 255
+Somatomotor-3_RCtx
+219 0 255 255 255
+Somatomotor-4_RCtx
+220 0 255 255 255
+Somatomotor-5_RCtx
+221 0 255 255 255
+Somatomotor-6_RCtx
+222 0 255 255 255
+Cingulo-Opercular-5_RCtx
+223 153 0 153 255
+Cingulo-Opercular-6_RCtx
+224 153 0 153 255
+Cingulo-Opercular-7_RCtx
+225 153 0 153 255
+Dorsal-Attention_RCtx
+226 0 255 0 255
+Somatomotor-7_RCtx
+227 0 255 255 255
+Visual2-15_RCtx
+228 100 0 255 255
+Visual2-16_RCtx
+229 100 0 255 255
+Dorsal-Attention-1_RCtx
+230 0 255 0 255
+Somatomotor-8_RCtx
+231 0 255 255 255
+Somatomotor-9_RCtx
+232 0 255 255 255
+Somatomotor-10_RCtx
+233 0 255 255 255
+Somatomotor-11_RCtx
+234 0 255 255 255
+Somatomotor-12_RCtx
+235 0 255 255 255
+Somatomotor-13_RCtx
+236 0 255 255 255
+Cingulo-Opercular-8_RCtx
+237 153 0 153 255
+Frontoparietal-3_RCtx
+238 255 255 0 255
+Cingulo-Opercular-9_RCtx
+239 153 0 153 255
+Cingulo-Opercular-10_RCtx
+240 153 0 153 255
+Default-6_RCtx
+241 255 0 0 255
+Frontoparietal-4_RCtx
+242 255 255 0 255
+Frontoparietal-5_RCtx
+243 255 255 0 255
+Default-7_RCtx
+244 255 0 0 255
+Default-8_RCtx
+245 255 0 0 255
+Default-9_RCtx
+246 255 0 0 255
+Default-10_RCtx
+247 255 0 0 255
+Default-11_RCtx
+248 255 0 0 255
+Default-12_RCtx
+249 255 0 0 255
+Default-13_RCtx
+250 255 0 0 255
+Default-14_RCtx
+251 255 0 0 255
+Default-15_RCtx
+252 255 0 0 255
+Frontoparietal-6_RCtx
+253 255 255 0 255
+Frontoparietal-7_RCtx
+254 255 255 0 255
+Language-2_RCtx
+255 0 155 155 255
+Default-16_RCtx
+256 255 0 0 255
+Frontoparietal-8_RCtx
+257 255 255 0 255
+Cingulo-Opercular-11_RCtx
+258 153 0 153 255
+Language-3_RCtx
+259 0 155 155 255
+Frontoparietal-9_RCtx
+260 255 255 0 255
+Frontoparietal-10_RCtx
+261 255 255 0 255
+Cingulo-Opercular-12_RCtx
+262 153 0 153 255
+Frontoparietal-11_RCtx
+263 255 255 0 255
+Cingulo-Opercular-13_RCtx
+264 153 0 153 255
+Frontoparietal-12_RCtx
+265 255 255 0 255
+Cingulo-Opercular-14_RCtx
+266 153 0 153 255
+Default-17_RCtx
+267 255 0 0 255
+Default-18_RCtx
+268 255 0 0 255
+Frontoparietal-13_RCtx
+269 255 255 0 255
+Default-19_RCtx
+270 255 0 0 255
+Frontoparietal-14_RCtx
+271 255 255 0 255
+Frontoparietal-15_RCtx
+272 255 255 0 255
+Frontoparietal-16_RCtx
+273 255 255 0 255
+Default-20_RCtx
+274 255 0 0 255
+Dorsal-Attention-2_RCtx
+275 0 255 0 255
+Dorsal-Attention-3_RCtx
+276 0 255 0 255
+Frontoparietal-17_RCtx
+277 255 255 0 255
+Frontoparietal-18_RCtx
+278 255 255 0 255
+Cingulo-Opercular-15_RCtx
+279 153 0 153 255
+Somatomotor-14_RCtx
+280 0 255 255 255
+Somatomotor-15_RCtx
+281 0 255 255 255
+Somatomotor-16_RCtx
+282 0 255 255 255
+Auditory-1_RCtx
+283 250 62 251 255
+Somatomotor-17_RCtx
+284 0 255 255 255
+Cingulo-Opercular-16_RCtx
+285 153 0 153 255
+Cingulo-Opercular-17_RCtx
+286 153 0 153 255
+Auditory-2_RCtx
+287 250 62 251 255
+Cingulo-Opercular-18_RCtx
+288 153 0 153 255
+Cingulo-Opercular-19_RCtx
+289 153 0 153 255
+Orbito-Affective_RCtx
+290 65 125 0 168
+Frontoparietal-19_RCtx
+291 255 255 0 255
+Orbito-Affective-1_RCtx
+292 65 125 0 168
+Cingulo-Opercular-20_RCtx
+293 153 0 153 255
+Cingulo-Opercular-21_RCtx
+294 153 0 153 255
+Somatomotor-18_RCtx
+295 0 255 255 255
+Dorsal-Attention-4_RCtx
+296 0 255 0 255
+Dorsal-Attention-5_RCtx
+297 0 255 0 255
+Default-21_RCtx
+298 255 0 0 255
+Default-22_RCtx
+299 255 0 0 255
+Default-23_RCtx
+300 255 0 0 255
+Visual1-1_RCtx
+301 0 0 255 255
+Ventral-Multimodal_RCtx
+302 255 157 0 255
+Language-4_RCtx
+303 0 155 155 255
+Auditory-3_RCtx
+304 250 62 251 255
+Language-5_RCtx
+305 0 155 155 255
+Default-24_RCtx
+306 255 0 0 255
+Dorsal-Attention-6_RCtx
+307 0 255 0 255
+Default-25_RCtx
+308 255 0 0 255
+Language-6_RCtx
+309 0 155 155 255
+Default-26_RCtx
+310 255 0 0 255
+Default-27_RCtx
+311 255 0 0 255
+Default-28_RCtx
+312 255 0 0 255
+Frontoparietal-20_RCtx
+313 255 255 0 255
+Default-29_RCtx
+314 255 0 0 255
+Ventral-Multimodal-1_RCtx
+315 255 157 0 255
+Dorsal-Attention-7_RCtx
+316 0 255 0 255
+Dorsal-Attention-8_RCtx
+317 0 255 0 255
+Visual2-17_RCtx
+318 100 0 255 255
+Language-7_RCtx
+319 0 155 155 255
+Posterior-Multimodal-2_RCtx
+320 177 89 40 255
+Posterior-Multimodal-3_RCtx
+321 177 89 40 255
+Visual1-2_RCtx
+322 0 0 255 255
+Dorsal-Attention-9_RCtx
+323 0 255 0 255
+Frontoparietal-21_RCtx
+324 255 255 0 255
+Frontoparietal-22_RCtx
+325 255 255 0 255
+Dorsal-Attention-10_RCtx
+326 0 255 0 255
+Cingulo-Opercular-22_RCtx
+327 153 0 153 255
+Cingulo-Opercular-23_RCtx
+328 153 0 153 255
+Frontoparietal-23_RCtx
+329 255 255 0 255
+Default-30_RCtx
+330 255 0 0 255
+Default-31_RCtx
+331 255 0 0 255
+Visual2-18_RCtx
+332 100 0 255 255
+Visual2-19_RCtx
+333 100 0 255 255
+Visual2-20_RCtx
+334 100 0 255 255
+Default-32_RCtx
+335 255 0 0 255
+Visual2-21_RCtx
+336 100 0 255 255
+Visual2-22_RCtx
+337 100 0 255 255
+Visual2-23_RCtx
+338 100 0 255 255
+Visual2-24_RCtx
+339 100 0 255 255
+Visual2-25_RCtx
+340 100 0 255 255
+Default-33_RCtx
+341 255 0 0 255
+Frontoparietal-24_RCtx
+342 255 255 0 255
+Visual2-26_RCtx
+343 100 0 255 255
+Default-34_RCtx
+344 255 0 0 255
+Default-35_RCtx
+345 255 0 0 255
+Orbito-Affective-2_RCtx
+346 65 125 0 168
+Cingulo-Opercular-24_RCtx
+347 153 0 153 255
+Somatomotor-19_RCtx
+348 0 255 255 255
+Cingulo-Opercular-25_RCtx
+349 153 0 153 255
+Frontoparietal-25_RCtx
+350 255 255 0 255
+Frontoparietal-26_RCtx
+351 255 255 0 255
+Language-8_RCtx
+352 0 155 155 255
+Auditory-4_RCtx
+353 250 62 251 255
+Auditory-5_RCtx
+354 250 62 251 255
+Auditory-6_RCtx
+355 250 62 251 255
+Default-36_RCtx
+356 255 0 0 255
+Frontoparietal-27_RCtx
+357 255 255 0 255
+Cingulo-Opercular-26_RCtx
+358 153 0 153 255
+Cingulo-Opercular-27_RCtx
+359 153 0 153 255
+Cingulo-Opercular-28_RCtx
+360 153 0 153 255
+Visual1-1
+1010 0 0 255 255
+Visual1-2
+1020 0 0 255 255
+Visual1-3
+1030 0 0 255 255
+Visual1-4
+1040 0 0 255 255
+Visual1-5
+1050 0 0 255 255
+Visual1-6
+1060 0 0 255 255
+Visual1-7
+1070 0 0 255 255
+Visual1-8
+1080 0 0 255 255
+Visual1-9
+1090 0 0 255 255
+Visual1-10
+1100 0 0 255 255
+Visual1-11
+1110 0 0 255 255
+Visual1-12
+1120 0 0 255 255
+Visual1-13
+1130 0 0 255 255
+Visual1-14
+1140 0 0 255 255
+Visual1-15
+1150 0 0 255 255
+Visual1-16
+1160 0 0 255 255
+Visual1-17
+1170 0 0 255 255
+Visual1-18
+1180 0 0 255 255
+Visual1-19
+1190 0 0 255 255
+Visual1-20
+1200 0 0 255 255
+Visual1-21
+1210 0 0 255 255
+Visual1-22
+1220 0 0 255 255
+Visual1-23
+1230 0 0 255 255
+Visual1-24
+1240 0 0 255 255
+Visual1-25
+1250 0 0 255 255
+Visual1-26
+1260 0 0 255 255
+Visual1-27
+1270 0 0 255 255
+Visual1-28
+1280 0 0 255 255
+Visual1-29
+1290 0 0 255 255
+Visual1-30
+1300 0 0 255 255
+Visual1-31
+1310 0 0 255 255
+Visual1-32
+1320 0 0 255 255
+Visual1-33
+1330 0 0 255 255
+Visual1-34
+1340 0 0 255 255
+Visual1-35
+1350 0 0 255 255
+Visual1-36
+1360 0 0 255 255
+Visual1-37
+1370 0 0 255 255
+Visual1-38
+1380 0 0 255 255
+Visual1-39
+1390 0 0 255 255
+Visual1-40
+1400 0 0 255 255
+Visual1-41
+1410 0 0 255 255
+Visual1-42
+1420 0 0 255 255
+Visual1-43
+1430 0 0 255 255
+Visual1-44
+1440 0 0 255 255
+Visual1-45
+1450 0 0 255 255
+Visual1-46
+1460 0 0 255 255
+Visual1-47
+1470 0 0 255 255
+Visual1-48
+1480 0 0 255 255
+Visual1-49
+1490 0 0 255 255
+Visual1-50
+1500 0 0 255 255
+Visual1-51
+1510 0 0 255 255
+Visual1-52
+1520 0 0 255 255
+Visual1-53
+1530 0 0 255 255
+Visual1-54
+1540 0 0 255 255
+Visual1-55
+1550 0 0 255 255
+Visual1-56
+1560 0 0 255 255
+Visual1-57
+1570 0 0 255 255
+Visual1-58
+1580 0 0 255 255
+Visual1-59
+1590 0 0 255 255
+Visual1-60
+1600 0 0 255 255
+Visual1-61
+1610 0 0 255 255
+Visual1-62
+1620 0 0 255 255
+Visual1-63
+1630 0 0 255 255
+Visual2-1
+2010 100 0 255 255
+Visual2-2
+2020 100 0 255 255
+Visual2-3
+2030 100 0 255 255
+Visual2-4
+2040 100 0 255 255
+Visual2-5
+2050 100 0 255 255
+Visual2-6
+2060 100 0 255 255
+Visual2-7
+2070 100 0 255 255
+Visual2-8
+2080 100 0 255 255
+Visual2-9
+2090 100 0 255 255
+Visual2-10
+2100 100 0 255 255
+Visual2-11
+2110 100 0 255 255
+Visual2-12
+2120 100 0 255 255
+Visual2-13
+2130 100 0 255 255
+Visual2-14
+2140 100 0 255 255
+Visual2-15
+2150 100 0 255 255
+Visual2-16
+2160 100 0 255 255
+Visual2-17
+2170 100 0 255 255
+Visual2-18
+2180 100 0 255 255
+Visual2-19
+2190 100 0 255 255
+Visual2-20
+2200 100 0 255 255
+Visual2-21
+2210 100 0 255 255
+Visual2-22
+2220 100 0 255 255
+Visual2-23
+2230 100 0 255 255
+Visual2-24
+2240 100 0 255 255
+Visual2-25
+2250 100 0 255 255
+Visual2-26
+2260 100 0 255 255
+Visual2-27
+2270 100 0 255 255
+Visual2-28
+2280 100 0 255 255
+Visual2-29
+2290 100 0 255 255
+Somatomotor-1
+3010 0 255 255 255
+Somatomotor-2
+3020 0 255 255 255
+Somatomotor-3
+3030 0 255 255 255
+Somatomotor-4
+3040 0 255 255 255
+Somatomotor-5
+3050 0 255 255 255
+Somatomotor-6
+3060 0 255 255 255
+Somatomotor-7
+3070 0 255 255 255
+Somatomotor-8
+3080 0 255 255 255
+Somatomotor-9
+3090 0 255 255 255
+Somatomotor-10
+3100 0 255 255 255
+Somatomotor-11
+3110 0 255 255 255
+Somatomotor-12
+3120 0 255 255 255
+Somatomotor-13
+3130 0 255 255 255
+Somatomotor-14
+3140 0 255 255 255
+Somatomotor-15
+3150 0 255 255 255
+Somatomotor-16
+3160 0 255 255 255
+Somatomotor-17
+3170 0 255 255 255
+Somatomotor-18
+3180 0 255 255 255
+Somatomotor-19
+3190 0 255 255 255
+Somatomotor-20
+3200 0 255 255 255
+Somatomotor-21
+3210 0 255 255 255
+Somatomotor-22
+3220 0 255 255 255
+Somatomotor-23
+3230 0 255 255 255
+Somatomotor-24
+3240 0 255 255 255
+Somatomotor-25
+3250 0 255 255 255
+Somatomotor-26
+3260 0 255 255 255
+Somatomotor-27
+3270 0 255 255 255
+Somatomotor-28
+3280 0 255 255 255
+Cingulo-Opercular-1
+4010 153 0 153 255
+Cingulo-Opercular-2
+4020 153 0 153 255
+Cingulo-Opercular-3
+4030 153 0 153 255
+Cingulo-Opercular-4
+4040 153 0 153 255
+Cingulo-Opercular-5
+4050 153 0 153 255
+Cingulo-Opercular-6
+4060 153 0 153 255
+Cingulo-Opercular-7
+4070 153 0 153 255
+Cingulo-Opercular-8
+4080 153 0 153 255
+Cingulo-Opercular-9
+4090 153 0 153 255
+Cingulo-Opercular-10
+4100 153 0 153 255
+Cingulo-Opercular-11
+4110 153 0 153 255
+Cingulo-Opercular-12
+4120 153 0 153 255
+Cingulo-Opercular-13
+4130 153 0 153 255
+Cingulo-Opercular-14
+4140 153 0 153 255
+Cingulo-Opercular-15
+4150 153 0 153 255
+Cingulo-Opercular-16
+4160 153 0 153 255
+Cingulo-Opercular-17
+4170 153 0 153 255
+Cingulo-Opercular-18
+4180 153 0 153 255
+Cingulo-Opercular-19
+4190 153 0 153 255
+Cingulo-Opercular-20
+4200 153 0 153 255
+Cingulo-Opercular-21
+4210 153 0 153 255
+Cingulo-Opercular-22
+4220 153 0 153 255
+Cingulo-Opercular-23
+4230 153 0 153 255
+Cingulo-Opercular-24
+4240 153 0 153 255
+Cingulo-Opercular-25
+4250 153 0 153 255
+Cingulo-Opercular-26
+4260 153 0 153 255
+Cingulo-Opercular-27
+4270 153 0 153 255
+Cingulo-Opercular-28
+4280 153 0 153 255
+Cingulo-Opercular-29
+4290 153 0 153 255
+Cingulo-Opercular-30
+4300 153 0 153 255
+Cingulo-Opercular-31
+4310 153 0 153 255
+Cingulo-Opercular-32
+4320 153 0 153 255
+Cingulo-Opercular-33
+4330 153 0 153 255
+Cingulo-Opercular-34
+4340 153 0 153 255
+Cingulo-Opercular-35
+4350 153 0 153 255
+Cingulo-Opercular-36
+4360 153 0 153 255
+Cingulo-Opercular-37
+4370 153 0 153 255
+Cingulo-Opercular-38
+4380 153 0 153 255
+Cingulo-Opercular-39
+4390 153 0 153 255
+Dorsal-Attention-1
+5010 0 255 0 255
+Dorsal-Attention-2
+5020 0 255 0 255
+Dorsal-Attention-3
+5030 0 255 0 255
+Dorsal-Attention-4
+5040 0 255 0 255
+Dorsal-Attention-5
+5050 0 255 0 255
+Dorsal-Attention-6
+5060 0 255 0 255
+Dorsal-Attention-7
+5070 0 255 0 255
+Dorsal-Attention-8
+5080 0 255 0 255
+Dorsal-Attention-9
+5090 0 255 0 255
+Dorsal-Attention-10
+5100 0 255 0 255
+Dorsal-Attention-11
+5110 0 255 0 255
+Dorsal-Attention-12
+5120 0 255 0 255
+Dorsal-Attention-13
+5130 0 255 0 255
+Dorsal-Attention-14
+5140 0 255 0 255
+Dorsal-Attention-15
+5150 0 255 0 255
+Dorsal-Attention-16
+5160 0 255 0 255
+Dorsal-Attention-17
+5170 0 255 0 255
+Dorsal-Attention-18
+5180 0 255 0 255
+Dorsal-Attention-19
+5190 0 255 0 255
+Dorsal-Attention-20
+5200 0 255 0 255
+Dorsal-Attention-21
+5210 0 255 0 255
+Dorsal-Attention-22
+5220 0 255 0 255
+Dorsal-Attention-23
+5230 0 255 0 255
+Dorsal-Attention-24
+5240 0 255 0 255
+Language-1
+6010 0 155 155 255
+Language-2
+6020 0 155 155 255
+Language-3
+6030 0 155 155 255
+Language-4
+6040 0 155 155 255
+Language-5
+6050 0 155 155 255
+Language-6
+6060 0 155 155 255
+Language-7
+6070 0 155 155 255
+Language-8
+6080 0 155 155 255
+Language-9
+6090 0 155 155 255
+Language-10
+6100 0 155 155 255
+Language-11
+6110 0 155 155 255
+Language-12
+6120 0 155 155 255
+Language-13
+6130 0 155 155 255
+Language-14
+6140 0 155 155 255
+Frontoparietal-1
+7010 255 255 0 255
+Frontoparietal-2
+7020 255 255 0 255
+Frontoparietal-3
+7030 255 255 0 255
+Frontoparietal-4
+7040 255 255 0 255
+Frontoparietal-5
+7050 255 255 0 255
+Frontoparietal-6
+7060 255 255 0 255
+Frontoparietal-7
+7070 255 255 0 255
+Frontoparietal-8
+7080 255 255 0 255
+Frontoparietal-9
+7090 255 255 0 255
+Frontoparietal-10
+7100 255 255 0 255
+Frontoparietal-11
+7110 255 255 0 255
+Frontoparietal-12
+7120 255 255 0 255
+Frontoparietal-13
+7130 255 255 0 255
+Frontoparietal-14
+7140 255 255 0 255
+Frontoparietal-15
+7150 255 255 0 255
+Frontoparietal-16
+7160 255 255 0 255
+Frontoparietal-17
+7170 255 255 0 255
+Frontoparietal-18
+7180 255 255 0 255
+Frontoparietal-19
+7190 255 255 0 255
+Frontoparietal-20
+7200 255 255 0 255
+Frontoparietal-21
+7210 255 255 0 255
+Frontoparietal-22
+7220 255 255 0 255
+Frontoparietal-23
+7230 255 255 0 255
+Frontoparietal-24
+7240 255 255 0 255
+Frontoparietal-25
+7250 255 255 0 255
+Frontoparietal-26
+7260 255 255 0 255
+Frontoparietal-27
+7270 255 255 0 255
+Frontoparietal-28
+7280 255 255 0 255
+Frontoparietal-29
+7290 255 255 0 255
+Frontoparietal-30
+7300 255 255 0 255
+Frontoparietal-31
+7310 255 255 0 255
+Frontoparietal-32
+7320 255 255 0 255
+Frontoparietal-33
+7330 255 255 0 255
+Frontoparietal-34
+7340 255 255 0 255
+Frontoparietal-35
+7350 255 255 0 255
+Frontoparietal-36
+7360 255 255 0 255
+Frontoparietal-37
+7370 255 255 0 255
+Frontoparietal-38
+7380 255 255 0 255
+Frontoparietal-39
+7390 255 255 0 255
+Frontoparietal-40
+7400 255 255 0 255
+Frontoparietal-41
+7410 255 255 0 255
+Frontoparietal-42
+7420 255 255 0 255
+Frontoparietal-43
+7430 255 255 0 255
+Frontoparietal-44
+7440 255 255 0 255
+Frontoparietal-45
+7450 255 255 0 255
+Frontoparietal-46
+7460 255 255 0 255
+Frontoparietal-47
+7470 255 255 0 255
+Frontoparietal-48
+7480 255 255 0 255
+Auditory-1
+8010 250 62 251 255
+Auditory-2
+8020 250 62 251 255
+Auditory-3
+8030 250 62 251 255
+Auditory-4
+8040 250 62 251 255
+Auditory-5
+8050 250 62 251 255
+Auditory-6
+8060 250 62 251 255
+Auditory-7
+8070 250 62 251 255
+Auditory-8
+8080 250 62 251 255
+Auditory-9
+8090 250 62 251 255
+Auditory-10
+8100 250 62 251 255
+Auditory-11
+8110 250 62 251 255
+Auditory-12
+8120 250 62 251 255
+Auditory-13
+8130 250 62 251 255
+Auditory-14
+8140 250 62 251 255
+Auditory-15
+8150 250 62 251 255
+Auditory-16
+8160 250 62 251 255
+Auditory-17
+8170 250 62 251 255
+Auditory-18
+8180 250 62 251 255
+Auditory-19
+8190 250 62 251 255
+Auditory-20
+8200 250 62 251 255
+Auditory-21
+8210 250 62 251 255
+Auditory-22
+8220 250 62 251 255
+Auditory-23
+8230 250 62 251 255
+Auditory-24
+8240 250 62 251 255
+Auditory-25
+8250 250 62 251 255
+Auditory-26
+8260 250 62 251 255
+Auditory-27
+8270 250 62 251 255
+Auditory-28
+8280 250 62 251 255
+Auditory-29
+8290 250 62 251 255
+Auditory-30
+8300 250 62 251 255
+Auditory-31
+8310 250 62 251 255
+Default-1
+9010 255 0 0 255
+Default-2
+9020 255 0 0 255
+Default-3
+9030 255 0 0 255
+Default-4
+9040 255 0 0 255
+Default-5
+9050 255 0 0 255
+Default-6
+9060 255 0 0 255
+Default-7
+9070 255 0 0 255
+Default-8
+9080 255 0 0 255
+Default-9
+9090 255 0 0 255
+Default-10
+9100 255 0 0 255
+Default-11
+9110 255 0 0 255
+Default-12
+9120 255 0 0 255
+Default-13
+9130 255 0 0 255
+Default-14
+9140 255 0 0 255
+Default-15
+9150 255 0 0 255
+Default-16
+9160 255 0 0 255
+Default-17
+9170 255 0 0 255
+Default-18
+9180 255 0 0 255
+Default-19
+9190 255 0 0 255
+Default-20
+9200 255 0 0 255
+Default-21
+9210 255 0 0 255
+Default-22
+9220 255 0 0 255
+Default-23
+9230 255 0 0 255
+Default-24
+9240 255 0 0 255
+Default-25
+9250 255 0 0 255
+Default-26
+9260 255 0 0 255
+Default-27
+9270 255 0 0 255
+Default-28
+9280 255 0 0 255
+Default-29
+9290 255 0 0 255
+Default-30
+9300 255 0 0 255
+Default-31
+9310 255 0 0 255
+Default-32
+9320 255 0 0 255
+Posterior-Multimodal-1
+10010 177 89 40 255
+Posterior-Multimodal-2
+10020 177 89 40 255
+Posterior-Multimodal-3
+10030 177 89 40 255
+Posterior-Multimodal-4
+10040 177 89 40 255
+Posterior-Multimodal-5
+10050 177 89 40 255
+Posterior-Multimodal-6
+10060 177 89 40 255
+Posterior-Multimodal-7
+10070 177 89 40 255
+Posterior-Multimodal-8
+10080 177 89 40 255
+Posterior-Multimodal-9
+10090 177 89 40 255
+Posterior-Multimodal-10
+10100 177 89 40 255
+Posterior-Multimodal-11
+10110 177 89 40 255
+Posterior-Multimodal-12
+10120 177 89 40 255
+Posterior-Multimodal-13
+10130 177 89 40 255
+Posterior-Multimodal-14
+10140 177 89 40 255
+Posterior-Multimodal-15
+10150 177 89 40 255
+Posterior-Multimodal-16
+10160 177 89 40 255
+Posterior-Multimodal-17
+10170 177 89 40 255
+Posterior-Multimodal-18
+10180 177 89 40 255
+Posterior-Multimodal-19
+10190 177 89 40 255
+Posterior-Multimodal-20
+10200 177 89 40 255
+Posterior-Multimodal-21
+10210 177 89 40 255
+Posterior-Multimodal-22
+10220 177 89 40 255
+Posterior-Multimodal-23
+10230 177 89 40 255
+Posterior-Multimodal-24
+10240 177 89 40 255
+Posterior-Multimodal-25
+10250 177 89 40 255
+Posterior-Multimodal-26
+10260 177 89 40 255
+Posterior-Multimodal-27
+10270 177 89 40 255
+Posterior-Multimodal-28
+10280 177 89 40 255
+Posterior-Multimodal-29
+10290 177 89 40 255
+Ventral-Multimodal-1
+11010 255 157 0 255
+Ventral-Multimodal-2
+11020 255 157 0 255
+Ventral-Multimodal-3
+11030 255 157 0 255
+Ventral-Multimodal-4
+11040 255 157 0 255
+Orbito-Affective-1
+12010 65 125 0 168
+Orbito-Affective-2
+12020 65 125 0 168
+Orbito-Affective-3
+12030 65 125 0 168
+Orbito-Affective-4
+12040 65 125 0 168
+Orbito-Affective-5
+12050 65 125 0 168
+Orbito-Affective-6
+12060 65 125 0 168
+Orbito-Affective-7
+12070 65 125 0 168
+Orbito-Affective-8
+12080 65 125 0 168
+Orbito-Affective-9
+12090 65 125 0 168
+Orbito-Affective-10
+12100 65 125 0 168
+Orbito-Affective-11
+12110 65 125 0 168
+Orbito-Affective-12
+12120 65 125 0 168
+Orbito-Affective-13
+12130 65 125 0 168
+Orbito-Affective-14
+12140 65 125 0 168
+Orbito-Affective-15
+12150 65 125 0 168
+Orbito-Affective-16
+12160 65 125 0 168
+Orbito-Affective-17
+12170 65 125 0 168
