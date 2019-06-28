@@ -358,7 +358,7 @@ Cingulo-Opercular-54_L-Ctx
 179 153 0 153 255
 Cingulo-Opercular-55_L-Ctx
 180 153 0 153 255
-Visual_R-Ctx
+Visual1_R-Ctx
 181 0 0 255 255
 Visual2_R-Ctx
 182 100 0 255 255
