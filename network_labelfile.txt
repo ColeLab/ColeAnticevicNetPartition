@@ -1,6 +1,6 @@
-Primary Visual
+Visual1
 1 0 0 255 255
-Secondary Visual
+Visual2
 2 100 0 255 255
 Somatomotor
 3 0 255 255 255
@@ -14,11 +14,11 @@ Frontoparietal
 7 255 255 0 255
 Auditory
 8 249 61 251 255
-Posterior Multimodal
+Posterior-Multimodal
 10 177 89 40 255
 Dorsal-attention
 5 0 255 0 255
-Ventral Multimodal
+Ventral-Multimodal
 11 255 156 0 255
 Orbito-Affective
 12 65 124 0 255

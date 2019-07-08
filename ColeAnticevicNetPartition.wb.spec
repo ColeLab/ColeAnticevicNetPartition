@@ -45,12 +45,12 @@
    <DataFile Structure="CortexLeft"
              DataFileType="BORDER"
              Selected="true">
-      Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Black.32k_fs_LR.border
+      Q1-Q6_RelatedValidation210.L.CorticalAreas_dil_Final_Final_Areas_Group.32k_fs_LR.border
    </DataFile>
    <DataFile Structure="CortexRight"
              DataFileType="BORDER"
              Selected="true">
-      Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Black.32k_fs_LR.border
+      Q1-Q6_RelatedValidation210.R.CorticalAreas_dil_Final_Final_Areas_Group.32k_fs_LR.border
    </DataFile>
    <DataFile Structure="All"
              DataFileType="CONNECTIVITY_DENSE_LABEL"
