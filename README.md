@@ -39,7 +39,7 @@ This network partition was created using the Glasser 2016 parcels [Glasser MF, C
 
 The cortical network partition was extended into subcortex. This was accomplished by labeling each subcortical voxel with the cortical network with the strongest average Pearson correlation.
 
-See the main publication reporting this partition for more information: Ji JL, Spronk M, Kulkarni K, Repovs G, Anticevic A, Cole MW (In Press) "Mapping the human brain's cortical-subcortical functional network organization". NeuroImage. https://doi.org/10.1016/j.neuroimage.2018.10.006 [Open access preprint: http://doi.org/10.1101/206292]
+See the main publication reporting this partition for more information: Ji JL*, Spronk M*, Kulkarni K, Repovs G, Anticevic A**, Cole MW** (2019). "Mapping the human brain's cortical-subcortical functional network organization". NeuroImage. 185:35–57. doi:10.1016/j.neuroimage.2018.10.006 [* = equal contribution; ** = senior authors] https://doi.org/10.1016/j.neuroimage.2018.10.006 [Open access preprint: http://doi.org/10.1101/206292]
 
 The Glasser2016 parcels are available here: https://balsa.wustl.edu/study/show/RVVG
 
