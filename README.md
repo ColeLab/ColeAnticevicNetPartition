@@ -9,7 +9,7 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
-**Version 1.1.0**: July 8 2018, updated all files with cortical parcels from the HCP1200 release; updated and standardized naming of parcels; added LabelKey.txt showing mappings for the wSubcorGSR and woSubcorGSR parcellations between: Index; KeyValue; Label; Red; Green; Blue; Alpha; Hemisphere; Network; NetworkKey; NetworkSortedOrder
+**Version 1.1.0**: July 8 2019, updated all files with cortical parcels from the HCP1200 release; updated and standardized naming of parcels; added LabelKey.txt showing mappings for the wSubcorGSR and woSubcorGSR parcellations between: Index; KeyValue; Label; Red; Green; Blue; Alpha; Hemisphere; Network; NetworkKey; NetworkSortedOrder
 
 **Version 1.0.5**: October 10, 2018, first public release.
 
