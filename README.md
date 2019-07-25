@@ -141,3 +141,12 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 	- cortex_gamma1.295_partition_before_reassignment.mat - Network assignment for the cortical parcels prior to the clean up (reassignment) step.
 	- CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_netassignments_LR.dscalar.nii - Dscalar version of network assignments.
 	- CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dscalar.nii - Dscalar version of parcel-level network assignments.
+
+## Examples:
+The file CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii is ordered by cortical then subcortical parcels. To order by network, the file CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_ReorderedByNetworks.dlabel.nii can be used.
+To reorder by network a ptseries or pscalar that has already been parcellated with CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii, use the follow command:
+	wb_command -cifti-reorder <OriginalParcellatedData>.ptseries.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <NetworkReordered>.ptseries.nii
+
+To reorder by network a pconn that was parcellated with CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii, repeat the command twice (once by column and once by row):
+	wb_command -cifti-reorder <OriginalParcellatedData>.pconn.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <ColumnNetworkReordered>.pconn.nii
+	wb_command -cifti-reorder <ColumnNetworkReordered>.pconn.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <NetworkReordered>.pconn.nii
