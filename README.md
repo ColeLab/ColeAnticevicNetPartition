@@ -149,4 +149,4 @@ To reorder by network a ptseries or pscalar that has already been parcellated wi
 
 To reorder by network a pconn that was parcellated with CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii, repeat the command twice (once by column and once by row):
 	wb_command -cifti-reorder <OriginalParcellatedData>.pconn.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <ColumnNetworkReordered>.pconn.nii
-	wb_command -cifti-reorder <ColumnNetworkReordered>.pconn.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <NetworkReordered>.pconn.nii
+	wb_command -cifti-reorder <ColumnNetworkReordered>.pconn.nii ROW ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <NetworkReordered>.pconn.nii
