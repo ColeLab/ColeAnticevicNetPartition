@@ -142,11 +142,36 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 	- CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_netassignments_LR.dscalar.nii - Dscalar version of network assignments.
 	- CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dscalar.nii - Dscalar version of parcel-level network assignments.
 
-## Examples:
-The file CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii is ordered by cortical then subcortical parcels. To order by network, the file CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_ReorderedByNetworks.dlabel.nii can be used.
-To reorder by network a ptseries or pscalar that has already been parcellated with CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii, use the follow command:
-	wb_command -cifti-reorder <OriginalParcellatedData>.ptseries.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <NetworkReordered>.ptseries.nii
+### Network Order Information and Examples for Re-ordering CIFTI Outputs
 
-To reorder by network a pconn that was parcellated with CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii, repeat the command twice (once by column and once by row):
-	wb_command -cifti-reorder <OriginalParcellatedData>.pconn.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <ColumnNetworkReordered>.pconn.nii
-	wb_command -cifti-reorder <ColumnNetworkReordered>.pconn.nii ROW ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <NetworkReordered>.pconn.nii
+Note that the file `CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii` is ordered by cortical then subcortical parcels. Also, note that the subcortex is ordered in L/R order instead of by network (refer to *_LabelKey.txt for label mappings). The key reason for this choice was to provide a clear distinction between cortical and subcortical parcels. Here is an example:
+
+![Alt text](images/ExampleCortexSubcortexMatrix.jpg?raw=true "Illustration of example correlation matrix from data parcellated with ColeAnticevicNetPartition_v1")
+
+
+For most people this result may not be the preferred choice, especially if you wish to publish an ordered matrix by network:
+
+![Alt text](images/ExampleNetworkReorderedMatrix.jpg?raw=true "Illustration of example correlation matrix from data parcellated with ColeAnticevicNetPartition_v1, ordered by Network")
+
+
+Therefore, if you would like to run an analysis such that your order is ordered by network, then the following file should be used on the front end of your analysis:
+``` 
+CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_ReorderedByNetworks.dlabel.nii
+```
+ 
+If you already ran an analysis that was parcellated with `CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii` and wish to reorder your result by network then follow the following steps for a `ptseries` or `pscalar` file types: 
+```
+wb_command -cifti-reorder <yourfile>.ptseries.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <yourfile>.ptseries.nii
+```
+
+--- 
+
+If you already ran an analysis that was parcellated with `CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii` and wish to reorder your result by network then follow the following steps for a `pconn` file type:
+* Note -- you will have to re-order the file twice: once by COLUMN and once by ROW
+
+``` 
+wb_command -cifti-reorder <yourfile>.pconn.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <yourfile>.pconn.nii 
+
+wb_command -cifti-reorder <yourfile>.pconn.nii ROW ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <yourfile>.pconn.nii
+
+```
