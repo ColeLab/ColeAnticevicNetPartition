@@ -47,8 +47,7 @@ More info on the cortical parcels is available in the main and supplemental docu
 Glasser, Matthew F, Timothy S Coalson, Emma C Robinson, Carl D Hacker, John Harwell, Essa Yacoub, Kamil Ugurbil, et al. (2016). "A Multi-Modal Parcellation of Human Cerebral Cortex." Nature, July. doi:10.1038/nature18933. http://www.nature.com/doifinder/10.1038/nature18933
 
 Software versions this release was tested on:
-Connectome Workbench 1.3.2
-MATLAB R2014b
+Connectome Workbench 1.3.2, MATLAB R2014b, and Python 2.7
 
 Many features are available in Connectome Workbench's wb_command (https://www.humanconnectome.org/software/workbench-command) for interfacing with CAB-NP.
 
@@ -155,22 +154,22 @@ For most people this result may not be the preferred choice, especially if you w
 
 
 Therefore, if you would like to run an analysis such that your order is ordered by network, then the following file should be used on the front end of your analysis:
-``` 
+```
 CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_ReorderedByNetworks.dlabel.nii
 ```
- 
-If you already ran an analysis that was parcellated with `CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii` and wish to reorder your result by network then follow the following steps for a `ptseries` or `pscalar` file types: 
+
+If you already ran an analysis that was parcellated with `CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii` and wish to reorder your result by network then follow the following steps for a `ptseries` or `pscalar` file types:
 ```
 wb_command -cifti-reorder <yourfile>.ptseries.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <yourfile>.ptseries.nii
 ```
 
---- 
+---
 
 If you already ran an analysis that was parcellated with `CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii` and wish to reorder your result by network then follow the following steps for a `pconn` file type:
 * Note -- you will have to re-order the file twice: once by COLUMN and once by ROW
 
-``` 
-wb_command -cifti-reorder <yourfile>.pconn.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <yourfile>.pconn.nii 
+```
+wb_command -cifti-reorder <yourfile>.pconn.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <yourfile>.pconn.nii
 
 wb_command -cifti-reorder <yourfile>.pconn.nii ROW ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <yourfile>.pconn.nii
 
