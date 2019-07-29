@@ -172,5 +172,4 @@ If you already ran an analysis that was parcellated with `CortexSubcortex_ColeAn
 wb_command -cifti-reorder <yourfile>.pconn.nii COLUMN ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <yourfile>.pconn.nii
 
 wb_command -cifti-reorder <yourfile>.pconn.nii ROW ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <yourfile>.pconn.nii
-
 ```
