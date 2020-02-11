@@ -176,3 +176,5 @@ wb_command -cifti-reorder <yourfile>.pconn.nii COLUMN ColeAnticevicNetPartition/
 
 wb_command -cifti-reorder <yourfile>.pconn.nii ROW ColeAnticevicNetPartition/cortex_subcortex_community_order.txt <yourfile>.pconn.nii
 ```
+[//]: # (This is tracking code for keeping track of visits to the repo; MWC)
+[![Analytics](https://ga-beacon.appspot.com/UA-158202396-1/welcome-page?pixel)](https://github.com/igrigorik/ga-beacon)
