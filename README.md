@@ -9,6 +9,8 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
+**Version 1.1.1**: May 1, 2020, added Glasser360Indices_LR.dscalar.nii. This file can be loaded into Connectome Workbench, such that clicking a parcel will indicate which parcel number it is within the cortical Glasser parcellation. Tip: Turn off Display Borders to speed up Connectome Workbench.
+
 **Version 1.1.0**: July 8, 2019, updated all files with cortical parcels from the HCP1200 release; updated and standardized naming of parcels; added LabelKey.txt showing mappings for the wSubcorGSR and woSubcorGSR parcellations between: Index; KeyValue; Label; Red; Green; Blue; Alpha; Hemisphere; Network; NetworkKey; NetworkSortedOrder
 
 **Version 1.0.5**: October 10, 2018, first public release.
@@ -46,7 +48,7 @@ The Glasser2016 parcels are available here: https://balsa.wustl.edu/study/show/R
 More info on the cortical parcels is available in the main and supplemental documents released as part of the main Glasser2016 publication (e.g., details in Table 1 of the Supplementary Neuroanatomical Results document, page 81):
 Glasser, Matthew F, Timothy S Coalson, Emma C Robinson, Carl D Hacker, John Harwell, Essa Yacoub, Kamil Ugurbil, et al. (2016). "A Multi-Modal Parcellation of Human Cerebral Cortex." Nature, July. doi:10.1038/nature18933. http://www.nature.com/doifinder/10.1038/nature18933
 
-Evidence that the CIFTI format used here (combining cortical surface with subcortical volume data) is superior to prior methods: 
+Evidence that the CIFTI format used here (combining cortical surface with subcortical volume data) is superior to prior methods:
 Coalson, T.S., Van Essen, D.C., Glasser, M.F., 2018. The impact of traditional neuroimaging methods on the spatial localization of cortical areas. Proc Natl Acad Sci USA 115, E6356–E6365. https://doi.org/10.1073/pnas.1801582115
 
 Software versions this release was tested on:
@@ -94,6 +96,7 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_netassignments_LR.dlabel.nii - Cortex + subcortex (whole-brain) network assignments. Global signal regression (GSR) applied to subcortical voxels as a preprocessing step.
 - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii - Same as above, but at the parcel level (rather than the network assignment level).
 - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_v1.1_LR.txt - Label text file for CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii
+- Glasser360Indices_LR.dscalar.nii - Indicates the parcel number (ordered left hemisphere, then right hemisphere) for each cortical parcel. This is especially useful when loaded into Connectome Workbench along with the main scene file, since simply clicking on a parcel will indicate the parcel number for that parcel. Tip: Turn off Display Borders to speed up Connectome Workbench.
 - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Black.32k_fs_LR.border - The left-hemisphere borders of the Glasser parcels
 - Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Black.32k_fs_LR.border - The right-hemisphere borders of the Glasser parcels
 - Q1-Q6_RelatedValidation210.L.CorticalAreas_dil_Final_Final_Areas_Group.32k_fs_LR.border - The updated (HCP Phase 2) left-hemisphere borders of the Glasser parcels
