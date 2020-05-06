@@ -192,9 +192,9 @@ That said, there are several options for those willing to take the risk in using
 
 Less ideal but still possible, there are also several options for versions of the Glasser cortical parcellation mapped to group-level volume space. Use with caution.
 Examples:
-https://cjneurolab.org/2016/11/22/hcp-mmp1-0-volumetric-nifti-masks-in-native-structural-space/
-https://neurovault.org/collections/1549/
-https://figshare.com/articles/HCP-MMP1_0_projected_on_MNI2009a_GM_volumetric_in_NIfTI_format/3501911
-Apparently AFNI now comes with a volume version of the Glasser cortical parcellation, as described here: https://openwetware.org/wiki/Beauchamp:CorticalSurfaceHCP
+* https://cjneurolab.org/2016/11/22/hcp-mmp1-0-volumetric-nifti-masks-in-native-structural-space/
+* https://neurovault.org/collections/1549/
+* https://figshare.com/articles/HCP-MMP1_0_projected_on_MNI2009a_GM_volumetric_in_NIfTI_format/3501911
+* Apparently AFNI now comes with a volume version of the Glasser cortical parcellation, as described here: https://openwetware.org/wiki/Beauchamp:CorticalSurfaceHCP
 
 
