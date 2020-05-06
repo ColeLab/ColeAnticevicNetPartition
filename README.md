@@ -181,3 +181,20 @@ wb_command -cifti-reorder <yourfile>.pconn.nii ROW ColeAnticevicNetPartition/cor
 ```
 [//]: # (This is tracking code for keeping track of visits to the repo; MWC)
 [![Analytics](https://ga-beacon.appspot.com/UA-158202396-1/CABNP/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+### Volume version of the Glasser surface parcels
+
+We have been receiving many inquiries into using our network partition with volume (rather than CIFTI) data. We defer to the creators of the Glasser et al. (2016) cortical parcellation (https://balsa.wustl.edu/study/show/RVVG) in saying that using a volume version is not recommended. See here for more info on this recommendation: https://www.mail-archive.com/hcp-users@humanconnectome.org/msg03398.html
+
+That said, there are several options for those willing to take the risk in using a volume version of the Glasser cortical parcellation. As recommended previously (https://www.mail-archive.com/hcp-users@humanconnectome.org/msg03398.html) the best option is to use Connectome Workbench to map the group-level cortical surface label file to each subject's individual volume:
+1) Use wb_command -cifti-separate to make GIFTI label files
+2) Use wb_command -label-to-volume-mapping to map GIFTI label files to the volume
+
+Less ideal but still possible, there are also several options for versions of the Glasser cortical parcellation mapped to group-level volume space. Use with caution.
+Examples:
+https://cjneurolab.org/2016/11/22/hcp-mmp1-0-volumetric-nifti-masks-in-native-structural-space/
+https://neurovault.org/collections/1549/
+https://figshare.com/articles/HCP-MMP1_0_projected_on_MNI2009a_GM_volumetric_in_NIfTI_format/3501911
+Apparently AFNI now comes with a volume version of the Glasser cortical parcellation, as described here: https://openwetware.org/wiki/Beauchamp:CorticalSurfaceHCP
+
+
