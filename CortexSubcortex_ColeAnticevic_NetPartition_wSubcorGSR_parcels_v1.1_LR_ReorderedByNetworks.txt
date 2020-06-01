@@ -1,0 +1,1436 @@
+Visual1-04_L-Ctx
+1 0 0 255 255
+Visual1-05_L-Ctx
+2 0 0 255 255
+Visual1-06_L-Ctx
+3 0 0 255 255
+Visual1-01_R-Ctx
+4 0 0 255 255
+Visual1-02_R-Ctx
+5 0 0 255 255
+Visual1-03_R-Ctx
+6 0 0 255 255
+Visual1-01_L-Accumbens
+7 0 0 255 255
+Visual1-02_L-Accumbens
+8 0 0 255 255
+Visual1-05_L-Brainstem
+9 0 0 255 255
+Visual1-06_L-Brainstem
+10 0 0 255 255
+Visual1-08_L-Brainstem
+11 0 0 255 255
+Visual1-09_L-Brainstem
+12 0 0 255 255
+Visual1-11_L-Brainstem
+13 0 0 255 255
+Visual1-12_L-Brainstem
+14 0 0 255 255
+Visual1-13_L-Caudate
+15 0 0 255 255
+Visual1-15_L-Cerebellum
+16 0 0 255 255
+Visual1-16_L-Cerebellum
+17 0 0 255 255
+Visual1-17_L-Cerebellum
+18 0 0 255 255
+Visual1-18_L-Cerebellum
+19 0 0 255 255
+Visual1-19_L-Cerebellum
+20 0 0 255 255
+Visual1-20_L-Cerebellum
+21 0 0 255 255
+Visual1-21_L-Cerebellum
+22 0 0 255 255
+Visual1-22_L-Cerebellum
+23 0 0 255 255
+Visual1-23_L-Cerebellum
+24 0 0 255 255
+Visual1-24_L-Cerebellum
+25 0 0 255 255
+Visual1-25_L-Cerebellum
+26 0 0 255 255
+Visual1-26_L-Cerebellum
+27 0 0 255 255
+Visual1-27_L-Cerebellum
+28 0 0 255 255
+Visual1-28_L-Cerebellum
+29 0 0 255 255
+Visual1-29_L-Cerebellum
+30 0 0 255 255
+Visual1-30_L-Cerebellum
+31 0 0 255 255
+Visual1-42_L-Diencephalon
+32 0 0 255 255
+Visual1-44_L-Hippocampus
+33 0 0 255 255
+Visual1-46_L-Pallidum
+34 0 0 255 255
+Visual1-47_L-Pallidum
+35 0 0 255 255
+Visual1-50_L-Putamen
+36 0 0 255 255
+Visual1-51_L-Putamen
+37 0 0 255 255
+Visual1-52_L-Putamen
+38 0 0 255 255
+Visual1-55_L-Thalamus
+39 0 0 255 255
+Visual1-56_L-Thalamus
+40 0 0 255 255
+Visual1-57_L-Thalamus
+41 0 0 255 255
+Visual1-58_L-Thalamus
+42 0 0 255 255
+Visual1-59_L-Thalamus
+43 0 0 255 255
+Visual1-60_L-Thalamus
+44 0 0 255 255
+Visual1-03_R-Accumbens
+45 0 0 255 255
+Visual1-04_R-Accumbens
+46 0 0 255 255
+Visual1-07_R-Brainstem
+47 0 0 255 255
+Visual1-14_R-Caudate
+48 0 0 255 255
+Visual1-31_R-Cerebellum
+49 0 0 255 255
+Visual1-32_R-Cerebellum
+50 0 0 255 255
+Visual1-33_R-Cerebellum
+51 0 0 255 255
+Visual1-34_R-Cerebellum
+52 0 0 255 255
+Visual1-35_R-Cerebellum
+53 0 0 255 255
+Visual1-36_R-Cerebellum
+54 0 0 255 255
+Visual1-37_R-Cerebellum
+55 0 0 255 255
+Visual1-38_R-Cerebellum
+56 0 0 255 255
+Visual1-39_R-Cerebellum
+57 0 0 255 255
+Visual1-40_R-Cerebellum
+58 0 0 255 255
+Visual1-41_R-Cerebellum
+59 0 0 255 255
+Visual1-43_R-Diencephalon
+60 0 0 255 255
+Visual1-45_R-Hippocampus
+61 0 0 255 255
+Visual1-48_R-Pallidum
+62 0 0 255 255
+Visual1-49_R-Pallidum
+63 0 0 255 255
+Visual1-53_R-Putamen
+64 0 0 255 255
+Visual1-54_R-Putamen
+65 0 0 255 255
+Visual1-61_R-Thalamus
+66 0 0 255 255
+Visual1-62_R-Thalamus
+67 0 0 255 255
+Visual1-63_R-Thalamus
+68 0 0 255 255
+Visual1-10_LR-Brainstem
+69 0 0 255 255
+Visual2-28_L-Ctx
+70 100 0 255 255
+Visual2-29_L-Ctx
+71 100 0 255 255
+Visual2-30_L-Ctx
+72 100 0 255 255
+Visual2-31_L-Ctx
+73 100 0 255 255
+Visual2-32_L-Ctx
+74 100 0 255 255
+Visual2-33_L-Ctx
+75 100 0 255 255
+Visual2-34_L-Ctx
+76 100 0 255 255
+Visual2-35_L-Ctx
+77 100 0 255 255
+Visual2-36_L-Ctx
+78 100 0 255 255
+Visual2-37_L-Ctx
+79 100 0 255 255
+Visual2-38_L-Ctx
+80 100 0 255 255
+Visual2-39_L-Ctx
+81 100 0 255 255
+Visual2-40_L-Ctx
+82 100 0 255 255
+Visual2-41_L-Ctx
+83 100 0 255 255
+Visual2-42_L-Ctx
+84 100 0 255 255
+Visual2-43_L-Ctx
+85 100 0 255 255
+Visual2-44_L-Ctx
+86 100 0 255 255
+Visual2-45_L-Ctx
+87 100 0 255 255
+Visual2-46_L-Ctx
+88 100 0 255 255
+Visual2-47_L-Ctx
+89 100 0 255 255
+Visual2-48_L-Ctx
+90 100 0 255 255
+Visual2-49_L-Ctx
+91 100 0 255 255
+Visual2-50_L-Ctx
+92 100 0 255 255
+Visual2-51_L-Ctx
+93 100 0 255 255
+Visual2-52_L-Ctx
+94 100 0 255 255
+Visual2-53_L-Ctx
+95 100 0 255 255
+Visual2-54_L-Ctx
+96 100 0 255 255
+Visual2-01_R-Ctx
+97 100 0 255 255
+Visual2-02_R-Ctx
+98 100 0 255 255
+Visual2-03_R-Ctx
+99 100 0 255 255
+Visual2-04_R-Ctx
+100 100 0 255 255
+Visual2-05_R-Ctx
+101 100 0 255 255
+Visual2-06_R-Ctx
+102 100 0 255 255
+Visual2-07_R-Ctx
+103 100 0 255 255
+Visual2-08_R-Ctx
+104 100 0 255 255
+Visual2-09_R-Ctx
+105 100 0 255 255
+Visual2-10_R-Ctx
+106 100 0 255 255
+Visual2-11_R-Ctx
+107 100 0 255 255
+Visual2-12_R-Ctx
+108 100 0 255 255
+Visual2-13_R-Ctx
+109 100 0 255 255
+Visual2-14_R-Ctx
+110 100 0 255 255
+Visual2-15_R-Ctx
+111 100 0 255 255
+Visual2-16_R-Ctx
+112 100 0 255 255
+Visual2-17_R-Ctx
+113 100 0 255 255
+Visual2-18_R-Ctx
+114 100 0 255 255
+Visual2-19_R-Ctx
+115 100 0 255 255
+Visual2-20_R-Ctx
+116 100 0 255 255
+Visual2-21_R-Ctx
+117 100 0 255 255
+Visual2-22_R-Ctx
+118 100 0 255 255
+Visual2-23_R-Ctx
+119 100 0 255 255
+Visual2-24_R-Ctx
+120 100 0 255 255
+Visual2-25_R-Ctx
+121 100 0 255 255
+Visual2-26_R-Ctx
+122 100 0 255 255
+Visual2-27_R-Ctx
+123 100 0 255 255
+Visual2-01_L-Amygdala
+124 100 0 255 255
+Visual2-04_L-Brainstem
+125 100 0 255 255
+Visual2-05_L-Brainstem
+126 100 0 255 255
+Visual2-07_L-Brainstem
+127 100 0 255 255
+Visual2-08_L-Cerebellum
+128 100 0 255 255
+Visual2-09_L-Cerebellum
+129 100 0 255 255
+Visual2-10_L-Cerebellum
+130 100 0 255 255
+Visual2-11_L-Cerebellum
+131 100 0 255 255
+Visual2-16_L-Diencephalon
+132 100 0 255 255
+Visual2-20_L-Hippocampus
+133 100 0 255 255
+Visual2-21_L-Hippocampus
+134 100 0 255 255
+Visual2-22_L-Hippocampus
+135 100 0 255 255
+Visual2-23_L-Hippocampus
+136 100 0 255 255
+Visual2-24_L-Hippocampus
+137 100 0 255 255
+Visual2-28_L-Thalamus
+138 100 0 255 255
+Visual2-02_R-Amygdala
+139 100 0 255 255
+Visual2-06_R-Brainstem
+140 100 0 255 255
+Visual2-12_R-Cerebellum
+141 100 0 255 255
+Visual2-13_R-Cerebellum
+142 100 0 255 255
+Visual2-14_R-Cerebellum
+143 100 0 255 255
+Visual2-15_R-Cerebellum
+144 100 0 255 255
+Visual2-17_R-Diencephalon
+145 100 0 255 255
+Visual2-18_R-Diencephalon
+146 100 0 255 255
+Visual2-19_R-Diencephalon
+147 100 0 255 255
+Visual2-25_R-Hippocampus
+148 100 0 255 255
+Visual2-26_R-Hippocampus
+149 100 0 255 255
+Visual2-27_R-Hippocampus
+150 100 0 255 255
+Visual2-29_R-Thalamus
+151 100 0 255 255
+Visual2-03_LR-Brainstem
+152 100 0 255 255
+Somatomotor-21_L-Ctx
+153 0 255 255 255
+Somatomotor-22_L-Ctx
+154 0 255 255 255
+Somatomotor-23_L-Ctx
+155 0 255 255 255
+Somatomotor-24_L-Ctx
+156 0 255 255 255
+Somatomotor-25_L-Ctx
+157 0 255 255 255
+Somatomotor-26_L-Ctx
+158 0 255 255 255
+Somatomotor-27_L-Ctx
+159 0 255 255 255
+Somatomotor-28_L-Ctx
+160 0 255 255 255
+Somatomotor-29_L-Ctx
+161 0 255 255 255
+Somatomotor-30_L-Ctx
+162 0 255 255 255
+Somatomotor-31_L-Ctx
+163 0 255 255 255
+Somatomotor-32_L-Ctx
+164 0 255 255 255
+Somatomotor-33_L-Ctx
+165 0 255 255 255
+Somatomotor-34_L-Ctx
+166 0 255 255 255
+Somatomotor-35_L-Ctx
+167 0 255 255 255
+Somatomotor-36_L-Ctx
+168 0 255 255 255
+Somatomotor-37_L-Ctx
+169 0 255 255 255
+Somatomotor-38_L-Ctx
+170 0 255 255 255
+Somatomotor-39_L-Ctx
+171 0 255 255 255
+Somatomotor-01_R-Ctx
+172 0 255 255 255
+Somatomotor-02_R-Ctx
+173 0 255 255 255
+Somatomotor-03_R-Ctx
+174 0 255 255 255
+Somatomotor-04_R-Ctx
+175 0 255 255 255
+Somatomotor-05_R-Ctx
+176 0 255 255 255
+Somatomotor-06_R-Ctx
+177 0 255 255 255
+Somatomotor-07_R-Ctx
+178 0 255 255 255
+Somatomotor-08_R-Ctx
+179 0 255 255 255
+Somatomotor-09_R-Ctx
+180 0 255 255 255
+Somatomotor-10_R-Ctx
+181 0 255 255 255
+Somatomotor-11_R-Ctx
+182 0 255 255 255
+Somatomotor-12_R-Ctx
+183 0 255 255 255
+Somatomotor-13_R-Ctx
+184 0 255 255 255
+Somatomotor-14_R-Ctx
+185 0 255 255 255
+Somatomotor-15_R-Ctx
+186 0 255 255 255
+Somatomotor-16_R-Ctx
+187 0 255 255 255
+Somatomotor-17_R-Ctx
+188 0 255 255 255
+Somatomotor-18_R-Ctx
+189 0 255 255 255
+Somatomotor-19_R-Ctx
+190 0 255 255 255
+Somatomotor-20_R-Ctx
+191 0 255 255 255
+Somatomotor-02_L-Amygdala
+192 0 255 255 255
+Somatomotor-06_L-Cerebellum
+193 0 255 255 255
+Somatomotor-07_L-Cerebellum
+194 0 255 255 255
+Somatomotor-08_L-Cerebellum
+195 0 255 255 255
+Somatomotor-09_L-Cerebellum
+196 0 255 255 255
+Somatomotor-10_L-Cerebellum
+197 0 255 255 255
+Somatomotor-15_L-Diencephalon
+198 0 255 255 255
+Somatomotor-16_L-Hippocampus
+199 0 255 255 255
+Somatomotor-17_L-Hippocampus
+200 0 255 255 255
+Somatomotor-18_L-Hippocampus
+201 0 255 255 255
+Somatomotor-22_L-Pallidum
+202 0 255 255 255
+Somatomotor-25_L-Putamen
+203 0 255 255 255
+Somatomotor-27_L-Thalamus
+204 0 255 255 255
+Somatomotor-01_R-Accumbens
+205 0 255 255 255
+Somatomotor-03_R-Amygdala
+206 0 255 255 255
+Somatomotor-11_R-Cerebellum
+207 0 255 255 255
+Somatomotor-12_R-Cerebellum
+208 0 255 255 255
+Somatomotor-13_R-Cerebellum
+209 0 255 255 255
+Somatomotor-14_R-Cerebellum
+210 0 255 255 255
+Somatomotor-19_R-Hippocampus
+211 0 255 255 255
+Somatomotor-20_R-Hippocampus
+212 0 255 255 255
+Somatomotor-21_R-Hippocampus
+213 0 255 255 255
+Somatomotor-23_R-Pallidum
+214 0 255 255 255
+Somatomotor-24_R-Pallidum
+215 0 255 255 255
+Somatomotor-26_R-Putamen
+216 0 255 255 255
+Somatomotor-28_R-Thalamus
+217 0 255 255 255
+Somatomotor-04_LR-Brainstem
+218 0 255 255 255
+Somatomotor-05_LR-Brainstem
+219 0 255 255 255
+Cingulo-Opercular-30_L-Ctx
+220 153 0 153 255
+Cingulo-Opercular-31_L-Ctx
+221 153 0 153 255
+Cingulo-Opercular-32_L-Ctx
+222 153 0 153 255
+Cingulo-Opercular-33_L-Ctx
+223 153 0 153 255
+Cingulo-Opercular-34_L-Ctx
+224 153 0 153 255
+Cingulo-Opercular-35_L-Ctx
+225 153 0 153 255
+Cingulo-Opercular-36_L-Ctx
+226 153 0 153 255
+Cingulo-Opercular-37_L-Ctx
+227 153 0 153 255
+Cingulo-Opercular-38_L-Ctx
+228 153 0 153 255
+Cingulo-Opercular-39_L-Ctx
+229 153 0 153 255
+Cingulo-Opercular-40_L-Ctx
+230 153 0 153 255
+Cingulo-Opercular-41_L-Ctx
+231 153 0 153 255
+Cingulo-Opercular-42_L-Ctx
+232 153 0 153 255
+Cingulo-Opercular-43_L-Ctx
+233 153 0 153 255
+Cingulo-Opercular-44_L-Ctx
+234 153 0 153 255
+Cingulo-Opercular-45_L-Ctx
+235 153 0 153 255
+Cingulo-Opercular-46_L-Ctx
+236 153 0 153 255
+Cingulo-Opercular-47_L-Ctx
+237 153 0 153 255
+Cingulo-Opercular-48_L-Ctx
+238 153 0 153 255
+Cingulo-Opercular-49_L-Ctx
+239 153 0 153 255
+Cingulo-Opercular-50_L-Ctx
+240 153 0 153 255
+Cingulo-Opercular-51_L-Ctx
+241 153 0 153 255
+Cingulo-Opercular-52_L-Ctx
+242 153 0 153 255
+Cingulo-Opercular-53_L-Ctx
+243 153 0 153 255
+Cingulo-Opercular-54_L-Ctx
+244 153 0 153 255
+Cingulo-Opercular-55_L-Ctx
+245 153 0 153 255
+Cingulo-Opercular-56_L-Ctx
+246 153 0 153 255
+Cingulo-Opercular-01_R-Ctx
+247 153 0 153 255
+Cingulo-Opercular-02_R-Ctx
+248 153 0 153 255
+Cingulo-Opercular-03_R-Ctx
+249 153 0 153 255
+Cingulo-Opercular-06_R-Ctx
+250 153 0 153 255
+Cingulo-Opercular-07_R-Ctx
+251 153 0 153 255
+Cingulo-Opercular-08_R-Ctx
+252 153 0 153 255
+Cingulo-Opercular-09_R-Ctx
+253 153 0 153 255
+Cingulo-Opercular-10_R-Ctx
+254 153 0 153 255
+Cingulo-Opercular-11_R-Ctx
+255 153 0 153 255
+Cingulo-Opercular-12_R-Ctx
+256 153 0 153 255
+Cingulo-Opercular-13_R-Ctx
+257 153 0 153 255
+Cingulo-Opercular-14_R-Ctx
+258 153 0 153 255
+Cingulo-Opercular-15_R-Ctx
+259 153 0 153 255
+Cingulo-Opercular-16_R-Ctx
+260 153 0 153 255
+Cingulo-Opercular-17_R-Ctx
+261 153 0 153 255
+Cingulo-Opercular-18_R-Ctx
+262 153 0 153 255
+Cingulo-Opercular-19_R-Ctx
+263 153 0 153 255
+Cingulo-Opercular-20_R-Ctx
+264 153 0 153 255
+Cingulo-Opercular-21_R-Ctx
+265 153 0 153 255
+Cingulo-Opercular-22_R-Ctx
+266 153 0 153 255
+Cingulo-Opercular-23_R-Ctx
+267 153 0 153 255
+Cingulo-Opercular-24_R-Ctx
+268 153 0 153 255
+Cingulo-Opercular-25_R-Ctx
+269 153 0 153 255
+Cingulo-Opercular-26_R-Ctx
+270 153 0 153 255
+Cingulo-Opercular-27_R-Ctx
+271 153 0 153 255
+Cingulo-Opercular-28_R-Ctx
+272 153 0 153 255
+Cingulo-Opercular-29_R-Ctx
+273 153 0 153 255
+Cingulo-Opercular-04_R-Ctx
+274 153 0 153 255
+Cingulo-Opercular-05_R-Ctx
+275 153 0 153 255
+Cingulo-Opercular-01_L-Accumbens
+276 153 0 153 255
+Cingulo-Opercular-06_L-Brainstem
+277 153 0 153 255
+Cingulo-Opercular-08_L-Caudate
+278 153 0 153 255
+Cingulo-Opercular-09_L-Caudate
+279 153 0 153 255
+Cingulo-Opercular-12_L-Cerebellum
+280 153 0 153 255
+Cingulo-Opercular-13_L-Cerebellum
+281 153 0 153 255
+Cingulo-Opercular-14_L-Cerebellum
+282 153 0 153 255
+Cingulo-Opercular-15_L-Cerebellum
+283 153 0 153 255
+Cingulo-Opercular-23_L-Diencephalon
+284 153 0 153 255
+Cingulo-Opercular-24_L-Diencephalon
+285 153 0 153 255
+Cingulo-Opercular-25_L-Diencephalon
+286 153 0 153 255
+Cingulo-Opercular-26_L-Diencephalon
+287 153 0 153 255
+Cingulo-Opercular-32_L-Pallidum
+288 153 0 153 255
+Cingulo-Opercular-34_L-Putamen
+289 153 0 153 255
+Cingulo-Opercular-36_L-Thalamus
+290 153 0 153 255
+Cingulo-Opercular-37_L-Thalamus
+291 153 0 153 255
+Cingulo-Opercular-02_R-Accumbens
+292 153 0 153 255
+Cingulo-Opercular-03_R-Accumbens
+293 153 0 153 255
+Cingulo-Opercular-05_R-Brainstem
+294 153 0 153 255
+Cingulo-Opercular-07_R-Brainstem
+295 153 0 153 255
+Cingulo-Opercular-10_R-Caudate
+296 153 0 153 255
+Cingulo-Opercular-11_R-Caudate
+297 153 0 153 255
+Cingulo-Opercular-16_R-Cerebellum
+298 153 0 153 255
+Cingulo-Opercular-17_R-Cerebellum
+299 153 0 153 255
+Cingulo-Opercular-18_R-Cerebellum
+300 153 0 153 255
+Cingulo-Opercular-19_R-Cerebellum
+301 153 0 153 255
+Cingulo-Opercular-20_R-Cerebellum
+302 153 0 153 255
+Cingulo-Opercular-21_R-Cerebellum
+303 153 0 153 255
+Cingulo-Opercular-22_R-Cerebellum
+304 153 0 153 255
+Cingulo-Opercular-27_R-Diencephalon
+305 153 0 153 255
+Cingulo-Opercular-28_R-Diencephalon
+306 153 0 153 255
+Cingulo-Opercular-29_R-Diencephalon
+307 153 0 153 255
+Cingulo-Opercular-30_R-Diencephalon
+308 153 0 153 255
+Cingulo-Opercular-31_R-Diencephalon
+309 153 0 153 255
+Cingulo-Opercular-33_R-Pallidum
+310 153 0 153 255
+Cingulo-Opercular-35_R-Putamen
+311 153 0 153 255
+Cingulo-Opercular-38_R-Thalamus
+312 153 0 153 255
+Cingulo-Opercular-39_R-Thalamus
+313 153 0 153 255
+Cingulo-Opercular-04_LR-Brainstem
+314 153 0 153 255
+Dorsal-Attention-12_L-Ctx
+315 0 255 0 255
+Dorsal-Attention-13_L-Ctx
+316 0 255 0 255
+Dorsal-Attention-14_L-Ctx
+317 0 255 0 255
+Dorsal-Attention-15_L-Ctx
+318 0 255 0 255
+Dorsal-Attention-16_L-Ctx
+319 0 255 0 255
+Dorsal-Attention-17_L-Ctx
+320 0 255 0 255
+Dorsal-Attention-18_L-Ctx
+321 0 255 0 255
+Dorsal-Attention-19_L-Ctx
+322 0 255 0 255
+Dorsal-Attention-20_L-Ctx
+323 0 255 0 255
+Dorsal-Attention-21_L-Ctx
+324 0 255 0 255
+Dorsal-Attention-22_L-Ctx
+325 0 255 0 255
+Dorsal-Attention-23_L-Ctx
+326 0 255 0 255
+Dorsal-Attention-01_R-Ctx
+327 0 255 0 255
+Dorsal-Attention-02_R-Ctx
+328 0 255 0 255
+Dorsal-Attention-03_R-Ctx
+329 0 255 0 255
+Dorsal-Attention-04_R-Ctx
+330 0 255 0 255
+Dorsal-Attention-05_R-Ctx
+331 0 255 0 255
+Dorsal-Attention-06_R-Ctx
+332 0 255 0 255
+Dorsal-Attention-07_R-Ctx
+333 0 255 0 255
+Dorsal-Attention-08_R-Ctx
+334 0 255 0 255
+Dorsal-Attention-09_R-Ctx
+335 0 255 0 255
+Dorsal-Attention-10_R-Ctx
+336 0 255 0 255
+Dorsal-Attention-11_R-Ctx
+337 0 255 0 255
+Dorsal-Attention-01_L-Amygdala
+338 0 255 0 255
+Dorsal-Attention-03_L-Brainstem
+339 0 255 0 255
+Dorsal-Attention-04_L-Brainstem
+340 0 255 0 255
+Dorsal-Attention-06_L-Brainstem
+341 0 255 0 255
+Dorsal-Attention-08_L-Cerebellum
+342 0 255 0 255
+Dorsal-Attention-09_L-Cerebellum
+343 0 255 0 255
+Dorsal-Attention-10_L-Cerebellum
+344 0 255 0 255
+Dorsal-Attention-11_L-Cerebellum
+345 0 255 0 255
+Dorsal-Attention-12_L-Cerebellum
+346 0 255 0 255
+Dorsal-Attention-13_L-Cerebellum
+347 0 255 0 255
+Dorsal-Attention-14_L-Cerebellum
+348 0 255 0 255
+Dorsal-Attention-21_L-Putamen
+349 0 255 0 255
+Dorsal-Attention-23_L-Thalamus
+350 0 255 0 255
+Dorsal-Attention-02_R-Brainstem
+351 0 255 0 255
+Dorsal-Attention-05_R-Brainstem
+352 0 255 0 255
+Dorsal-Attention-07_R-Brainstem
+353 0 255 0 255
+Dorsal-Attention-15_R-Cerebellum
+354 0 255 0 255
+Dorsal-Attention-16_R-Cerebellum
+355 0 255 0 255
+Dorsal-Attention-17_R-Cerebellum
+356 0 255 0 255
+Dorsal-Attention-18_R-Cerebellum
+357 0 255 0 255
+Dorsal-Attention-19_R-Cerebellum
+358 0 255 0 255
+Dorsal-Attention-20_R-Cerebellum
+359 0 255 0 255
+Dorsal-Attention-22_R-Putamen
+360 0 255 0 255
+Dorsal-Attention-24_R-Thalamus
+361 0 255 0 255
+Language-10_L-Ctx
+362 0 155 155 255
+Language-11_L-Ctx
+363 0 155 155 255
+Language-12_L-Ctx
+364 0 155 155 255
+Language-13_L-Ctx
+365 0 155 155 255
+Language-14_L-Ctx
+366 0 155 155 255
+Language-15_L-Ctx
+367 0 155 155 255
+Language-16_L-Ctx
+368 0 155 155 255
+Language-17_L-Ctx
+369 0 155 155 255
+Language-18_L-Ctx
+370 0 155 155 255
+Language-19_L-Ctx
+371 0 155 155 255
+Language-20_L-Ctx
+372 0 155 155 255
+Language-21_L-Ctx
+373 0 155 155 255
+Language-22_L-Ctx
+374 0 155 155 255
+Language-23_L-Ctx
+375 0 155 155 255
+Language-01_R-Ctx
+376 0 155 155 255
+Language-02_R-Ctx
+377 0 155 155 255
+Language-03_R-Ctx
+378 0 155 155 255
+Language-04_R-Ctx
+379 0 155 155 255
+Language-05_R-Ctx
+380 0 155 155 255
+Language-06_R-Ctx
+381 0 155 155 255
+Language-07_R-Ctx
+382 0 155 155 255
+Language-08_R-Ctx
+383 0 155 155 255
+Language-09_R-Ctx
+384 0 155 155 255
+Language-01_L-Amygdala
+385 0 155 155 255
+Language-03_L-Caudate
+386 0 155 155 255
+Language-05_L-Cerebellum
+387 0 155 155 255
+Language-14_L-Putamen
+388 0 155 155 255
+Language-02_R-Amygdala
+389 0 155 155 255
+Language-04_R-Caudate
+390 0 155 155 255
+Language-06_R-Cerebellum
+391 0 155 155 255
+Language-07_R-Cerebellum
+392 0 155 155 255
+Language-08_R-Cerebellum
+393 0 155 155 255
+Language-09_R-Cerebellum
+394 0 155 155 255
+Language-10_R-Cerebellum
+395 0 155 155 255
+Language-11_R-Cerebellum
+396 0 155 155 255
+Language-12_R-Cerebellum
+397 0 155 155 255
+Language-13_R-Cerebellum
+398 0 155 155 255
+Frontoparietal-29_L-Ctx
+399 255 255 0 255
+Frontoparietal-30_L-Ctx
+400 255 255 0 255
+Frontoparietal-31_L-Ctx
+401 255 255 0 255
+Frontoparietal-32_L-Ctx
+402 255 255 0 255
+Frontoparietal-33_L-Ctx
+403 255 255 0 255
+Frontoparietal-34_L-Ctx
+404 255 255 0 255
+Frontoparietal-35_L-Ctx
+405 255 255 0 255
+Frontoparietal-36_L-Ctx
+406 255 255 0 255
+Frontoparietal-37_L-Ctx
+407 255 255 0 255
+Frontoparietal-38_L-Ctx
+408 255 255 0 255
+Frontoparietal-39_L-Ctx
+409 255 255 0 255
+Frontoparietal-40_L-Ctx
+410 255 255 0 255
+Frontoparietal-41_L-Ctx
+411 255 255 0 255
+Frontoparietal-42_L-Ctx
+412 255 255 0 255
+Frontoparietal-43_L-Ctx
+413 255 255 0 255
+Frontoparietal-44_L-Ctx
+414 255 255 0 255
+Frontoparietal-45_L-Ctx
+415 255 255 0 255
+Frontoparietal-46_L-Ctx
+416 255 255 0 255
+Frontoparietal-47_L-Ctx
+417 255 255 0 255
+Frontoparietal-48_L-Ctx
+418 255 255 0 255
+Frontoparietal-49_L-Ctx
+419 255 255 0 255
+Frontoparietal-50_L-Ctx
+420 255 255 0 255
+Frontoparietal-01_R-Ctx
+421 255 255 0 255
+Frontoparietal-02_R-Ctx
+422 255 255 0 255
+Frontoparietal-03_R-Ctx
+423 255 255 0 255
+Frontoparietal-04_R-Ctx
+424 255 255 0 255
+Frontoparietal-05_R-Ctx
+425 255 255 0 255
+Frontoparietal-06_R-Ctx
+426 255 255 0 255
+Frontoparietal-07_R-Ctx
+427 255 255 0 255
+Frontoparietal-08_R-Ctx
+428 255 255 0 255
+Frontoparietal-09_R-Ctx
+429 255 255 0 255
+Frontoparietal-10_R-Ctx
+430 255 255 0 255
+Frontoparietal-11_R-Ctx
+431 255 255 0 255
+Frontoparietal-12_R-Ctx
+432 255 255 0 255
+Frontoparietal-13_R-Ctx
+433 255 255 0 255
+Frontoparietal-14_R-Ctx
+434 255 255 0 255
+Frontoparietal-15_R-Ctx
+435 255 255 0 255
+Frontoparietal-16_R-Ctx
+436 255 255 0 255
+Frontoparietal-17_R-Ctx
+437 255 255 0 255
+Frontoparietal-18_R-Ctx
+438 255 255 0 255
+Frontoparietal-19_R-Ctx
+439 255 255 0 255
+Frontoparietal-20_R-Ctx
+440 255 255 0 255
+Frontoparietal-21_R-Ctx
+441 255 255 0 255
+Frontoparietal-22_R-Ctx
+442 255 255 0 255
+Frontoparietal-23_R-Ctx
+443 255 255 0 255
+Frontoparietal-24_R-Ctx
+444 255 255 0 255
+Frontoparietal-25_R-Ctx
+445 255 255 0 255
+Frontoparietal-26_R-Ctx
+446 255 255 0 255
+Frontoparietal-27_R-Ctx
+447 255 255 0 255
+Frontoparietal-28_R-Ctx
+448 255 255 0 255
+Frontoparietal-01_L-Brainstem
+449 255 255 0 255
+Frontoparietal-02_L-Brainstem
+450 255 255 0 255
+Frontoparietal-06_L-Brainstem
+451 255 255 0 255
+Frontoparietal-09_L-Brainstem
+452 255 255 0 255
+Frontoparietal-10_L-Caudate
+453 255 255 0 255
+Frontoparietal-12_L-Cerebellum
+454 255 255 0 255
+Frontoparietal-13_L-Cerebellum
+455 255 255 0 255
+Frontoparietal-14_L-Cerebellum
+456 255 255 0 255
+Frontoparietal-15_L-Cerebellum
+457 255 255 0 255
+Frontoparietal-16_L-Cerebellum
+458 255 255 0 255
+Frontoparietal-17_L-Cerebellum
+459 255 255 0 255
+Frontoparietal-18_L-Cerebellum
+460 255 255 0 255
+Frontoparietal-19_L-Cerebellum
+461 255 255 0 255
+Frontoparietal-20_L-Cerebellum
+462 255 255 0 255
+Frontoparietal-21_L-Cerebellum
+463 255 255 0 255
+Frontoparietal-22_L-Cerebellum
+464 255 255 0 255
+Frontoparietal-23_L-Cerebellum
+465 255 255 0 255
+Frontoparietal-24_L-Cerebellum
+466 255 255 0 255
+Frontoparietal-25_L-Cerebellum
+467 255 255 0 255
+Frontoparietal-39_L-Diencephalon
+468 255 255 0 255
+Frontoparietal-41_L-Hippocampus
+469 255 255 0 255
+Frontoparietal-42_L-Pallidum
+470 255 255 0 255
+Frontoparietal-45_L-Putamen
+471 255 255 0 255
+Frontoparietal-47_L-Thalamus
+472 255 255 0 255
+Frontoparietal-04_R-Brainstem
+473 255 255 0 255
+Frontoparietal-05_R-Brainstem
+474 255 255 0 255
+Frontoparietal-08_R-Brainstem
+475 255 255 0 255
+Frontoparietal-11_R-Caudate
+476 255 255 0 255
+Frontoparietal-26_R-Cerebellum
+477 255 255 0 255
+Frontoparietal-27_R-Cerebellum
+478 255 255 0 255
+Frontoparietal-28_R-Cerebellum
+479 255 255 0 255
+Frontoparietal-29_R-Cerebellum
+480 255 255 0 255
+Frontoparietal-30_R-Cerebellum
+481 255 255 0 255
+Frontoparietal-31_R-Cerebellum
+482 255 255 0 255
+Frontoparietal-32_R-Cerebellum
+483 255 255 0 255
+Frontoparietal-33_R-Cerebellum
+484 255 255 0 255
+Frontoparietal-34_R-Cerebellum
+485 255 255 0 255
+Frontoparietal-35_R-Cerebellum
+486 255 255 0 255
+Frontoparietal-36_R-Cerebellum
+487 255 255 0 255
+Frontoparietal-37_R-Cerebellum
+488 255 255 0 255
+Frontoparietal-38_R-Cerebellum
+489 255 255 0 255
+Frontoparietal-40_R-Diencephalon
+490 255 255 0 255
+Frontoparietal-43_R-Pallidum
+491 255 255 0 255
+Frontoparietal-44_R-Pallidum
+492 255 255 0 255
+Frontoparietal-46_R-Putamen
+493 255 255 0 255
+Frontoparietal-48_R-Thalamus
+494 255 255 0 255
+Frontoparietal-03_LR-Brainstem
+495 250 255 0 255
+Frontoparietal-07_LR-Brainstem
+496 250 255 0 255
+Auditory-08_L-Ctx
+497 250 62 251 255
+Auditory-09_L-Ctx
+498 250 62 251 255
+Auditory-10_L-Ctx
+499 250 62 251 255
+Auditory-11_L-Ctx
+500 255 62 251 255
+Auditory-12_L-Ctx
+501 250 62 251 255
+Auditory-13_L-Ctx
+502 250 62 251 255
+Auditory-14_L-Ctx
+503 250 62 251 255
+Auditory-15_L-Ctx
+504 250 62 251 255
+Auditory-01_R-Ctx
+505 250 62 251 255
+Auditory-02_R-Ctx
+506 250 62 251 255
+Auditory-03_R-Ctx
+507 250 62 251 255
+Auditory-04_R-Ctx
+508 250 62 251 255
+Auditory-05_R-Ctx
+509 250 62 251 255
+Auditory-06_R-Ctx
+510 250 62 251 255
+Auditory-07_R-Ctx
+511 250 62 251 255
+Auditory-01_L-Accumbens
+512 250 62 251 255
+Auditory-03_L-Brainstem
+513 250 62 251 255
+Auditory-04_L-Brainstem
+514 250 62 251 255
+Auditory-06_L-Cerebellum
+515 250 62 251 255
+Auditory-08_L-Diencephalon
+516 250 62 251 255
+Auditory-09_L-Diencephalon
+517 250 62 251 255
+Auditory-10_L-Diencephalon
+518 250 62 251 255
+Auditory-14_L-Hippocampus
+519 250 62 251 255
+Auditory-15_L-Hippocampus
+520 250 62 251 255
+Auditory-16_L-Hippocampus
+521 250 62 251 255
+Auditory-17_L-Hippocampus
+522 250 62 251 255
+Auditory-20_L-Pallidum
+523 250 62 251 255
+Auditory-21_L-Pallidum
+524 250 62 251 255
+Auditory-23_L-Thalamus
+525 250 62 251 255
+Auditory-24_L-Thalamus
+526 250 62 251 255
+Auditory-25_L-Thalamus
+527 250 62 251 255
+Auditory-26_L-Thalamus
+528 250 62 251 255
+Auditory-27_L-Thalamus
+529 250 62 251 255
+Auditory-02_R-Brainstem
+530 250 62 251 255
+Auditory-07_R-Cerebellum
+531 250 62 251 255
+Auditory-11_R-Diencephalon
+532 250 62 251 255
+Auditory-12_R-Diencephalon
+533 250 62 251 255
+Auditory-13_R-Diencephalon
+534 250 62 251 255
+Auditory-18_R-Hippocampus
+535 250 62 251 255
+Auditory-19_R-Hippocampus
+536 250 62 251 255
+Auditory-22_R-Pallidum
+537 250 62 251 255
+Auditory-28_R-Thalamus
+538 250 62 251 255
+Auditory-29_R-Thalamus
+539 250 62 251 255
+Auditory-30_R-Thalamus
+540 250 62 251 255
+Auditory-31_R-Thalamus
+541 250 62 251 255
+Auditory-05_LR-Brainstem
+542 250 62 251 255
+Default-38_L-Ctx
+543 255 0 0 255
+Default-39_L-Ctx
+544 255 0 0 255
+Default-40_L-Ctx
+545 255 0 0 255
+Default-41_L-Ctx
+546 255 0 0 255
+Default-42_L-Ctx
+547 255 0 0 255
+Default-43_L-Ctx
+548 255 0 0 255
+Default-44_L-Ctx
+549 255 0 0 255
+Default-45_L-Ctx
+550 255 0 0 255
+Default-46_L-Ctx
+551 255 0 0 255
+Default-47_L-Ctx
+552 255 0 0 255
+Default-48_L-Ctx
+553 255 0 0 255
+Default-49_L-Ctx
+554 255 0 0 255
+Default-50_L-Ctx
+555 255 0 0 255
+Default-51_L-Ctx
+556 255 0 0 255
+Default-52_L-Ctx
+557 255 0 0 255
+Default-53_L-Ctx
+558 255 0 0 255
+Default-54_L-Ctx
+559 255 0 0 255
+Default-55_L-Ctx
+560 255 0 0 255
+Default-56_L-Ctx
+561 255 0 0 255
+Default-57_L-Ctx
+562 255 0 0 255
+Default-58_L-Ctx
+563 255 0 0 255
+Default-59_L-Ctx
+564 255 0 0 255
+Default-60_L-Ctx
+565 255 0 0 255
+Default-61_L-Ctx
+566 255 0 0 255
+Default-62_L-Ctx
+567 255 0 0 255
+Default-63_L-Ctx
+568 255 0 0 255
+Default-64_L-Ctx
+569 255 0 0 255
+Default-65_L-Ctx
+570 255 0 0 255
+Default-66_L-Ctx
+571 255 0 0 255
+Default-67_L-Ctx
+572 255 0 0 255
+Default-68_L-Ctx
+573 255 0 0 255
+Default-69_L-Ctx
+574 255 0 0 255
+Default-70_L-Ctx
+575 255 0 0 255
+Default-71_L-Ctx
+576 255 0 0 255
+Default-72_L-Ctx
+577 255 0 0 255
+Default-73_L-Ctx
+578 255 0 0 255
+Default-74_L-Ctx
+579 255 0 0 255
+Default-75_L-Ctx
+580 255 0 0 255
+Default-76_L-Ctx
+581 255 0 0 255
+Default-77_L-Ctx
+582 255 0 0 255
+Default-01_R-Ctx
+583 255 0 0 255
+Default-02_R-Ctx
+584 255 0 0 255
+Default-03_R-Ctx
+585 255 0 0 255
+Default-04_R-Ctx
+586 255 0 0 255
+Default-05_R-Ctx
+587 255 0 0 255
+Default-06_R-Ctx
+588 255 0 0 255
+Default-07_R-Ctx
+589 255 0 0 255
+Default-08_R-Ctx
+590 255 0 0 255
+Default-09_R-Ctx
+591 255 0 0 255
+Default-10_R-Ctx
+592 255 0 0 255
+Default-11_R-Ctx
+593 255 0 0 255
+Default-12_R-Ctx
+594 255 0 0 255
+Default-13_R-Ctx
+595 255 0 0 255
+Default-14_R-Ctx
+596 255 0 0 255
+Default-15_R-Ctx
+597 255 0 0 255
+Default-16_R-Ctx
+598 255 0 0 255
+Default-17_R-Ctx
+599 255 0 0 255
+Default-18_R-Ctx
+600 255 0 0 255
+Default-19_R-Ctx
+601 255 0 0 255
+Default-20_R-Ctx
+602 255 0 0 255
+Default-21_R-Ctx
+603 255 0 0 255
+Default-22_R-Ctx
+604 255 0 0 255
+Default-23_R-Ctx
+605 255 0 0 255
+Default-24_R-Ctx
+606 255 0 0 255
+Default-25_R-Ctx
+607 255 0 0 255
+Default-26_R-Ctx
+608 255 0 0 255
+Default-27_R-Ctx
+609 255 0 0 255
+Default-28_R-Ctx
+610 255 0 0 255
+Default-29_R-Ctx
+611 255 0 0 255
+Default-30_R-Ctx
+612 255 0 0 255
+Default-31_R-Ctx
+613 255 0 0 255
+Default-32_R-Ctx
+614 255 0 0 255
+Default-33_R-Ctx
+615 255 0 0 255
+Default-34_R-Ctx
+616 255 0 0 255
+Default-35_R-Ctx
+617 255 0 0 255
+Default-36_R-Ctx
+618 255 0 0 255
+Default-37_R-Ctx
+619 255 0 0 255
+Default-01_L-Accumbens
+620 255 0 0 255
+Default-05_L-Caudate
+621 255 0 0 255
+Default-06_L-Caudate
+622 255 0 0 255
+Default-07_L-Caudate
+623 255 0 0 255
+Default-10_L-Cerebellum
+624 255 0 0 255
+Default-11_L-Cerebellum
+625 255 0 0 255
+Default-12_L-Cerebellum
+626 255 0 0 255
+Default-13_L-Cerebellum
+627 255 0 0 255
+Default-18_L-Diencephalon
+628 255 0 0 255
+Default-19_L-Diencephalon
+629 255 0 0 255
+Default-23_L-Hippocampus
+630 255 0 0 255
+Default-24_L-Hippocampus
+631 255 0 0 255
+Default-27_L-Thalamus
+632 255 0 0 255
+Default-28_L-Thalamus
+633 255 0 0 255
+Default-29_L-Thalamus
+634 255 0 0 255
+Default-02_R-Accumbens
+635 255 0 0 255
+Default-08_R-Caudate
+636 255 0 0 255
+Default-09_R-Caudate
+637 255 0 0 255
+Default-14_R-Cerebellum
+638 255 0 0 255
+Default-15_R-Cerebellum
+639 255 0 0 255
+Default-16_R-Cerebellum
+640 255 0 0 255
+Default-17_R-Cerebellum
+641 255 0 0 255
+Default-20_R-Diencephalon
+642 255 0 0 255
+Default-21_R-Diencephalon
+643 255 0 0 255
+Default-22_R-Diencephalon
+644 255 0 0 255
+Default-25_R-Hippocampus
+645 255 0 0 255
+Default-26_R-Hippocampus
+646 255 0 0 255
+Default-30_R-Thalamus
+647 255 0 0 255
+Default-31_R-Thalamus
+648 255 0 0 255
+Default-32_R-Thalamus
+649 255 0 0 255
+Default-03_LR-Brainstem
+650 255 0 0 255
+Default-04_LR-Brainstem
+651 255 0 0 255
+Posterior-Multimodal-05_L-Ctx
+652 177 89 40 255
+Posterior-Multimodal-06_L-Ctx
+653 177 89 40 255
+Posterior-Multimodal-07_L-Ctx
+654 177 89 40 255
+Posterior-Multimodal-01_R-Ctx
+655 177 89 40 255
+Posterior-Multimodal-02_R-Ctx
+656 177 89 40 255
+Posterior-Multimodal-03_R-Ctx
+657 177 89 40 255
+Posterior-Multimodal-04_R-Ctx
+658 177 89 40 255
+Posterior-Multimodal-01_L-Amygdala
+659 177 89 40 255
+Posterior-Multimodal-05_L-Brainstem
+660 177 89 40 255
+Posterior-Multimodal-06_L-Brainstem
+661 177 89 40 255
+Posterior-Multimodal-08_L-Brainstem
+662 177 89 40 255
+Posterior-Multimodal-10_L-Cerebellum
+663 177 89 40 255
+Posterior-Multimodal-11_L-Cerebellum
+664 177 89 40 255
+Posterior-Multimodal-12_L-Cerebellum
+665 177 89 40 255
+Posterior-Multimodal-13_L-Cerebellum
+666 177 89 40 255
+Posterior-Multimodal-14_L-Cerebellum
+667 177 89 40 255
+Posterior-Multimodal-21_L-Diencephalon
+668 177 89 40 255
+Posterior-Multimodal-22_L-Diencephalon
+669 177 89 40 255
+Posterior-Multimodal-23_L-Diencephalon
+670 177 89 40 255
+Posterior-Multimodal-28_L-Thalamus
+671 177 89 40 255
+Posterior-Multimodal-02_R-Amygdala
+672 177 89 40 255
+Posterior-Multimodal-03_R-Brainstem
+673 177 89 40 255
+Posterior-Multimodal-04_R-Brainstem
+674 177 89 40 255
+Posterior-Multimodal-07_R-Brainstem
+675 177 89 40 255
+Posterior-Multimodal-15_R-Cerebellum
+676 177 89 40 255
+Posterior-Multimodal-16_R-Cerebellum
+677 177 89 40 255
+Posterior-Multimodal-17_R-Cerebellum
+678 177 89 40 255
+Posterior-Multimodal-18_R-Cerebellum
+679 177 89 40 255
+Posterior-Multimodal-19_R-Cerebellum
+680 177 89 40 255
+Posterior-Multimodal-20_R-Cerebellum
+681 177 89 40 255
+Posterior-Multimodal-24_R-Diencephalon
+682 177 89 40 255
+Posterior-Multimodal-25_R-Diencephalon
+683 177 89 40 255
+Posterior-Multimodal-26_R-Diencephalon
+684 177 89 40 255
+Posterior-Multimodal-27_R-Diencephalon
+685 177 89 40 255
+Posterior-Multimodal-29_R-Thalamus
+686 177 89 40 255
+Posterior-Multimodal-09_LR-Brainstem
+687 177 89 40 255
+Ventral-Multimodal-03_L-Ctx
+688 255 157 0 255
+Ventral-Multimodal-04_L-Ctx
+689 255 157 0 255
+Ventral-Multimodal-01_R-Ctx
+690 255 157 0 255
+Ventral-Multimodal-02_R-Ctx
+691 255 157 0 255
+Ventral-Multimodal-01_L-Amygdala
+692 255 157 0 255
+Ventral-Multimodal-03_L-Hippocampus
+693 255 157 0 255
+Ventral-Multimodal-02_R-Amygdala
+694 255 157 0 255
+Ventral-Multimodal-04_R-Hippocampus
+695 255 157 0 255
+Orbito-Affective-04_L-Ctx
+696 65 125 0 168
+Orbito-Affective-05_L-Ctx
+697 65 125 0 168
+Orbito-Affective-06_L-Ctx
+698 65 125 0 168
+Orbito-Affective-01_R-Ctx
+699 65 125 0 168
+Orbito-Affective-02_R-Ctx
+700 65 125 0 168
+Orbito-Affective-03_R-Ctx
+701 65 125 0 168
+Orbito-Affective-01_L-Accumbens
+702 65 125 0 168
+Orbito-Affective-03_L-Caudate
+703 65 125 0 168
+Orbito-Affective-05_L-Diencephalon
+704 65 125 0 168
+Orbito-Affective-06_L-Diencephalon
+705 65 125 0 168
+Orbito-Affective-09_L-Pallidum
+706 65 125 0 168
+Orbito-Affective-10_L-Pallidum
+707 65 125 0 168
+Orbito-Affective-11_L-Pallidum
+708 65 125 0 168
+Orbito-Affective-14_L-Putamen
+709 65 125 0 168
+Orbito-Affective-15_L-Putamen
+710 65 125 0 168
+Orbito-Affective-02_R-Accumbens
+711 65 125 0 168
+Orbito-Affective-04_R-Caudate
+712 65 125 0 168
+Orbito-Affective-07_R-Diencephalon
+713 65 125 0 168
+Orbito-Affective-08_R-Diencephalon
+714 65 125 0 168
+Orbito-Affective-12_R-Pallidum
+715 65 125 0 168
+Orbito-Affective-13_R-Pallidum
+716 65 125 0 168
+Orbito-Affective-16_R-Putamen
+717 65 125 0 168
+Orbito-Affective-17_R-Putamen
+718 65 125 0 168
