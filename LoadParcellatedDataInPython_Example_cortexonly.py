@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 import os
 
 #Setting the parcel files to be the 360 Glasser2016 cortical parcels
-L_parcelCIFTIFile='SeparateHemispheres/Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii'
-R_parcelCIFTIFile='SeparateHemispheres/Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii'
+L_parcelCIFTIFile='SeparateHemispheres/Q1-Q6_RelatedValidation210.L.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR.dlabel.nii'
+R_parcelCIFTIFile='SeparateHemispheres/Q1-Q6_RelatedValidation210.R.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR.dlabel.nii'
 
 L_parcelTSFilename='Output_Atlas.L.Parcels.32k_fs_LR.ptseries.nii'
 R_parcelTSFilename='Output_Atlas.R.Parcels.32k_fs_LR.ptseries.nii'

@@ -9,6 +9,8 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
+**Version 1.1.3**: June 1, 2020, updated all mentions of the Glasser et al. (2016) Multi-modal Parcellation (MMP) to be consistent. The latest "Q1-Q6_RelatedValidation210" version was used.
+
 **Version 1.1.2**: May 28, 2020, fixed labelling in CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_ReorderedByNetworks.dlabel.nii to be consistent with v1.1 format. Updated + fixed errors in CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_LabelKey.txtCortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_LabelKey.txt and switched to more intuitive ordering of NetworkSortedOrder. Also added CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_ReorderedByNetworks.dscalar.nii and code to show how ReorderingByNetworks was computed. Analogous updates for woGSR files in NoGSRSubcortex folder.
 
 **Version 1.1.1**: May 1, 2020, added Glasser360Indices_LR.dscalar.nii. This file can be loaded into Connectome Workbench, such that clicking a parcel will indicate which parcel number it is within the cortical Glasser parcellation. Tip: Turn off Display Borders to speed up Connectome Workbench.
@@ -99,10 +101,8 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
 - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii - Same as above, but at the parcel level (rather than the network assignment level).
 - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_v1.1_LR.txt - Label text file for CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR.dlabel.nii
 - Glasser360Indices_LR.dscalar.nii - Indicates the parcel number (ordered left hemisphere, then right hemisphere) for each cortical parcel. This is especially useful when loaded into Connectome Workbench along with the main scene file, since simply clicking on a parcel will indicate the parcel number for that parcel. Tip: Turn off Display Borders to speed up Connectome Workbench.
-- Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Black.32k_fs_LR.border - The left-hemisphere borders of the Glasser parcels
-- Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Black.32k_fs_LR.border - The right-hemisphere borders of the Glasser parcels
-- Q1-Q6_RelatedValidation210.L.CorticalAreas_dil_Final_Final_Areas_Group.32k_fs_LR.border - The updated (HCP Phase 2) left-hemisphere borders of the Glasser parcels
-- Q1-Q6_RelatedValidation210.R.CorticalAreas_dil_Final_Final_Areas_Group.32k_fs_LR.border - The updated (HCP Phase 2) right-hemisphere borders of the Glasser parcels
+- Q1-Q6_RelatedValidation210.L.CorticalAreas_dil_Final_Final_Areas_Group.32k_fs_LR.border - The latest version of the left-hemisphere borders of the Glasser 2016 parcels
+- Q1-Q6_RelatedValidation210.R.CorticalAreas_dil_Final_Final_Areas_Group.32k_fs_LR.border - The latest version of the right-hemisphere borders of the Glasser 2016 parcels
 - README.md - This file
 - S1200_AverageT1w_restore.nii.gz - The average of 1096 subjects from the HCP dataset, from the S1200 release. From HCP_S1200_GroupAvg_v1.zip. For more info visit http://www.humanconnectome.org/documentation/S1200 and https://www.humanconnectome.org/study/hcp-young-adult/article/s1200-group-average-data-release. Before using data from HCP you must agree to the HCP Open Access Data Use Terms at http://humanconnectome.org/data/data-use-terms/DataUseTerms-HCP-Open-Access-26Apr2013.pdf
 - S1200.L.inflated_MSMAll.32k_fs_LR.surf.gii - Left hemisphere inflated cortical surface
@@ -127,8 +127,10 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
   - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_netassignments_R.dlabel.nii - Right hemisphere cortex+subcortex network assignments for each parcel
   - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_L.dlabel.nii - Left hemisphere cortex+subcortex list of parcels, with a label for each parcel. Note that some midline subcortical parcels were split to create this left-hemisphere-only version, such that combining both hemispheres results in 758 parcels (rather than 718).
   - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_R.dlabel.nii - Right hemisphere cortex+subcortex list of parcels, with a label for each parcel. Note that some midline subcortical parcels were split to create this right-hemisphere-only version, such that combining both hemispheres results in 758 parcels (rather than 718).
-  - Q1-Q6_RelatedParcellation210.L.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, left hemisphere
-  - Q1-Q6_RelatedParcellation210.R.CorticalAreas_dil_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, right hemisphere
+  - Q1-Q6_RelatedValidation210.L.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, left hemisphere, as a dlabel CIFTI file
+  - Q1-Q6_RelatedValidation210.L.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR.label.gii - Glasser2016 cortical parcels, left hemisphere, as a label GIFTI file
+  - Q1-Q6_RelatedValidation210.R.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, right hemisphere, as a dlabel CIFTI file
+  - Q1-Q6_RelatedValidation210.R.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR.label.gii - Glasser2016 cortical parcels, right hemisphere, as a label GIFTI file
   - subcortex_atlas_GSR_L.nii - Left hemisphere subcortex-only network partition
   - subcortex_atlas_GSR_R.nii - Right hemisphere subcortex-only network partition
   - subcortex_atlas_GSR_parcels_L.nii - Left hemisphere subcortex-only network parcellation (each parcel separated)
