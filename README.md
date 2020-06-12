@@ -9,6 +9,8 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
+**Version 1.1.4**: June 11, 2020, updated displayed borders in scene files to render as lines (instead of spheres) to speed up loading time in wb_view.
+
 **Version 1.1.3**: June 1, 2020, updated all mentions of the Glasser et al. (2016) Multi-modal Parcellation (MMP) to be consistent. The latest "Q1-Q6_RelatedValidation210" version was used.
 
 **Version 1.1.2**: May 28, 2020, fixed labelling in CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_ReorderedByNetworks.dlabel.nii to be consistent with v1.1 format. Updated + fixed errors in CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_LabelKey.txtCortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_LabelKey.txt and switched to more intuitive ordering of NetworkSortedOrder. Also added CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_ReorderedByNetworks.dscalar.nii and code to show how ReorderingByNetworks was computed. Analogous updates for woGSR files in NoGSRSubcortex folder.
