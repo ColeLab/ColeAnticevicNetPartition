@@ -1,649 +1,649 @@
-INDEX	KEYVALUE	LABEL	RED	GREEN	BLUE	ALPHA	HEMISPHERE	NETWORK	NETWORKKEY	NETWORKSORTEDORDER
-1	1	Visual1-04_L-Ctx	0	0	255	255	L	Visual1	1	1
-2	2	Visual2-28_L-Ctx	100	0	255	255	L	Visual2	2	47
-3	3	Visual2-29_L-Ctx	100	0	255	255	L	Visual2	2	48
-4	4	Visual2-30_L-Ctx	100	0	255	255	L	Visual2	2	49
-5	5	Visual2-31_L-Ctx	100	0	255	255	L	Visual2	2	50
-6	6	Visual2-32_L-Ctx	100	0	255	255	L	Visual2	2	51
-7	7	Visual2-33_L-Ctx	100	0	255	255	L	Visual2	2	52
-8	8	Somatomotor-21_L-Ctx	0	255	255	255	L	Somatomotor	3	137
-9	9	Somatomotor-22_L-Ctx	0	255	255	255	L	Somatomotor	3	138
-10	10	Cingulo-Opercular-30_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	204
-11	11	Dorsal-Attention-12_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	279
-12	12	Language-10_L-Ctx	0	155	155	255	L	Language	6	328
-13	13	Visual2-34_L-Ctx	100	0	255	255	L	Visual2	2	53
-14	14	Frontoparietal-29_L-Ctx	255	255	0	255	L	Frontoparietal	7	361
-15	15	Frontoparietal-30_L-Ctx	255	255	0	255	L	Frontoparietal	7	362
-16	16	Visual2-35_L-Ctx	100	0	255	255	L	Visual2	2	54
-17	17	Visual2-36_L-Ctx	100	0	255	255	L	Visual2	2	55
-18	18	Visual2-37_L-Ctx	100	0	255	255	L	Visual2	2	56
-19	19	Visual2-38_L-Ctx	100	0	255	255	L	Visual2	2	57
-20	20	Visual2-39_L-Ctx	100	0	255	255	L	Visual2	2	58
-21	21	Visual2-40_L-Ctx	100	0	255	255	L	Visual2	2	59
-22	22	Visual2-41_L-Ctx	100	0	255	255	L	Visual2	2	60
-23	23	Visual2-42_L-Ctx	100	0	255	255	L	Visual2	2	61
-24	24	Auditory-08_L-Ctx	250	62	251	255	L	Auditory	8	446
-25	25	Language-11_L-Ctx	0	155	155	255	L	Language	6	329
-26	26	Language-12_L-Ctx	0	155	155	255	L	Language	6	330
-27	27	Posterior-Multimodal-05_L-Ctx	177	89	40	255	L	Posterior-Multimodal	10	576
-28	28	Language-13_L-Ctx	0	155	155	255	L	Language	6	331
-29	29	Frontoparietal-31_L-Ctx	255	255	0	255	L	Frontoparietal	7	363
-30	30	Default-38_L-Ctx	255	0	0	255	L	Default	9	472
-31	31	Default-39_L-Ctx	255	0	0	255	L	Default	9	473
-32	32	Default-40_L-Ctx	255	0	0	255	L	Default	9	474
-33	33	Default-41_L-Ctx	255	0	0	255	L	Default	9	475
-34	34	Default-42_L-Ctx	255	0	0	255	L	Default	9	476
-35	35	Default-43_L-Ctx	255	0	0	255	L	Default	9	477
-36	36	Somatomotor-23_L-Ctx	0	255	255	255	L	Somatomotor	3	139
-37	37	Cingulo-Opercular-31_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	205
-38	38	Cingulo-Opercular-32_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	206
-39	39	Somatomotor-24_L-Ctx	0	255	255	255	L	Somatomotor	3	140
-40	40	Somatomotor-25_L-Ctx	0	255	255	255	L	Somatomotor	3	141
-41	41	Somatomotor-26_L-Ctx	0	255	255	255	L	Somatomotor	3	142
-42	42	Somatomotor-27_L-Ctx	0	255	255	255	L	Somatomotor	3	143
-43	43	Cingulo-Opercular-33_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	207
-44	44	Cingulo-Opercular-34_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	208
-45	45	Cingulo-Opercular-35_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	209
-46	46	Dorsal-Attention-13_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	280
-47	47	Somatomotor-28_L-Ctx	0	255	255	255	L	Somatomotor	3	144
-48	48	Visual2-43_L-Ctx	100	0	255	255	L	Visual2	2	62
-49	49	Visual2-44_L-Ctx	100	0	255	255	L	Visual2	2	63
-50	50	Dorsal-Attention-14_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	281
-51	51	Somatomotor-29_L-Ctx	0	255	255	255	L	Somatomotor	3	145
-52	52	Somatomotor-30_L-Ctx	0	255	255	255	L	Somatomotor	3	146
-53	53	Somatomotor-31_L-Ctx	0	255	255	255	L	Somatomotor	3	147
-54	54	Somatomotor-32_L-Ctx	0	255	255	255	L	Somatomotor	3	148
-55	55	Somatomotor-33_L-Ctx	0	255	255	255	L	Somatomotor	3	149
-56	56	Somatomotor-34_L-Ctx	0	255	255	255	L	Somatomotor	3	150
-57	57	Cingulo-Opercular-36_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	210
-58	58	Cingulo-Opercular-37_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	211
-59	59	Cingulo-Opercular-38_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	212
-60	60	Cingulo-Opercular-39_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	213
-61	61	Default-44_L-Ctx	255	0	0	255	L	Default	9	478
-62	62	Default-45_L-Ctx	255	0	0	255	L	Default	9	479
-63	63	Frontoparietal-32_L-Ctx	255	255	0	255	L	Frontoparietal	7	364
-64	64	Default-46_L-Ctx	255	0	0	255	L	Default	9	480
-65	65	Default-47_L-Ctx	255	0	0	255	L	Default	9	481
-66	66	Default-48_L-Ctx	255	0	0	255	L	Default	9	482
-67	67	Default-49_L-Ctx	255	0	0	255	L	Default	9	483
-68	68	Default-50_L-Ctx	255	0	0	255	L	Default	9	484
-69	69	Default-51_L-Ctx	255	0	0	255	L	Default	9	485
-70	70	Default-52_L-Ctx	255	0	0	255	L	Default	9	486
-71	71	Default-53_L-Ctx	255	0	0	255	L	Default	9	487
-72	72	Default-54_L-Ctx	255	0	0	255	L	Default	9	488
-73	73	Frontoparietal-33_L-Ctx	255	255	0	255	L	Frontoparietal	7	365
-74	74	Language-14_L-Ctx	0	155	155	255	L	Language	6	332
-75	75	Language-15_L-Ctx	0	155	155	255	L	Language	6	333
-76	76	Default-55_L-Ctx	255	0	0	255	L	Default	9	489
-77	77	Frontoparietal-34_L-Ctx	255	255	0	255	L	Frontoparietal	7	366
-78	78	Cingulo-Opercular-40_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	214
-79	79	Language-16_L-Ctx	0	155	155	255	L	Language	6	334
-80	80	Frontoparietal-35_L-Ctx	255	255	0	255	L	Frontoparietal	7	367
-81	81	Language-17_L-Ctx	0	155	155	255	L	Language	6	335
-82	82	Frontoparietal-36_L-Ctx	255	255	0	255	L	Frontoparietal	7	368
-83	83	Frontoparietal-37_L-Ctx	255	255	0	255	L	Frontoparietal	7	369
-84	84	Cingulo-Opercular-41_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	215
-85	85	Frontoparietal-38_L-Ctx	255	255	0	255	L	Frontoparietal	7	370
-86	86	Cingulo-Opercular-42_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	216
-87	87	Default-56_L-Ctx	255	0	0	255	L	Default	9	490
-88	88	Default-57_L-Ctx	255	0	0	255	L	Default	9	491
-89	89	Frontoparietal-39_L-Ctx	255	255	0	255	L	Frontoparietal	7	371
-90	90	Default-58_L-Ctx	255	0	0	255	L	Default	9	492
-91	91	Frontoparietal-40_L-Ctx	255	255	0	255	L	Frontoparietal	7	372
-92	92	Frontoparietal-41_L-Ctx	255	255	0	255	L	Frontoparietal	7	373
-93	93	Default-59_L-Ctx	255	0	0	255	L	Default	9	493
-94	94	Default-60_L-Ctx	255	0	0	255	L	Default	9	494
-95	95	Dorsal-Attention-15_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	282
-96	96	Dorsal-Attention-16_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	283
-97	97	Frontoparietal-42_L-Ctx	255	255	0	255	L	Frontoparietal	7	374
-98	98	Frontoparietal-43_L-Ctx	255	255	0	255	L	Frontoparietal	7	375
-99	99	Cingulo-Opercular-43_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	217
-100	100	Somatomotor-35_L-Ctx	0	255	255	255	L	Somatomotor	3	151
-101	101	Somatomotor-36_L-Ctx	0	255	255	255	L	Somatomotor	3	152
-102	102	Somatomotor-37_L-Ctx	0	255	255	255	L	Somatomotor	3	153
-103	103	Auditory-09_L-Ctx	250	62	251	255	L	Auditory	8	447
-104	104	Auditory-10_L-Ctx	250	62	251	255	L	Auditory	8	448
-105	105	Cingulo-Opercular-44_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	218
-106	106	Cingulo-Opercular-45_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	219
-107	107	Auditory-11_L-Ctx	250	62	251	255	L	Auditory	8	449
-108	108	Cingulo-Opercular-46_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	220
-109	109	Cingulo-Opercular-47_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	221
-110	110	Orbito-Affective-04_L-Ctx	65	125	0	168	L	Orbito-Affective	12	625
-111	111	Frontoparietal-44_L-Ctx	255	255	0	255	L	Frontoparietal	7	376
-112	112	Orbito-Affective-05_L-Ctx	65	125	0	168	L	Orbito-Affective	12	626
-113	113	Cingulo-Opercular-48_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	222
-114	114	Cingulo-Opercular-49_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	223
-115	115	Somatomotor-38_L-Ctx	0	255	255	255	L	Somatomotor	3	154
-116	116	Dorsal-Attention-17_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	284
-117	117	Dorsal-Attention-18_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	285
-118	118	Default-61_L-Ctx	255	0	0	255	L	Default	9	495
-119	119	Default-62_L-Ctx	255	0	0	255	L	Default	9	496
-120	120	Default-63_L-Ctx	255	0	0	255	L	Default	9	497
-121	121	Visual1-05_L-Ctx	0	0	255	255	L	Visual1	1	2
-122	122	Ventral-Multimodal-03_L-Ctx	255	157	0	255	L	Ventral-Multimodal	11	617
-123	123	Language-18_L-Ctx	0	155	155	255	L	Language	6	336
-124	124	Auditory-12_L-Ctx	250	62	251	255	L	Auditory	8	450
-125	125	Language-19_L-Ctx	0	155	155	255	L	Language	6	337
-126	126	Default-64_L-Ctx	255	0	0	255	L	Default	9	498
-127	127	Dorsal-Attention-19_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	286
-128	128	Language-20_L-Ctx	0	155	155	255	L	Language	6	338
-129	129	Language-21_L-Ctx	0	155	155	255	L	Language	6	339
-130	130	Default-65_L-Ctx	255	0	0	255	L	Default	9	499
-131	131	Default-66_L-Ctx	255	0	0	255	L	Default	9	500
-132	132	Default-67_L-Ctx	255	0	0	255	L	Default	9	501
-133	133	Frontoparietal-45_L-Ctx	255	255	0	255	L	Frontoparietal	7	377
-134	134	Default-68_L-Ctx	255	0	0	255	L	Default	9	502
-135	135	Ventral-Multimodal-04_L-Ctx	255	157	0	255	L	Ventral-Multimodal	11	618
-136	136	Dorsal-Attention-20_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	287
-137	137	Dorsal-Attention-21_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	288
-138	138	Visual2-45_L-Ctx	100	0	255	255	L	Visual2	2	64
-139	139	Language-22_L-Ctx	0	155	155	255	L	Language	6	340
-140	140	Posterior-Multimodal-06_L-Ctx	177	89	40	255	L	Posterior-Multimodal	10	577
-141	141	Posterior-Multimodal-07_L-Ctx	177	89	40	255	L	Posterior-Multimodal	10	578
-142	142	Visual1-06_L-Ctx	0	0	255	255	L	Visual1	1	3
-143	143	Dorsal-Attention-22_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	289
-144	144	Frontoparietal-46_L-Ctx	255	255	0	255	L	Frontoparietal	7	378
-145	145	Frontoparietal-47_L-Ctx	255	255	0	255	L	Frontoparietal	7	379
-146	146	Dorsal-Attention-23_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	290
-147	147	Cingulo-Opercular-50_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	224
-148	148	Cingulo-Opercular-51_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	225
-149	149	Frontoparietal-48_L-Ctx	255	255	0	255	L	Frontoparietal	7	380
-150	150	Default-69_L-Ctx	255	0	0	255	L	Default	9	503
-151	151	Default-70_L-Ctx	255	0	0	255	L	Default	9	504
-152	152	Visual2-46_L-Ctx	100	0	255	255	L	Visual2	2	65
-153	153	Visual2-47_L-Ctx	100	0	255	255	L	Visual2	2	66
-154	154	Visual2-48_L-Ctx	100	0	255	255	L	Visual2	2	67
-155	155	Default-71_L-Ctx	255	0	0	255	L	Default	9	505
-156	156	Visual2-49_L-Ctx	100	0	255	255	L	Visual2	2	68
-157	157	Visual2-50_L-Ctx	100	0	255	255	L	Visual2	2	69
-158	158	Visual2-51_L-Ctx	100	0	255	255	L	Visual2	2	70
-159	159	Visual2-52_L-Ctx	100	0	255	255	L	Visual2	2	71
-160	160	Visual2-53_L-Ctx	100	0	255	255	L	Visual2	2	72
-161	161	Default-72_L-Ctx	255	0	0	255	L	Default	9	506
-162	162	Default-73_L-Ctx	255	0	0	255	L	Default	9	507
-163	163	Visual2-54_L-Ctx	100	0	255	255	L	Visual2	2	73
-164	164	Default-74_L-Ctx	255	0	0	255	L	Default	9	508
-165	165	Default-75_L-Ctx	255	0	0	255	L	Default	9	509
-166	166	Orbito-Affective-06_L-Ctx	65	125	0	168	L	Orbito-Affective	12	627
-167	167	Cingulo-Opercular-52_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	226
-168	168	Somatomotor-39_L-Ctx	0	255	255	255	L	Somatomotor	3	155
-169	169	Cingulo-Opercular-53_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	227
-170	170	Frontoparietal-49_L-Ctx	255	255	0	255	L	Frontoparietal	7	381
-171	171	Frontoparietal-50_L-Ctx	255	255	0	255	L	Frontoparietal	7	382
-172	172	Language-23_L-Ctx	0	155	155	255	L	Language	6	341
-173	173	Auditory-13_L-Ctx	250	62	251	255	L	Auditory	8	451
-174	174	Auditory-14_L-Ctx	250	62	251	255	L	Auditory	8	452
-175	175	Auditory-15_L-Ctx	250	62	251	255	L	Auditory	8	453
-176	176	Default-76_L-Ctx	255	0	0	255	L	Default	9	510
-177	177	Default-77_L-Ctx	255	0	0	255	L	Default	9	511
-178	178	Cingulo-Opercular-54_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	228
-179	179	Cingulo-Opercular-55_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	229
-180	180	Cingulo-Opercular-56_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	230
-181	181	Visual1-01_R-Ctx	0	0	255	255	R	Visual1	1	4
-182	182	Visual2-01_R-Ctx	100	0	255	255	R	Visual2	2	74
-183	183	Visual2-02_R-Ctx	100	0	255	255	R	Visual2	2	75
-184	184	Visual2-03_R-Ctx	100	0	255	255	R	Visual2	2	76
-185	185	Visual2-04_R-Ctx	100	0	255	255	R	Visual2	2	77
-186	186	Visual2-05_R-Ctx	100	0	255	255	R	Visual2	2	78
-187	187	Visual2-06_R-Ctx	100	0	255	255	R	Visual2	2	79
-188	188	Somatomotor-01_R-Ctx	0	255	255	255	R	Somatomotor	3	156
-189	189	Somatomotor-02_R-Ctx	0	255	255	255	R	Somatomotor	3	157
-190	190	Cingulo-Opercular-01_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	231
-191	191	Cingulo-Opercular-02_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	232
-192	192	Language-01_R-Ctx	0	155	155	255	R	Language	6	342
-193	193	Visual2-07_R-Ctx	100	0	255	255	R	Visual2	2	80
-194	194	Frontoparietal-01_R-Ctx	255	255	0	255	R	Frontoparietal	7	383
-195	195	Frontoparietal-02_R-Ctx	255	255	0	255	R	Frontoparietal	7	384
-196	196	Visual2-08_R-Ctx	100	0	255	255	R	Visual2	2	81
-197	197	Visual2-09_R-Ctx	100	0	255	255	R	Visual2	2	82
-198	198	Visual2-10_R-Ctx	100	0	255	255	R	Visual2	2	83
-199	199	Visual2-11_R-Ctx	100	0	255	255	R	Visual2	2	84
-200	200	Visual2-12_R-Ctx	100	0	255	255	R	Visual2	2	85
-201	201	Visual2-13_R-Ctx	100	0	255	255	R	Visual2	2	86
-202	202	Visual2-14_R-Ctx	100	0	255	255	R	Visual2	2	87
-203	203	Visual2-15_R-Ctx	100	0	255	255	R	Visual2	2	88
-204	204	Auditory-01_R-Ctx	250	62	251	255	R	Auditory	8	454
-205	205	Cingulo-Opercular-03_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	233
-206	206	Language-02_R-Ctx	0	155	155	255	R	Language	6	343
-207	207	Posterior-Multimodal-01_R-Ctx	177	89	40	255	R	Posterior-Multimodal	10	579
-208	208	Posterior-Multimodal-02_R-Ctx	177	89	40	255	R	Posterior-Multimodal	10	580
-209	209	Frontoparietal-03_R-Ctx	255	255	0	255	R	Frontoparietal	7	385
-210	210	Default-01_R-Ctx	255	0	0	255	R	Default	9	512
-211	211	Default-02_R-Ctx	255	0	0	255	R	Default	9	513
-212	212	Default-03_R-Ctx	255	0	0	255	R	Default	9	514
-213	213	Default-04_R-Ctx	255	0	0	255	R	Default	9	515
-214	214	Default-05_R-Ctx	255	0	0	255	R	Default	9	516
-215	215	Default-06_R-Ctx	255	0	0	255	R	Default	9	517
-216	216	Somatomotor-03_R-Ctx	0	255	255	255	R	Somatomotor	3	158
-217	217	Cingulo-Opercular-04_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	234
-218	218	Cingulo-Opercular-05_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	235
-219	219	Somatomotor-04_R-Ctx	0	255	255	255	R	Somatomotor	3	159
-220	220	Somatomotor-05_R-Ctx	0	255	255	255	R	Somatomotor	3	160
-221	221	Somatomotor-06_R-Ctx	0	255	255	255	R	Somatomotor	3	161
-222	222	Somatomotor-07_R-Ctx	0	255	255	255	R	Somatomotor	3	162
-223	223	Cingulo-Opercular-06_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	236
-224	224	Cingulo-Opercular-07_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	237
-225	225	Cingulo-Opercular-08_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	238
-226	226	Dorsal-Attention-01_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	291
-227	227	Somatomotor-08_R-Ctx	0	255	255	255	R	Somatomotor	3	163
-228	228	Visual2-16_R-Ctx	100	0	255	255	R	Visual2	2	89
-229	229	Visual2-17_R-Ctx	100	0	255	255	R	Visual2	2	90
-230	230	Dorsal-Attention-02_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	292
-231	231	Somatomotor-09_R-Ctx	0	255	255	255	R	Somatomotor	3	164
-232	232	Somatomotor-10_R-Ctx	0	255	255	255	R	Somatomotor	3	165
-233	233	Somatomotor-11_R-Ctx	0	255	255	255	R	Somatomotor	3	166
-234	234	Somatomotor-12_R-Ctx	0	255	255	255	R	Somatomotor	3	167
-235	235	Somatomotor-13_R-Ctx	0	255	255	255	R	Somatomotor	3	168
-236	236	Somatomotor-14_R-Ctx	0	255	255	255	R	Somatomotor	3	169
-237	237	Cingulo-Opercular-09_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	239
-238	238	Frontoparietal-04_R-Ctx	255	255	0	255	R	Frontoparietal	7	386
-239	239	Cingulo-Opercular-10_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	240
-240	240	Cingulo-Opercular-11_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	241
-241	241	Default-07_R-Ctx	255	0	0	255	R	Default	9	518
-242	242	Frontoparietal-05_R-Ctx	255	255	0	255	R	Frontoparietal	7	387
-243	243	Frontoparietal-06_R-Ctx	255	255	0	255	R	Frontoparietal	7	388
-244	244	Default-08_R-Ctx	255	0	0	255	R	Default	9	519
-245	245	Default-09_R-Ctx	255	0	0	255	R	Default	9	520
-246	246	Default-10_R-Ctx	255	0	0	255	R	Default	9	521
-247	247	Default-11_R-Ctx	255	0	0	255	R	Default	9	522
-248	248	Default-12_R-Ctx	255	0	0	255	R	Default	9	523
-249	249	Default-13_R-Ctx	255	0	0	255	R	Default	9	524
-250	250	Default-14_R-Ctx	255	0	0	255	R	Default	9	525
-251	251	Default-15_R-Ctx	255	0	0	255	R	Default	9	526
-252	252	Default-16_R-Ctx	255	0	0	255	R	Default	9	527
-253	253	Frontoparietal-07_R-Ctx	255	255	0	255	R	Frontoparietal	7	389
-254	254	Frontoparietal-08_R-Ctx	255	255	0	255	R	Frontoparietal	7	390
-255	255	Language-03_R-Ctx	0	155	155	255	R	Language	6	344
-256	256	Default-17_R-Ctx	255	0	0	255	R	Default	9	528
-257	257	Frontoparietal-09_R-Ctx	255	255	0	255	R	Frontoparietal	7	391
-258	258	Cingulo-Opercular-12_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	242
-259	259	Language-04_R-Ctx	0	155	155	255	R	Language	6	345
-260	260	Frontoparietal-10_R-Ctx	255	255	0	255	R	Frontoparietal	7	392
-261	261	Frontoparietal-11_R-Ctx	255	255	0	255	R	Frontoparietal	7	393
-262	262	Cingulo-Opercular-13_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	243
-263	263	Frontoparietal-12_R-Ctx	255	255	0	255	R	Frontoparietal	7	394
-264	264	Cingulo-Opercular-14_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	244
-265	265	Frontoparietal-13_R-Ctx	255	255	0	255	R	Frontoparietal	7	395
-266	266	Cingulo-Opercular-15_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	245
-267	267	Default-18_R-Ctx	255	0	0	255	R	Default	9	529
-268	268	Default-19_R-Ctx	255	0	0	255	R	Default	9	530
-269	269	Frontoparietal-14_R-Ctx	255	255	0	255	R	Frontoparietal	7	396
-270	270	Default-20_R-Ctx	255	0	0	255	R	Default	9	531
-271	271	Frontoparietal-15_R-Ctx	255	255	0	255	R	Frontoparietal	7	397
-272	272	Frontoparietal-16_R-Ctx	255	255	0	255	R	Frontoparietal	7	398
-273	273	Frontoparietal-17_R-Ctx	255	255	0	255	R	Frontoparietal	7	399
-274	274	Default-21_R-Ctx	255	0	0	255	R	Default	9	532
-275	275	Dorsal-Attention-03_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	293
-276	276	Dorsal-Attention-04_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	294
-277	277	Frontoparietal-18_R-Ctx	255	255	0	255	R	Frontoparietal	7	400
-278	278	Frontoparietal-19_R-Ctx	255	255	0	255	R	Frontoparietal	7	401
-279	279	Cingulo-Opercular-16_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	246
-280	280	Somatomotor-15_R-Ctx	0	255	255	255	R	Somatomotor	3	170
-281	281	Somatomotor-16_R-Ctx	0	255	255	255	R	Somatomotor	3	171
-282	282	Somatomotor-17_R-Ctx	0	255	255	255	R	Somatomotor	3	172
-283	283	Auditory-02_R-Ctx	250	62	251	255	R	Auditory	8	455
-284	284	Somatomotor-18_R-Ctx	0	255	255	255	R	Somatomotor	3	173
-285	285	Cingulo-Opercular-17_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	247
-286	286	Cingulo-Opercular-18_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	248
-287	287	Auditory-03_R-Ctx	250	62	251	255	R	Auditory	8	456
-288	288	Cingulo-Opercular-19_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	249
-289	289	Cingulo-Opercular-20_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	250
-290	290	Orbito-Affective-01_R-Ctx	65	125	0	168	R	Orbito-Affective	12	628
-291	291	Frontoparietal-20_R-Ctx	255	255	0	255	R	Frontoparietal	7	402
-292	292	Orbito-Affective-02_R-Ctx	65	125	0	168	R	Orbito-Affective	12	629
-293	293	Cingulo-Opercular-21_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	251
-294	294	Cingulo-Opercular-22_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	252
-295	295	Somatomotor-19_R-Ctx	0	255	255	255	R	Somatomotor	3	174
-296	296	Dorsal-Attention-05_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	295
-297	297	Dorsal-Attention-06_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	296
-298	298	Default-22_R-Ctx	255	0	0	255	R	Default	9	533
-299	299	Default-23_R-Ctx	255	0	0	255	R	Default	9	534
-300	300	Default-24_R-Ctx	255	0	0	255	R	Default	9	535
-301	301	Visual1-02_R-Ctx	0	0	255	255	R	Visual1	1	5
-302	302	Ventral-Multimodal-01_R-Ctx	255	157	0	255	R	Ventral-Multimodal	11	619
-303	303	Language-05_R-Ctx	0	155	155	255	R	Language	6	346
-304	304	Auditory-04_R-Ctx	250	62	251	255	R	Auditory	8	457
-305	305	Language-06_R-Ctx	0	155	155	255	R	Language	6	347
-306	306	Default-25_R-Ctx	255	0	0	255	R	Default	9	536
-307	307	Dorsal-Attention-07_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	297
-308	308	Default-26_R-Ctx	255	0	0	255	R	Default	9	537
-309	309	Language-07_R-Ctx	0	155	155	255	R	Language	6	348
-310	310	Default-27_R-Ctx	255	0	0	255	R	Default	9	538
-311	311	Default-28_R-Ctx	255	0	0	255	R	Default	9	539
-312	312	Default-29_R-Ctx	255	0	0	255	R	Default	9	540
-313	313	Frontoparietal-21_R-Ctx	255	255	0	255	R	Frontoparietal	7	403
-314	314	Default-30_R-Ctx	255	0	0	255	R	Default	9	541
-315	315	Ventral-Multimodal-02_R-Ctx	255	157	0	255	R	Ventral-Multimodal	11	620
-316	316	Dorsal-Attention-08_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	298
-317	317	Dorsal-Attention-09_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	299
-318	318	Visual2-18_R-Ctx	100	0	255	255	R	Visual2	2	91
-319	319	Language-08_R-Ctx	0	155	155	255	R	Language	6	349
-320	320	Posterior-Multimodal-03_R-Ctx	177	89	40	255	R	Posterior-Multimodal	10	581
-321	321	Posterior-Multimodal-04_R-Ctx	177	89	40	255	R	Posterior-Multimodal	10	582
-322	322	Visual1-03_R-Ctx	0	0	255	255	R	Visual1	1	6
-323	323	Dorsal-Attention-10_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	300
-324	324	Frontoparietal-22_R-Ctx	255	255	0	255	R	Frontoparietal	7	404
-325	325	Frontoparietal-23_R-Ctx	255	255	0	255	R	Frontoparietal	7	405
-326	326	Dorsal-Attention-11_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	301
-327	327	Cingulo-Opercular-23_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	253
-328	328	Cingulo-Opercular-24_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	254
-329	329	Frontoparietal-24_R-Ctx	255	255	0	255	R	Frontoparietal	7	406
-330	330	Default-31_R-Ctx	255	0	0	255	R	Default	9	542
-331	331	Default-32_R-Ctx	255	0	0	255	R	Default	9	543
-332	332	Visual2-19_R-Ctx	100	0	255	255	R	Visual2	2	92
-333	333	Visual2-20_R-Ctx	100	0	255	255	R	Visual2	2	93
-334	334	Visual2-21_R-Ctx	100	0	255	255	R	Visual2	2	94
-335	335	Default-33_R-Ctx	255	0	0	255	R	Default	9	544
-336	336	Visual2-22_R-Ctx	100	0	255	255	R	Visual2	2	95
-337	337	Visual2-23_R-Ctx	100	0	255	255	R	Visual2	2	96
-338	338	Visual2-24_R-Ctx	100	0	255	255	R	Visual2	2	97
-339	339	Visual2-25_R-Ctx	100	0	255	255	R	Visual2	2	98
-340	340	Visual2-26_R-Ctx	100	0	255	255	R	Visual2	2	99
-341	341	Default-34_R-Ctx	255	0	0	255	R	Default	9	545
-342	342	Frontoparietal-25_R-Ctx	255	255	0	255	R	Frontoparietal	7	407
-343	343	Visual2-27_R-Ctx	100	0	255	255	R	Visual2	2	100
-344	344	Default-35_R-Ctx	255	0	0	255	R	Default	9	546
-345	345	Default-36_R-Ctx	255	0	0	255	R	Default	9	547
-346	346	Orbito-Affective-03_R-Ctx	65	125	0	168	R	Orbito-Affective	12	630
-347	347	Cingulo-Opercular-25_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	255
-348	348	Somatomotor-20_R-Ctx	0	255	255	255	R	Somatomotor	3	175
-349	349	Cingulo-Opercular-26_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	256
-350	350	Frontoparietal-26_R-Ctx	255	255	0	255	R	Frontoparietal	7	408
-351	351	Frontoparietal-27_R-Ctx	255	255	0	255	R	Frontoparietal	7	409
-352	352	Language-09_R-Ctx	0	155	155	255	R	Language	6	350
-353	353	Auditory-05_R-Ctx	250	62	251	255	R	Auditory	8	458
-354	354	Auditory-06_R-Ctx	250	62	251	255	R	Auditory	8	459
-355	355	Auditory-07_R-Ctx	250	62	251	255	R	Auditory	8	460
-356	356	Default-37_R-Ctx	255	0	0	255	R	Default	9	548
-357	357	Frontoparietal-28_R-Ctx	255	255	0	255	R	Frontoparietal	7	410
-358	358	Cingulo-Opercular-27_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	257
-359	359	Cingulo-Opercular-28_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	258
-360	360	Cingulo-Opercular-29_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	259
-361	1010	Visual1-01_L-Caudate	0	0	255	255	L	Visual1	1	7
-362	1020	Visual1-02_R-Caudate	0	0	255	255	R	Visual1	1	26
-363	1030	Visual1-03_LR-Brainstem	0	0	255	255	LR	Visual1	1	43
-364	1040	Visual1-04_LR-Brainstem	0	0	255	255	LR	Visual1	1	44
-365	1050	Visual1-05_LR-Brainstem	0	0	255	255	LR	Visual1	1	45
-366	1060	Visual1-06_LR-Brainstem	0	0	255	255	LR	Visual1	1	46
-367	1070	Visual1-07_L-Caudate	0	0	255	255	L	Visual1	1	8
-368	1080	Visual1-08_L-Caudate	0	0	255	255	L	Visual1	1	9
-369	1090	Visual1-09_R-Caudate	0	0	255	255	R	Visual1	1	27
-370	1100	Visual1-10_R-Caudate	0	0	255	255	R	Visual1	1	28
-371	1110	Visual1-11_L-Cerebellum	0	0	255	255	L	Visual1	1	10
-372	1120	Visual1-12_L-Cerebellum	0	0	255	255	L	Visual1	1	11
-373	1130	Visual1-13_L-Cerebellum	0	0	255	255	L	Visual1	1	12
-374	1140	Visual1-14_L-Cerebellum	0	0	255	255	L	Visual1	1	13
-375	1150	Visual1-15_L-Cerebellum	0	0	255	255	L	Visual1	1	14
-376	1160	Visual1-16_L-Cerebellum	0	0	255	255	L	Visual1	1	15
-377	1170	Visual1-17_R-Cerebellum	0	0	255	255	R	Visual1	1	29
-378	1180	Visual1-18_R-Cerebellum	0	0	255	255	R	Visual1	1	30
-379	1190	Visual1-19_R-Cerebellum	0	0	255	255	R	Visual1	1	31
-380	1200	Visual1-20_R-Cerebellum	0	0	255	255	R	Visual1	1	32
-381	1210	Visual1-21_R-Cerebellum	0	0	255	255	R	Visual1	1	33
-382	1220	Visual1-22_R-Cerebellum	0	0	255	255	R	Visual1	1	34
-383	1230	Visual1-23_L-Diencephalon	0	0	255	255	L	Visual1	1	16
-384	1240	Visual1-24_R-Diencephalon	0	0	255	255	R	Visual1	1	35
-385	1250	Visual1-25_L-Hippocampus	0	0	255	255	L	Visual1	1	17
-386	1260	Visual1-26_L-Hippocampus	0	0	255	255	L	Visual1	1	18
-387	1270	Visual1-27_R-Hippocampus	0	0	255	255	R	Visual1	1	36
-388	1280	Visual1-28_R-Hippocampus	0	0	255	255	R	Visual1	1	37
-389	1290	Visual1-29_L-Pallidum	0	0	255	255	L	Visual1	1	19
-390	1300	Visual1-30_R-Pallidum	0	0	255	255	R	Visual1	1	38
-391	1310	Visual1-31_L-Putamen	0	0	255	255	L	Visual1	1	20
-392	1320	Visual1-32_L-Putamen	0	0	255	255	L	Visual1	1	21
-393	1330	Visual1-33_L-Putamen	0	0	255	255	L	Visual1	1	22
-394	1340	Visual1-34_R-Putamen	0	0	255	255	R	Visual1	1	39
-395	1350	Visual1-35_R-Putamen	0	0	255	255	R	Visual1	1	40
-396	1360	Visual1-36_R-Putamen	0	0	255	255	R	Visual1	1	41
-397	1370	Visual1-37_L-Thalamus	0	0	255	255	L	Visual1	1	23
-398	1380	Visual1-38_L-Thalamus	0	0	255	255	L	Visual1	1	24
-399	1390	Visual1-39_L-Thalamus	0	0	255	255	L	Visual1	1	25
-400	1400	Visual1-40_R-Thalamus	0	0	255	255	R	Visual1	1	42
-401	2010	Visual2-01_L-Amygdala	100	0	255	255	L	Visual2	2	101
-402	2020	Visual2-02_L-Amygdala	100	0	255	255	L	Visual2	2	102
-403	2030	Visual2-03_L-Amygdala	100	0	255	255	L	Visual2	2	103
-404	2040	Visual2-04_R-Amygdala	100	0	255	255	R	Visual2	2	114
-405	2050	Visual2-05_R-Amygdala	100	0	255	255	R	Visual2	2	115
-406	2060	Visual2-06_R-Amygdala	100	0	255	255	R	Visual2	2	116
-407	2070	Visual2-07_LR-Brainstem	100	0	255	255	LR	Visual2	2	133
-408	2080	Visual2-08_LR-Brainstem	100	0	255	255	LR	Visual2	2	134
-409	2090	Visual2-09_LR-Brainstem	100	0	255	255	LR	Visual2	2	135
-410	2100	Visual2-10_LR-Brainstem	100	0	255	255	LR	Visual2	2	136
-411	2110	Visual2-11_R-Caudate	100	0	255	255	R	Visual2	2	117
-412	2120	Visual2-12_L-Cerebellum	100	0	255	255	L	Visual2	2	104
-413	2130	Visual2-13_L-Cerebellum	100	0	255	255	L	Visual2	2	105
-414	2140	Visual2-14_L-Cerebellum	100	0	255	255	L	Visual2	2	106
-415	2150	Visual2-15_R-Cerebellum	100	0	255	255	R	Visual2	2	118
-416	2160	Visual2-16_R-Cerebellum	100	0	255	255	R	Visual2	2	119
-417	2170	Visual2-17_R-Cerebellum	100	0	255	255	R	Visual2	2	120
-418	2180	Visual2-18_R-Cerebellum	100	0	255	255	R	Visual2	2	121
-419	2190	Visual2-19_R-Cerebellum	100	0	255	255	R	Visual2	2	122
-420	2200	Visual2-20_R-Cerebellum	100	0	255	255	R	Visual2	2	123
-421	2210	Visual2-21_L-Diencephalon	100	0	255	255	L	Visual2	2	107
-422	2220	Visual2-22_L-Diencephalon	100	0	255	255	L	Visual2	2	108
-423	2230	Visual2-23_L-Diencephalon	100	0	255	255	L	Visual2	2	109
-424	2240	Visual2-24_L-Diencephalon	100	0	255	255	L	Visual2	2	110
-425	2250	Visual2-25_R-Diencephalon	100	0	255	255	R	Visual2	2	124
-426	2260	Visual2-26_R-Diencephalon	100	0	255	255	R	Visual2	2	125
-427	2270	Visual2-27_R-Diencephalon	100	0	255	255	R	Visual2	2	126
-428	2280	Visual2-28_R-Diencephalon	100	0	255	255	R	Visual2	2	127
-429	2290	Visual2-29_L-Hippocampus	100	0	255	255	L	Visual2	2	111
-430	2300	Visual2-30_R-Hippocampus	100	0	255	255	R	Visual2	2	128
-431	2310	Visual2-31_R-Pallidum	100	0	255	255	R	Visual2	2	129
-432	2320	Visual2-32_L-Caudate	100	0	255	255	L	Visual2	2	112
-433	2330	Visual2-33_R-Caudate	100	0	255	255	R	Visual2	2	130
-434	2340	Visual2-34_R-Caudate	100	0	255	255	R	Visual2	2	131
-435	2350	Visual2-35_L-Thalamus	100	0	255	255	L	Visual2	2	113
-436	2360	Visual2-36_R-Thalamus	100	0	255	255	R	Visual2	2	132
-437	3010	Somatomotor-01_L-Amygdala	0	255	255	255	L	Somatomotor	3	176
-438	3020	Somatomotor-02_R-Amygdala	0	255	255	255	R	Somatomotor	3	189
-439	3030	Somatomotor-03_L-Cerebellum	0	255	255	255	L	Somatomotor	3	177
-440	3040	Somatomotor-04_L-Cerebellum	0	255	255	255	L	Somatomotor	3	178
-441	3050	Somatomotor-05_L-Cerebellum	0	255	255	255	L	Somatomotor	3	179
-442	3060	Somatomotor-06_L-Cerebellum	0	255	255	255	L	Somatomotor	3	180
-443	3070	Somatomotor-07_L-Cerebellum	0	255	255	255	L	Somatomotor	3	181
-444	3080	Somatomotor-08_L-Cerebellum	0	255	255	255	L	Somatomotor	3	182
-445	3090	Somatomotor-09_L-Cerebellum	0	255	255	255	L	Somatomotor	3	183
-446	3100	Somatomotor-10_R-Cerebellum	0	255	255	255	R	Somatomotor	3	190
-447	3110	Somatomotor-11_R-Cerebellum	0	255	255	255	R	Somatomotor	3	191
-448	3120	Somatomotor-12_R-Cerebellum	0	255	255	255	R	Somatomotor	3	192
-449	3130	Somatomotor-13_R-Cerebellum	0	255	255	255	R	Somatomotor	3	193
-450	3140	Somatomotor-14_R-Cerebellum	0	255	255	255	R	Somatomotor	3	194
-451	3150	Somatomotor-15_R-Cerebellum	0	255	255	255	R	Somatomotor	3	195
-452	3160	Somatomotor-16_R-Cerebellum	0	255	255	255	R	Somatomotor	3	196
-453	3170	Somatomotor-17_R-Cerebellum	0	255	255	255	R	Somatomotor	3	197
-454	3180	Somatomotor-18_L-Hippocampus	0	255	255	255	L	Somatomotor	3	184
-455	3190	Somatomotor-19_L-Hippocampus	0	255	255	255	L	Somatomotor	3	185
-456	3200	Somatomotor-20_L-Hippocampus	0	255	255	255	L	Somatomotor	3	186
-457	3210	Somatomotor-21_R-Hippocampus	0	255	255	255	R	Somatomotor	3	198
-458	3220	Somatomotor-22_R-Hippocampus	0	255	255	255	R	Somatomotor	3	199
-459	3230	Somatomotor-23_R-Hippocampus	0	255	255	255	R	Somatomotor	3	200
-460	3240	Somatomotor-24_L-Pallidum	0	255	255	255	L	Somatomotor	3	187
-461	3250	Somatomotor-25_R-Pallidum	0	255	255	255	R	Somatomotor	3	201
-462	3260	Somatomotor-26_R-Pallidum	0	255	255	255	R	Somatomotor	3	202
-463	3270	Somatomotor-27_L-Thalamus	0	255	255	255	L	Somatomotor	3	188
-464	3280	Somatomotor-28_R-Thalamus	0	255	255	255	R	Somatomotor	3	203
-465	4010	Cingulo-Opercular-01_LR-Brainstem	153	0	153	255	LR	Cingulo-Opercular	4	269
-466	4020	Cingulo-Opercular-02_LR-Brainstem	153	0	153	255	LR	Cingulo-Opercular	4	270
-467	4030	Cingulo-Opercular-03_LR-Brainstem	153	0	153	255	LR	Cingulo-Opercular	4	271
-468	4040	Cingulo-Opercular-04_LR-Brainstem	153	0	153	255	LR	Cingulo-Opercular	4	272
-469	4050	Cingulo-Opercular-05_L-Caudate	153	0	153	255	L	Cingulo-Opercular	4	260
-470	4060	Cingulo-Opercular-06_R-Caudate	153	0	153	255	R	Cingulo-Opercular	4	273
-471	4070	Cingulo-Opercular-07_L-Cerebellum	153	0	153	255	L	Cingulo-Opercular	4	261
-472	4080	Cingulo-Opercular-08_L-Cerebellum	153	0	153	255	L	Cingulo-Opercular	4	262
-473	4090	Cingulo-Opercular-09_L-Cerebellum	153	0	153	255	L	Cingulo-Opercular	4	263
-474	4100	Cingulo-Opercular-10_L-Cerebellum	153	0	153	255	L	Cingulo-Opercular	4	264
-475	4110	Cingulo-Opercular-11_R-Cerebellum	153	0	153	255	R	Cingulo-Opercular	4	274
-476	4120	Cingulo-Opercular-12_R-Cerebellum	153	0	153	255	R	Cingulo-Opercular	4	275
-477	4130	Cingulo-Opercular-13_R-Cerebellum	153	0	153	255	R	Cingulo-Opercular	4	276
-478	4140	Cingulo-Opercular-14_R-Cerebellum	153	0	153	255	R	Cingulo-Opercular	4	277
-479	4150	Cingulo-Opercular-15_L-Diencephalon	153	0	153	255	L	Cingulo-Opercular	4	265
-480	4160	Cingulo-Opercular-16_L-Pallidum	153	0	153	255	L	Cingulo-Opercular	4	266
-481	4170	Cingulo-Opercular-17_L-Pallidum	153	0	153	255	L	Cingulo-Opercular	4	267
-482	4180	Cingulo-Opercular-18_L-Putamen	153	0	153	255	L	Cingulo-Opercular	4	268
-483	4190	Cingulo-Opercular-19_R-Putamen	153	0	153	255	R	Cingulo-Opercular	4	278
-484	5010	Dorsal-Attention-01_L-Caudate	0	255	0	255	L	Dorsal-Attention	5	302
-485	5020	Dorsal-Attention-02_L-Caudate	0	255	0	255	L	Dorsal-Attention	5	303
-486	5030	Dorsal-Attention-03_R-Caudate	0	255	0	255	R	Dorsal-Attention	5	316
-487	5040	Dorsal-Attention-04_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	304
-488	5050	Dorsal-Attention-05_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	305
-489	5060	Dorsal-Attention-06_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	306
-490	5070	Dorsal-Attention-07_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	307
-491	5080	Dorsal-Attention-08_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	308
-492	5090	Dorsal-Attention-09_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	309
-493	5100	Dorsal-Attention-10_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	310
-494	5110	Dorsal-Attention-11_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	311
-495	5120	Dorsal-Attention-12_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	317
-496	5130	Dorsal-Attention-13_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	318
-497	5140	Dorsal-Attention-14_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	319
-498	5150	Dorsal-Attention-15_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	320
-499	5160	Dorsal-Attention-16_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	321
-500	5170	Dorsal-Attention-17_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	322
-501	5180	Dorsal-Attention-18_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	323
-502	5190	Dorsal-Attention-19_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	324
-503	5200	Dorsal-Attention-20_L-Putamen	0	255	0	255	L	Dorsal-Attention	5	312
-504	5210	Dorsal-Attention-21_L-Putamen	0	255	0	255	L	Dorsal-Attention	5	313
-505	5220	Dorsal-Attention-22_R-Putamen	0	255	0	255	R	Dorsal-Attention	5	325
-506	5230	Dorsal-Attention-23_R-Putamen	0	255	0	255	R	Dorsal-Attention	5	326
-507	5240	Dorsal-Attention-24_L-Thalamus	0	255	0	255	L	Dorsal-Attention	5	314
-508	5250	Dorsal-Attention-25_L-Thalamus	0	255	0	255	L	Dorsal-Attention	5	315
-509	5260	Dorsal-Attention-26_R-Thalamus	0	255	0	255	R	Dorsal-Attention	5	327
-510	6010	Language-01_L-Amygdala	0	155	155	255	L	Language	6	351
-511	6020	Language-02_R-Amygdala	0	155	155	255	R	Language	6	354
-512	6030	Language-03_R-Amygdala	0	155	155	255	R	Language	6	355
-513	6040	Language-04_L-Caudate	0	155	155	255	L	Language	6	352
-514	6050	Language-05_R-Caudate	0	155	155	255	R	Language	6	356
-515	6060	Language-06_L-Cerebellum	0	155	155	255	L	Language	6	353
-516	6070	Language-07_R-Cerebellum	0	155	155	255	R	Language	6	357
-517	6080	Language-08_R-Cerebellum	0	155	155	255	R	Language	6	358
-518	6090	Language-09_R-Cerebellum	0	155	155	255	R	Language	6	359
-519	6100	Language-10_R-Cerebellum	0	155	155	255	R	Language	6	360
-520	7010	Frontoparietal-01_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	438
-521	7020	Frontoparietal-02_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	439
-522	7030	Frontoparietal-03_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	440
-523	7040	Frontoparietal-04_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	441
-524	7050	Frontoparietal-05_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	442
-525	7060	Frontoparietal-06_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	443
-526	7070	Frontoparietal-07_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	444
-527	7080	Frontoparietal-08_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	445
-528	7090	Frontoparietal-09_L-Caudate	255	255	0	255	L	Frontoparietal	7	411
-529	7100	Frontoparietal-10_R-Caudate	255	255	0	255	R	Frontoparietal	7	426
-530	7110	Frontoparietal-11_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	412
-531	7120	Frontoparietal-12_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	413
-532	7130	Frontoparietal-13_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	414
-533	7140	Frontoparietal-14_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	415
-534	7150	Frontoparietal-15_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	416
-535	7160	Frontoparietal-16_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	417
-536	7170	Frontoparietal-17_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	418
-537	7180	Frontoparietal-18_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	427
-538	7190	Frontoparietal-19_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	428
-539	7200	Frontoparietal-20_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	429
-540	7210	Frontoparietal-21_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	430
-541	7220	Frontoparietal-22_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	431
-542	7230	Frontoparietal-23_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	432
-543	7240	Frontoparietal-24_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	433
-544	7250	Frontoparietal-25_L-Diencephalon	255	255	0	255	L	Frontoparietal	7	419
-545	7260	Frontoparietal-26_L-Diencephalon	255	255	0	255	L	Frontoparietal	7	420
-546	7270	Frontoparietal-27_L-Diencephalon	255	255	0	255	L	Frontoparietal	7	421
-547	7280	Frontoparietal-28_L-Diencephalon	255	255	0	255	L	Frontoparietal	7	422
-548	7290	Frontoparietal-29_R-Diencephalon	255	255	0	255	R	Frontoparietal	7	434
-549	7300	Frontoparietal-30_L-Putamen	255	255	0	255	L	Frontoparietal	7	423
-550	7310	Frontoparietal-31_R-Putamen	255	255	0	255	R	Frontoparietal	7	435
-551	7320	Frontoparietal-32_L-Thalamus	255	255	0	255	L	Frontoparietal	7	424
-552	7330	Frontoparietal-33_L-Thalamus	255	255	0	255	L	Frontoparietal	7	425
-553	7340	Frontoparietal-34_R-Thalamus	255	255	0	255	R	Frontoparietal	7	436
-554	7350	Frontoparietal-35_R-Thalamus	255	255	0	255	R	Frontoparietal	7	437
-555	8010	Auditory-01_L-Accumbens	250	62	251	255	L	Auditory	8	461
-556	8020	Auditory-02_R-Accumbens	250	62	251	255	R	Auditory	8	466
-557	8030	Auditory-03_L-Diencephalon	250	62	251	255	L	Auditory	8	462
-558	8040	Auditory-04_L-Diencephalon	250	62	251	255	L	Auditory	8	463
-559	8050	Auditory-05_R-Diencephalon	250	62	251	255	R	Auditory	8	467
-560	8060	Auditory-06_R-Diencephalon	250	62	251	255	R	Auditory	8	468
-561	8070	Auditory-07_L-Pallidum	250	62	251	255	L	Auditory	8	464
-562	8080	Auditory-08_R-Pallidum	250	62	251	255	R	Auditory	8	469
-563	8090	Auditory-09_L-Caudate	250	62	251	255	L	Auditory	8	465
-564	8100	Auditory-10_R-Caudate	250	62	251	255	R	Auditory	8	470
-565	8110	Auditory-11_R-Caudate	250	62	251	255	R	Auditory	8	471
-566	9010	Default-01_L-Accumbens	255	0	0	255	L	Default	9	549
-567	9020	Default-02_R-Accumbens	255	0	0	255	R	Default	9	559
-568	9030	Default-03_R-Accumbens	255	0	0	255	R	Default	9	560
-569	9040	Default-04_LR-Brainstem	255	0	0	255	LR	Default	9	572
-570	9050	Default-05_LR-Brainstem	255	0	0	255	LR	Default	9	573
-571	9060	Default-06_LR-Brainstem	255	0	0	255	LR	Default	9	574
-572	9070	Default-07_LR-Brainstem	255	0	0	255	LR	Default	9	575
-573	9080	Default-08_R-Caudate	255	0	0	255	R	Default	9	561
-574	9090	Default-09_L-Cerebellum	255	0	0	255	L	Default	9	550
-575	9100	Default-10_L-Cerebellum	255	0	0	255	L	Default	9	551
-576	9110	Default-11_R-Cerebellum	255	0	0	255	R	Default	9	562
-577	9120	Default-12_R-Cerebellum	255	0	0	255	R	Default	9	563
-578	9130	Default-13_L-Diencephalon	255	0	0	255	L	Default	9	552
-579	9140	Default-14_R-Diencephalon	255	0	0	255	R	Default	9	564
-580	9150	Default-15_L-Hippocampus	255	0	0	255	L	Default	9	553
-581	9160	Default-16_L-Hippocampus	255	0	0	255	L	Default	9	554
-582	9170	Default-17_L-Hippocampus	255	0	0	255	L	Default	9	555
-583	9180	Default-18_L-Hippocampus	255	0	0	255	L	Default	9	556
-584	9190	Default-19_R-Hippocampus	255	0	0	255	R	Default	9	565
-585	9200	Default-20_R-Hippocampus	255	0	0	255	R	Default	9	566
-586	9210	Default-21_R-Hippocampus	255	0	0	255	R	Default	9	567
-587	9220	Default-22_R-Hippocampus	255	0	0	255	R	Default	9	568
-588	9230	Default-23_L-Thalamus	255	0	0	255	L	Default	9	557
-589	9240	Default-24_L-Thalamus	255	0	0	255	L	Default	9	558
-590	9250	Default-25_R-Thalamus	255	0	0	255	R	Default	9	569
-591	9260	Default-26_R-Thalamus	255	0	0	255	R	Default	9	570
-592	9270	Default-27_R-Thalamus	255	0	0	255	R	Default	9	571
-593	10010	Posterior-Multimodal-01_R-Accumbens	177	89	40	255	R	Posterior-Multimodal	10	605
-594	10020	Posterior-Multimodal-02_L-Amygdala	177	89	40	255	L	Posterior-Multimodal	10	583
-595	10030	Posterior-Multimodal-03_L-Amygdala	177	89	40	255	L	Posterior-Multimodal	10	584
-596	10040	Posterior-Multimodal-04_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	598
-597	10050	Posterior-Multimodal-05_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	599
-598	10060	Posterior-Multimodal-06_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	600
-599	10070	Posterior-Multimodal-07_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	601
-600	10080	Posterior-Multimodal-08_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	602
-601	10090	Posterior-Multimodal-09_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	603
-602	10100	Posterior-Multimodal-10_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	604
-603	10110	Posterior-Multimodal-11_L-Caudate	177	89	40	255	L	Posterior-Multimodal	10	585
-604	10120	Posterior-Multimodal-12_R-Caudate	177	89	40	255	R	Posterior-Multimodal	10	606
-605	10130	Posterior-Multimodal-13_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	586
-606	10140	Posterior-Multimodal-14_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	587
-607	10150	Posterior-Multimodal-15_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	588
-608	10160	Posterior-Multimodal-16_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	589
-609	10170	Posterior-Multimodal-17_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	590
-610	10180	Posterior-Multimodal-18_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	591
-611	10190	Posterior-Multimodal-19_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	607
-612	10200	Posterior-Multimodal-20_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	608
-613	10210	Posterior-Multimodal-21_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	609
-614	10220	Posterior-Multimodal-22_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	610
-615	10230	Posterior-Multimodal-23_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	611
-616	10240	Posterior-Multimodal-24_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	612
-617	10250	Posterior-Multimodal-25_L-Diencephalon	177	89	40	255	L	Posterior-Multimodal	10	592
-618	10260	Posterior-Multimodal-26_L-Diencephalon	177	89	40	255	L	Posterior-Multimodal	10	593
-619	10270	Posterior-Multimodal-27_R-Diencephalon	177	89	40	255	R	Posterior-Multimodal	10	613
-620	10280	Posterior-Multimodal-28_R-Diencephalon	177	89	40	255	R	Posterior-Multimodal	10	614
-621	10290	Posterior-Multimodal-29_L-Hippocampus	177	89	40	255	L	Posterior-Multimodal	10	594
-622	10300	Posterior-Multimodal-30_L-Putamen	177	89	40	255	L	Posterior-Multimodal	10	595
-623	10310	Posterior-Multimodal-31_L-Putamen	177	89	40	255	L	Posterior-Multimodal	10	596
-624	10320	Posterior-Multimodal-32_R-Putamen	177	89	40	255	R	Posterior-Multimodal	10	615
-625	10330	Posterior-Multimodal-33_L-Thalamus	177	89	40	255	L	Posterior-Multimodal	10	597
-626	10340	Posterior-Multimodal-34_R-Thalamus	177	89	40	255	R	Posterior-Multimodal	10	616
-627	11010	Ventral-Multimodal-01_R-Diencephalon	255	157	0	255	R	Ventral-Multimodal	11	623
-628	11020	Ventral-Multimodal-02_L-Hippocampus	255	157	0	255	L	Ventral-Multimodal	11	621
-629	11030	Ventral-Multimodal-03_L-Hippocampus	255	157	0	255	L	Ventral-Multimodal	11	622
-630	11040	Ventral-Multimodal-04_R-Hippocampus	255	157	0	255	R	Ventral-Multimodal	11	624
-631	12010	Orbito-Affective-01_L-Accumbens	65	125	0	168	L	Orbito-Affective	12	631
-632	12020	Orbito-Affective-02_R-Accumbens	65	125	0	168	R	Orbito-Affective	12	640
-633	12030	Orbito-Affective-03_L-Caudate	65	125	0	168	L	Orbito-Affective	12	632
-634	12040	Orbito-Affective-04_R-Caudate	65	125	0	168	R	Orbito-Affective	12	641
-635	12050	Orbito-Affective-05_L-Diencephalon	65	125	0	168	L	Orbito-Affective	12	633
-636	12060	Orbito-Affective-06_L-Diencephalon	65	125	0	168	L	Orbito-Affective	12	634
-637	12070	Orbito-Affective-07_R-Diencephalon	65	125	0	168	R	Orbito-Affective	12	642
-638	12080	Orbito-Affective-08_R-Diencephalon	65	125	0	168	R	Orbito-Affective	12	643
-639	12090	Orbito-Affective-09_R-Diencephalon	65	125	0	168	R	Orbito-Affective	12	644
-640	12100	Orbito-Affective-10_L-Pallidum	65	125	0	168	L	Orbito-Affective	12	635
-641	12110	Orbito-Affective-11_L-Pallidum	65	125	0	168	L	Orbito-Affective	12	636
-642	12120	Orbito-Affective-12_L-Pallidum	65	125	0	168	L	Orbito-Affective	12	637
-643	12130	Orbito-Affective-13_R-Pallidum	65	125	0	168	R	Orbito-Affective	12	645
-644	12140	Orbito-Affective-14_R-Pallidum	65	125	0	168	R	Orbito-Affective	12	646
-645	12150	Orbito-Affective-15_L-Putamen	65	125	0	168	L	Orbito-Affective	12	638
-646	12160	Orbito-Affective-16_L-Putamen	65	125	0	168	L	Orbito-Affective	12	639
-647	12170	Orbito-Affective-17_R-Putamen	65	125	0	168	R	Orbito-Affective	12	647
-648	12180	Orbito-Affective-18_R-Putamen	65	125	0	168	R	Orbito-Affective	12	648
+INDEX	KEYVALUE	LABEL	RED	GREEN	BLUE	ALPHA	HEMISPHERE	NETWORK	NETWORKKEY	NETWORKSORTEDORDER	GLASSERLABELNAME
+1	1	Visual1-04_L-Ctx	0	0	255	255	L	Visual1	1	1	L_V1_ROI
+2	2	Visual2-28_L-Ctx	100	0	255	255	L	Visual2	2	47	L_MST_ROI
+3	3	Visual2-29_L-Ctx	100	0	255	255	L	Visual2	2	48	L_V6_ROI
+4	4	Visual2-30_L-Ctx	100	0	255	255	L	Visual2	2	49	L_V2_ROI
+5	5	Visual2-31_L-Ctx	100	0	255	255	L	Visual2	2	50	L_V3_ROI
+6	6	Visual2-32_L-Ctx	100	0	255	255	L	Visual2	2	51	L_V4_ROI
+7	7	Visual2-33_L-Ctx	100	0	255	255	L	Visual2	2	52	L_V8_ROI
+8	8	Somatomotor-21_L-Ctx	0	255	255	255	L	Somatomotor	3	137	L_4_ROI
+9	9	Somatomotor-22_L-Ctx	0	255	255	255	L	Somatomotor	3	138	L_3b_ROI
+10	10	Cingulo-Opercular-30_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	204	L_FEF_ROI
+11	11	Dorsal-Attention-12_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	279	L_PEF_ROI
+12	12	Language-10_L-Ctx	0	155	155	255	L	Language	6	328	L_55b_ROI
+13	13	Visual2-34_L-Ctx	100	0	255	255	L	Visual2	2	53	L_V3A_ROI
+14	14	Frontoparietal-29_L-Ctx	255	255	0	255	L	Frontoparietal	7	361	L_RSC_ROI
+15	15	Frontoparietal-30_L-Ctx	255	255	0	255	L	Frontoparietal	7	362	L_POS2_ROI
+16	16	Visual2-35_L-Ctx	100	0	255	255	L	Visual2	2	54	L_V7_ROI
+17	17	Visual2-36_L-Ctx	100	0	255	255	L	Visual2	2	55	L_IPS1_ROI
+18	18	Visual2-37_L-Ctx	100	0	255	255	L	Visual2	2	56	L_FFC_ROI
+19	19	Visual2-38_L-Ctx	100	0	255	255	L	Visual2	2	57	L_V3B_ROI
+20	20	Visual2-39_L-Ctx	100	0	255	255	L	Visual2	2	58	L_LO1_ROI
+21	21	Visual2-40_L-Ctx	100	0	255	255	L	Visual2	2	59	L_LO2_ROI
+22	22	Visual2-41_L-Ctx	100	0	255	255	L	Visual2	2	60	L_PIT_ROI
+23	23	Visual2-42_L-Ctx	100	0	255	255	L	Visual2	2	61	L_MT_ROI
+24	24	Auditory-08_L-Ctx	250	62	251	255	L	Auditory	8	446	L_A1_ROI
+25	25	Language-11_L-Ctx	0	155	155	255	L	Language	6	329	L_PSL_ROI
+26	26	Language-12_L-Ctx	0	155	155	255	L	Language	6	330	L_SFL_ROI
+27	27	Posterior-Multimodal-05_L-Ctx	177	89	40	255	L	Posterior-Multimodal	10	576	L_PCV_ROI
+28	28	Language-13_L-Ctx	0	155	155	255	L	Language	6	331	L_STV_ROI
+29	29	Frontoparietal-31_L-Ctx	255	255	0	255	L	Frontoparietal	7	363	L_7Pm_ROI
+30	30	Default-38_L-Ctx	255	0	0	255	L	Default	9	472	L_7m_ROI
+31	31	Default-39_L-Ctx	255	0	0	255	L	Default	9	473	L_POS1_ROI
+32	32	Default-40_L-Ctx	255	0	0	255	L	Default	9	474	L_23d_ROI
+33	33	Default-41_L-Ctx	255	0	0	255	L	Default	9	475	L_v23ab_ROI
+34	34	Default-42_L-Ctx	255	0	0	255	L	Default	9	476	L_d23ab_ROI
+35	35	Default-43_L-Ctx	255	0	0	255	L	Default	9	477	L_31pv_ROI
+36	36	Somatomotor-23_L-Ctx	0	255	255	255	L	Somatomotor	3	139	L_5m_ROI
+37	37	Cingulo-Opercular-31_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	205	L_5mv_ROI
+38	38	Cingulo-Opercular-32_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	206	L_23c_ROI
+39	39	Somatomotor-24_L-Ctx	0	255	255	255	L	Somatomotor	3	140	L_5L_ROI
+40	40	Somatomotor-25_L-Ctx	0	255	255	255	L	Somatomotor	3	141	L_24dd_ROI
+41	41	Somatomotor-26_L-Ctx	0	255	255	255	L	Somatomotor	3	142	L_24dv_ROI
+42	42	Somatomotor-27_L-Ctx	0	255	255	255	L	Somatomotor	3	143	L_7AL_ROI
+43	43	Cingulo-Opercular-33_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	207	L_SCEF_ROI
+44	44	Cingulo-Opercular-34_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	208	L_6ma_ROI
+45	45	Cingulo-Opercular-35_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	209	L_7Am_ROI
+46	46	Dorsal-Attention-13_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	280	L_7PL_ROI
+47	47	Somatomotor-28_L-Ctx	0	255	255	255	L	Somatomotor	3	144	L_7PC_ROI
+48	48	Visual2-43_L-Ctx	100	0	255	255	L	Visual2	2	62	L_LIPv_ROI
+49	49	Visual2-44_L-Ctx	100	0	255	255	L	Visual2	2	63	L_VIP_ROI
+50	50	Dorsal-Attention-14_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	281	L_MIP_ROI
+51	51	Somatomotor-29_L-Ctx	0	255	255	255	L	Somatomotor	3	145	L_1_ROI
+52	52	Somatomotor-30_L-Ctx	0	255	255	255	L	Somatomotor	3	146	L_2_ROI
+53	53	Somatomotor-31_L-Ctx	0	255	255	255	L	Somatomotor	3	147	L_3a_ROI
+54	54	Somatomotor-32_L-Ctx	0	255	255	255	L	Somatomotor	3	148	L_6d_ROI
+55	55	Somatomotor-33_L-Ctx	0	255	255	255	L	Somatomotor	3	149	L_6mp_ROI
+56	56	Somatomotor-34_L-Ctx	0	255	255	255	L	Somatomotor	3	150	L_6v_ROI
+57	57	Cingulo-Opercular-36_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	210	L_p24pr_ROI
+58	58	Cingulo-Opercular-37_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	211	L_33pr_ROI
+59	59	Cingulo-Opercular-38_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	212	L_a24pr_ROI
+60	60	Cingulo-Opercular-39_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	213	L_p32pr_ROI
+61	61	Default-44_L-Ctx	255	0	0	255	L	Default	9	478	L_a24_ROI
+62	62	Default-45_L-Ctx	255	0	0	255	L	Default	9	479	L_d32_ROI
+63	63	Frontoparietal-32_L-Ctx	255	255	0	255	L	Frontoparietal	7	364	L_8BM_ROI
+64	64	Default-46_L-Ctx	255	0	0	255	L	Default	9	480	L_p32_ROI
+65	65	Default-47_L-Ctx	255	0	0	255	L	Default	9	481	L_10r_ROI
+66	66	Default-48_L-Ctx	255	0	0	255	L	Default	9	482	L_47m_ROI
+67	67	Default-49_L-Ctx	255	0	0	255	L	Default	9	483	L_8Av_ROI
+68	68	Default-50_L-Ctx	255	0	0	255	L	Default	9	484	L_8Ad_ROI
+69	69	Default-51_L-Ctx	255	0	0	255	L	Default	9	485	L_9m_ROI
+70	70	Default-52_L-Ctx	255	0	0	255	L	Default	9	486	L_8BL_ROI
+71	71	Default-53_L-Ctx	255	0	0	255	L	Default	9	487	L_9p_ROI
+72	72	Default-54_L-Ctx	255	0	0	255	L	Default	9	488	L_10d_ROI
+73	73	Frontoparietal-33_L-Ctx	255	255	0	255	L	Frontoparietal	7	365	L_8C_ROI
+74	74	Language-14_L-Ctx	0	155	155	255	L	Language	6	332	L_44_ROI
+75	75	Language-15_L-Ctx	0	155	155	255	L	Language	6	333	L_45_ROI
+76	76	Default-55_L-Ctx	255	0	0	255	L	Default	9	489	L_47l_ROI
+77	77	Frontoparietal-34_L-Ctx	255	255	0	255	L	Frontoparietal	7	366	L_a47r_ROI
+78	78	Cingulo-Opercular-40_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	214	L_6r_ROI
+79	79	Language-16_L-Ctx	0	155	155	255	L	Language	6	334	L_IFJa_ROI
+80	80	Frontoparietal-35_L-Ctx	255	255	0	255	L	Frontoparietal	7	367	L_IFJp_ROI
+81	81	Language-17_L-Ctx	0	155	155	255	L	Language	6	335	L_IFSp_ROI
+82	82	Frontoparietal-36_L-Ctx	255	255	0	255	L	Frontoparietal	7	368	L_IFSa_ROI
+83	83	Frontoparietal-37_L-Ctx	255	255	0	255	L	Frontoparietal	7	369	L_p9-46v_ROI
+84	84	Cingulo-Opercular-41_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	215	L_46_ROI
+85	85	Frontoparietal-38_L-Ctx	255	255	0	255	L	Frontoparietal	7	370	L_a9-46v_ROI
+86	86	Cingulo-Opercular-42_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	216	L_9-46d_ROI
+87	87	Default-56_L-Ctx	255	0	0	255	L	Default	9	490	L_9a_ROI
+88	88	Default-57_L-Ctx	255	0	0	255	L	Default	9	491	L_10v_ROI
+89	89	Frontoparietal-39_L-Ctx	255	255	0	255	L	Frontoparietal	7	371	L_a10p_ROI
+90	90	Default-58_L-Ctx	255	0	0	255	L	Default	9	492	L_10pp_ROI
+91	91	Frontoparietal-40_L-Ctx	255	255	0	255	L	Frontoparietal	7	372	L_11l_ROI
+92	92	Frontoparietal-41_L-Ctx	255	255	0	255	L	Frontoparietal	7	373	L_13l_ROI
+93	93	Default-59_L-Ctx	255	0	0	255	L	Default	9	493	L_OFC_ROI
+94	94	Default-60_L-Ctx	255	0	0	255	L	Default	9	494	L_47s_ROI
+95	95	Dorsal-Attention-15_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	282	L_LIPd_ROI
+96	96	Dorsal-Attention-16_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	283	L_6a_ROI
+97	97	Frontoparietal-42_L-Ctx	255	255	0	255	L	Frontoparietal	7	374	L_i6-8_ROI
+98	98	Frontoparietal-43_L-Ctx	255	255	0	255	L	Frontoparietal	7	375	L_s6-8_ROI
+99	99	Cingulo-Opercular-43_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	217	L_43_ROI
+100	100	Somatomotor-35_L-Ctx	0	255	255	255	L	Somatomotor	3	151	L_OP4_ROI
+101	101	Somatomotor-36_L-Ctx	0	255	255	255	L	Somatomotor	3	152	L_OP1_ROI
+102	102	Somatomotor-37_L-Ctx	0	255	255	255	L	Somatomotor	3	153	L_OP2-3_ROI
+103	103	Auditory-09_L-Ctx	250	62	251	255	L	Auditory	8	447	L_52_ROI
+104	104	Auditory-10_L-Ctx	250	62	251	255	L	Auditory	8	448	L_RI_ROI
+105	105	Cingulo-Opercular-44_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	218	L_PFcm_ROI
+106	106	Cingulo-Opercular-45_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	219	L_PoI2_ROI
+107	107	Auditory-11_L-Ctx	250	62	251	255	L	Auditory	8	449	L_TA2_ROI
+108	108	Cingulo-Opercular-46_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	220	L_FOP4_ROI
+109	109	Cingulo-Opercular-47_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	221	L_MI_ROI
+110	110	Orbito-Affective-04_L-Ctx	65	125	0	168	L	Orbito-Affective	12	625	L_Pir_ROI
+111	111	Frontoparietal-44_L-Ctx	255	255	0	255	L	Frontoparietal	7	376	L_AVI_ROI
+112	112	Orbito-Affective-05_L-Ctx	65	125	0	168	L	Orbito-Affective	12	626	L_AAIC_ROI
+113	113	Cingulo-Opercular-48_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	222	L_FOP1_ROI
+114	114	Cingulo-Opercular-49_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	223	L_FOP3_ROI
+115	115	Somatomotor-38_L-Ctx	0	255	255	255	L	Somatomotor	3	154	L_FOP2_ROI
+116	116	Dorsal-Attention-17_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	284	L_PFt_ROI
+117	117	Dorsal-Attention-18_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	285	L_AIP_ROI
+118	118	Default-61_L-Ctx	255	0	0	255	L	Default	9	495	L_EC_ROI
+119	119	Default-62_L-Ctx	255	0	0	255	L	Default	9	496	L_PreS_ROI
+120	120	Default-63_L-Ctx	255	0	0	255	L	Default	9	497	L_H_ROI
+121	121	Visual1-05_L-Ctx	0	0	255	255	L	Visual1	1	2	L_ProS_ROI
+122	122	Ventral-Multimodal-03_L-Ctx	255	157	0	255	L	Ventral-Multimodal	11	617	L_PeEc_ROI
+123	123	Language-18_L-Ctx	0	155	155	255	L	Language	6	336	L_STGa_ROI
+124	124	Auditory-12_L-Ctx	250	62	251	255	L	Auditory	8	450	L_PBelt_ROI
+125	125	Language-19_L-Ctx	0	155	155	255	L	Language	6	337	L_A5_ROI
+126	126	Default-64_L-Ctx	255	0	0	255	L	Default	9	498	L_PHA1_ROI
+127	127	Dorsal-Attention-19_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	286	L_PHA3_ROI
+128	128	Language-20_L-Ctx	0	155	155	255	L	Language	6	338	L_STSda_ROI
+129	129	Language-21_L-Ctx	0	155	155	255	L	Language	6	339	L_STSdp_ROI
+130	130	Default-65_L-Ctx	255	0	0	255	L	Default	9	499	L_STSvp_ROI
+131	131	Default-66_L-Ctx	255	0	0	255	L	Default	9	500	L_TGd_ROI
+132	132	Default-67_L-Ctx	255	0	0	255	L	Default	9	501	L_TE1a_ROI
+133	133	Frontoparietal-45_L-Ctx	255	255	0	255	L	Frontoparietal	7	377	L_TE1p_ROI
+134	134	Default-68_L-Ctx	255	0	0	255	L	Default	9	502	L_TE2a_ROI
+135	135	Ventral-Multimodal-04_L-Ctx	255	157	0	255	L	Ventral-Multimodal	11	618	L_TF_ROI
+136	136	Dorsal-Attention-20_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	287	L_TE2p_ROI
+137	137	Dorsal-Attention-21_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	288	L_PHT_ROI
+138	138	Visual2-45_L-Ctx	100	0	255	255	L	Visual2	2	64	L_PH_ROI
+139	139	Language-22_L-Ctx	0	155	155	255	L	Language	6	340	L_TPOJ1_ROI
+140	140	Posterior-Multimodal-06_L-Ctx	177	89	40	255	L	Posterior-Multimodal	10	577	L_TPOJ2_ROI
+141	141	Posterior-Multimodal-07_L-Ctx	177	89	40	255	L	Posterior-Multimodal	10	578	L_TPOJ3_ROI
+142	142	Visual1-06_L-Ctx	0	0	255	255	L	Visual1	1	3	L_DVT_ROI
+143	143	Dorsal-Attention-22_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	289	L_PGp_ROI
+144	144	Frontoparietal-46_L-Ctx	255	255	0	255	L	Frontoparietal	7	378	L_IP2_ROI
+145	145	Frontoparietal-47_L-Ctx	255	255	0	255	L	Frontoparietal	7	379	L_IP1_ROI
+146	146	Dorsal-Attention-23_L-Ctx	0	255	0	255	L	Dorsal-Attention	5	290	L_IP0_ROI
+147	147	Cingulo-Opercular-50_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	224	L_PFop_ROI
+148	148	Cingulo-Opercular-51_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	225	L_PF_ROI
+149	149	Frontoparietal-48_L-Ctx	255	255	0	255	L	Frontoparietal	7	380	L_PFm_ROI
+150	150	Default-69_L-Ctx	255	0	0	255	L	Default	9	503	L_PGi_ROI
+151	151	Default-70_L-Ctx	255	0	0	255	L	Default	9	504	L_PGs_ROI
+152	152	Visual2-46_L-Ctx	100	0	255	255	L	Visual2	2	65	L_V6A_ROI
+153	153	Visual2-47_L-Ctx	100	0	255	255	L	Visual2	2	66	L_VMV1_ROI
+154	154	Visual2-48_L-Ctx	100	0	255	255	L	Visual2	2	67	L_VMV3_ROI
+155	155	Default-71_L-Ctx	255	0	0	255	L	Default	9	505	L_PHA2_ROI
+156	156	Visual2-49_L-Ctx	100	0	255	255	L	Visual2	2	68	L_V4t_ROI
+157	157	Visual2-50_L-Ctx	100	0	255	255	L	Visual2	2	69	L_FST_ROI
+158	158	Visual2-51_L-Ctx	100	0	255	255	L	Visual2	2	70	L_V3CD_ROI
+159	159	Visual2-52_L-Ctx	100	0	255	255	L	Visual2	2	71	L_LO3_ROI
+160	160	Visual2-53_L-Ctx	100	0	255	255	L	Visual2	2	72	L_VMV2_ROI
+161	161	Default-72_L-Ctx	255	0	0	255	L	Default	9	506	L_31pd_ROI
+162	162	Default-73_L-Ctx	255	0	0	255	L	Default	9	507	L_31a_ROI
+163	163	Visual2-54_L-Ctx	100	0	255	255	L	Visual2	2	73	L_VVC_ROI
+164	164	Default-74_L-Ctx	255	0	0	255	L	Default	9	508	L_25_ROI
+165	165	Default-75_L-Ctx	255	0	0	255	L	Default	9	509	L_s32_ROI
+166	166	Orbito-Affective-06_L-Ctx	65	125	0	168	L	Orbito-Affective	12	627	L_pOFC_ROI
+167	167	Cingulo-Opercular-52_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	226	L_PoI1_ROI
+168	168	Somatomotor-39_L-Ctx	0	255	255	255	L	Somatomotor	3	155	L_Ig_ROI
+169	169	Cingulo-Opercular-53_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	227	L_FOP5_ROI
+170	170	Frontoparietal-49_L-Ctx	255	255	0	255	L	Frontoparietal	7	381	L_p10p_ROI
+171	171	Frontoparietal-50_L-Ctx	255	255	0	255	L	Frontoparietal	7	382	L_p47r_ROI
+172	172	Language-23_L-Ctx	0	155	155	255	L	Language	6	341	L_TGv_ROI
+173	173	Auditory-13_L-Ctx	250	62	251	255	L	Auditory	8	451	L_MBelt_ROI
+174	174	Auditory-14_L-Ctx	250	62	251	255	L	Auditory	8	452	L_LBelt_ROI
+175	175	Auditory-15_L-Ctx	250	62	251	255	L	Auditory	8	453	L_A4_ROI
+176	176	Default-76_L-Ctx	255	0	0	255	L	Default	9	510	L_STSva_ROI
+177	177	Default-77_L-Ctx	255	0	0	255	L	Default	9	511	L_TE1m_ROI
+178	178	Cingulo-Opercular-54_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	228	L_PI_ROI
+179	179	Cingulo-Opercular-55_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	229	L_a32pr_ROI
+180	180	Cingulo-Opercular-56_L-Ctx	153	0	153	255	L	Cingulo-Opercular	4	230	L_p24_ROI
+181	181	Visual1-01_R-Ctx	0	0	255	255	R	Visual1	1	4	R_V1_ROI
+182	182	Visual2-01_R-Ctx	100	0	255	255	R	Visual2	2	74	R_MST_ROI
+183	183	Visual2-02_R-Ctx	100	0	255	255	R	Visual2	2	75	R_V6_ROI
+184	184	Visual2-03_R-Ctx	100	0	255	255	R	Visual2	2	76	R_V2_ROI
+185	185	Visual2-04_R-Ctx	100	0	255	255	R	Visual2	2	77	R_V3_ROI
+186	186	Visual2-05_R-Ctx	100	0	255	255	R	Visual2	2	78	R_V4_ROI
+187	187	Visual2-06_R-Ctx	100	0	255	255	R	Visual2	2	79	R_V8_ROI
+188	188	Somatomotor-01_R-Ctx	0	255	255	255	R	Somatomotor	3	156	R_4_ROI
+189	189	Somatomotor-02_R-Ctx	0	255	255	255	R	Somatomotor	3	157	R_3b_ROI
+190	190	Cingulo-Opercular-01_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	231	R_FEF_ROI
+191	191	Cingulo-Opercular-02_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	232	R_PEF_ROI
+192	192	Language-01_R-Ctx	0	155	155	255	R	Language	6	342	R_55b_ROI
+193	193	Visual2-07_R-Ctx	100	0	255	255	R	Visual2	2	80	R_V3A_ROI
+194	194	Frontoparietal-01_R-Ctx	255	255	0	255	R	Frontoparietal	7	383	R_RSC_ROI
+195	195	Frontoparietal-02_R-Ctx	255	255	0	255	R	Frontoparietal	7	384	R_POS2_ROI
+196	196	Visual2-08_R-Ctx	100	0	255	255	R	Visual2	2	81	R_V7_ROI
+197	197	Visual2-09_R-Ctx	100	0	255	255	R	Visual2	2	82	R_IPS1_ROI
+198	198	Visual2-10_R-Ctx	100	0	255	255	R	Visual2	2	83	R_FFC_ROI
+199	199	Visual2-11_R-Ctx	100	0	255	255	R	Visual2	2	84	R_V3B_ROI
+200	200	Visual2-12_R-Ctx	100	0	255	255	R	Visual2	2	85	R_LO1_ROI
+201	201	Visual2-13_R-Ctx	100	0	255	255	R	Visual2	2	86	R_LO2_ROI
+202	202	Visual2-14_R-Ctx	100	0	255	255	R	Visual2	2	87	R_PIT_ROI
+203	203	Visual2-15_R-Ctx	100	0	255	255	R	Visual2	2	88	R_MT_ROI
+204	204	Auditory-01_R-Ctx	250	62	251	255	R	Auditory	8	454	R_A1_ROI
+205	205	Cingulo-Opercular-03_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	233	R_PSL_ROI
+206	206	Language-02_R-Ctx	0	155	155	255	R	Language	6	343	R_SFL_ROI
+207	207	Posterior-Multimodal-01_R-Ctx	177	89	40	255	R	Posterior-Multimodal	10	579	R_PCV_ROI
+208	208	Posterior-Multimodal-02_R-Ctx	177	89	40	255	R	Posterior-Multimodal	10	580	R_STV_ROI
+209	209	Frontoparietal-03_R-Ctx	255	255	0	255	R	Frontoparietal	7	385	R_7Pm_ROI
+210	210	Default-01_R-Ctx	255	0	0	255	R	Default	9	512	R_7m_ROI
+211	211	Default-02_R-Ctx	255	0	0	255	R	Default	9	513	R_POS1_ROI
+212	212	Default-03_R-Ctx	255	0	0	255	R	Default	9	514	R_23d_ROI
+213	213	Default-04_R-Ctx	255	0	0	255	R	Default	9	515	R_v23ab_ROI
+214	214	Default-05_R-Ctx	255	0	0	255	R	Default	9	516	R_d23ab_ROI
+215	215	Default-06_R-Ctx	255	0	0	255	R	Default	9	517	R_31pv_ROI
+216	216	Somatomotor-03_R-Ctx	0	255	255	255	R	Somatomotor	3	158	R_5m_ROI
+217	217	Cingulo-Opercular-04_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	234	R_5mv_ROI
+218	218	Cingulo-Opercular-05_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	235	R_23c_ROI
+219	219	Somatomotor-04_R-Ctx	0	255	255	255	R	Somatomotor	3	159	R_5L_ROI
+220	220	Somatomotor-05_R-Ctx	0	255	255	255	R	Somatomotor	3	160	R_24dd_ROI
+221	221	Somatomotor-06_R-Ctx	0	255	255	255	R	Somatomotor	3	161	R_24dv_ROI
+222	222	Somatomotor-07_R-Ctx	0	255	255	255	R	Somatomotor	3	162	R_7AL_ROI
+223	223	Cingulo-Opercular-06_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	236	R_SCEF_ROI
+224	224	Cingulo-Opercular-07_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	237	R_6ma_ROI
+225	225	Cingulo-Opercular-08_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	238	R_7Am_ROI
+226	226	Dorsal-Attention-01_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	291	R_7PL_ROI
+227	227	Somatomotor-08_R-Ctx	0	255	255	255	R	Somatomotor	3	163	R_7PC_ROI
+228	228	Visual2-16_R-Ctx	100	0	255	255	R	Visual2	2	89	R_LIPv_ROI
+229	229	Visual2-17_R-Ctx	100	0	255	255	R	Visual2	2	90	R_VIP_ROI
+230	230	Dorsal-Attention-02_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	292	R_MIP_ROI
+231	231	Somatomotor-09_R-Ctx	0	255	255	255	R	Somatomotor	3	164	R_1_ROI
+232	232	Somatomotor-10_R-Ctx	0	255	255	255	R	Somatomotor	3	165	R_2_ROI
+233	233	Somatomotor-11_R-Ctx	0	255	255	255	R	Somatomotor	3	166	R_3a_ROI
+234	234	Somatomotor-12_R-Ctx	0	255	255	255	R	Somatomotor	3	167	R_6d_ROI
+235	235	Somatomotor-13_R-Ctx	0	255	255	255	R	Somatomotor	3	168	R_6mp_ROI
+236	236	Somatomotor-14_R-Ctx	0	255	255	255	R	Somatomotor	3	169	R_6v_ROI
+237	237	Cingulo-Opercular-09_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	239	R_p24pr_ROI
+238	238	Frontoparietal-04_R-Ctx	255	255	0	255	R	Frontoparietal	7	386	R_33pr_ROI
+239	239	Cingulo-Opercular-10_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	240	R_a24pr_ROI
+240	240	Cingulo-Opercular-11_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	241	R_p32pr_ROI
+241	241	Default-07_R-Ctx	255	0	0	255	R	Default	9	518	R_a24_ROI
+242	242	Frontoparietal-05_R-Ctx	255	255	0	255	R	Frontoparietal	7	387	R_d32_ROI
+243	243	Frontoparietal-06_R-Ctx	255	255	0	255	R	Frontoparietal	7	388	R_8BM_ROI
+244	244	Default-08_R-Ctx	255	0	0	255	R	Default	9	519	R_p32_ROI
+245	245	Default-09_R-Ctx	255	0	0	255	R	Default	9	520	R_10r_ROI
+246	246	Default-10_R-Ctx	255	0	0	255	R	Default	9	521	R_47m_ROI
+247	247	Default-11_R-Ctx	255	0	0	255	R	Default	9	522	R_8Av_ROI
+248	248	Default-12_R-Ctx	255	0	0	255	R	Default	9	523	R_8Ad_ROI
+249	249	Default-13_R-Ctx	255	0	0	255	R	Default	9	524	R_9m_ROI
+250	250	Default-14_R-Ctx	255	0	0	255	R	Default	9	525	R_8BL_ROI
+251	251	Default-15_R-Ctx	255	0	0	255	R	Default	9	526	R_9p_ROI
+252	252	Default-16_R-Ctx	255	0	0	255	R	Default	9	527	R_10d_ROI
+253	253	Frontoparietal-07_R-Ctx	255	255	0	255	R	Frontoparietal	7	389	R_8C_ROI
+254	254	Frontoparietal-08_R-Ctx	255	255	0	255	R	Frontoparietal	7	390	R_44_ROI
+255	255	Language-03_R-Ctx	0	155	155	255	R	Language	6	344	R_45_ROI
+256	256	Default-17_R-Ctx	255	0	0	255	R	Default	9	528	R_47l_ROI
+257	257	Frontoparietal-09_R-Ctx	255	255	0	255	R	Frontoparietal	7	391	R_a47r_ROI
+258	258	Cingulo-Opercular-12_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	242	R_6r_ROI
+259	259	Language-04_R-Ctx	0	155	155	255	R	Language	6	345	R_IFJa_ROI
+260	260	Frontoparietal-10_R-Ctx	255	255	0	255	R	Frontoparietal	7	392	R_IFJp_ROI
+261	261	Frontoparietal-11_R-Ctx	255	255	0	255	R	Frontoparietal	7	393	R_IFSp_ROI
+262	262	Cingulo-Opercular-13_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	243	R_IFSa_ROI
+263	263	Frontoparietal-12_R-Ctx	255	255	0	255	R	Frontoparietal	7	394	R_p9-46v_ROI
+264	264	Cingulo-Opercular-14_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	244	R_46_ROI
+265	265	Frontoparietal-13_R-Ctx	255	255	0	255	R	Frontoparietal	7	395	R_a9-46v_ROI
+266	266	Cingulo-Opercular-15_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	245	R_9-46d_ROI
+267	267	Default-18_R-Ctx	255	0	0	255	R	Default	9	529	R_9a_ROI
+268	268	Default-19_R-Ctx	255	0	0	255	R	Default	9	530	R_10v_ROI
+269	269	Frontoparietal-14_R-Ctx	255	255	0	255	R	Frontoparietal	7	396	R_a10p_ROI
+270	270	Default-20_R-Ctx	255	0	0	255	R	Default	9	531	R_10pp_ROI
+271	271	Frontoparietal-15_R-Ctx	255	255	0	255	R	Frontoparietal	7	397	R_11l_ROI
+272	272	Frontoparietal-16_R-Ctx	255	255	0	255	R	Frontoparietal	7	398	R_13l_ROI
+273	273	Frontoparietal-17_R-Ctx	255	255	0	255	R	Frontoparietal	7	399	R_OFC_ROI
+274	274	Default-21_R-Ctx	255	0	0	255	R	Default	9	532	R_47s_ROI
+275	275	Dorsal-Attention-03_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	293	R_LIPd_ROI
+276	276	Dorsal-Attention-04_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	294	R_6a_ROI
+277	277	Frontoparietal-18_R-Ctx	255	255	0	255	R	Frontoparietal	7	400	R_i6-8_ROI
+278	278	Frontoparietal-19_R-Ctx	255	255	0	255	R	Frontoparietal	7	401	R_s6-8_ROI
+279	279	Cingulo-Opercular-16_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	246	R_43_ROI
+280	280	Somatomotor-15_R-Ctx	0	255	255	255	R	Somatomotor	3	170	R_OP4_ROI
+281	281	Somatomotor-16_R-Ctx	0	255	255	255	R	Somatomotor	3	171	R_OP1_ROI
+282	282	Somatomotor-17_R-Ctx	0	255	255	255	R	Somatomotor	3	172	R_OP2-3_ROI
+283	283	Auditory-02_R-Ctx	250	62	251	255	R	Auditory	8	455	R_52_ROI
+284	284	Somatomotor-18_R-Ctx	0	255	255	255	R	Somatomotor	3	173	R_RI_ROI
+285	285	Cingulo-Opercular-17_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	247	R_PFcm_ROI
+286	286	Cingulo-Opercular-18_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	248	R_PoI2_ROI
+287	287	Auditory-03_R-Ctx	250	62	251	255	R	Auditory	8	456	R_TA2_ROI
+288	288	Cingulo-Opercular-19_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	249	R_FOP4_ROI
+289	289	Cingulo-Opercular-20_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	250	R_MI_ROI
+290	290	Orbito-Affective-01_R-Ctx	65	125	0	168	R	Orbito-Affective	12	628	R_Pir_ROI
+291	291	Frontoparietal-20_R-Ctx	255	255	0	255	R	Frontoparietal	7	402	R_AVI_ROI
+292	292	Orbito-Affective-02_R-Ctx	65	125	0	168	R	Orbito-Affective	12	629	R_AAIC_ROI
+293	293	Cingulo-Opercular-21_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	251	R_FOP1_ROI
+294	294	Cingulo-Opercular-22_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	252	R_FOP3_ROI
+295	295	Somatomotor-19_R-Ctx	0	255	255	255	R	Somatomotor	3	174	R_FOP2_ROI
+296	296	Dorsal-Attention-05_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	295	R_PFt_ROI
+297	297	Dorsal-Attention-06_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	296	R_AIP_ROI
+298	298	Default-22_R-Ctx	255	0	0	255	R	Default	9	533	R_EC_ROI
+299	299	Default-23_R-Ctx	255	0	0	255	R	Default	9	534	R_PreS_ROI
+300	300	Default-24_R-Ctx	255	0	0	255	R	Default	9	535	R_H_ROI
+301	301	Visual1-02_R-Ctx	0	0	255	255	R	Visual1	1	5	R_ProS_ROI
+302	302	Ventral-Multimodal-01_R-Ctx	255	157	0	255	R	Ventral-Multimodal	11	619	R_PeEc_ROI
+303	303	Language-05_R-Ctx	0	155	155	255	R	Language	6	346	R_STGa_ROI
+304	304	Auditory-04_R-Ctx	250	62	251	255	R	Auditory	8	457	R_PBelt_ROI
+305	305	Language-06_R-Ctx	0	155	155	255	R	Language	6	347	R_A5_ROI
+306	306	Default-25_R-Ctx	255	0	0	255	R	Default	9	536	R_PHA1_ROI
+307	307	Dorsal-Attention-07_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	297	R_PHA3_ROI
+308	308	Default-26_R-Ctx	255	0	0	255	R	Default	9	537	R_STSda_ROI
+309	309	Language-07_R-Ctx	0	155	155	255	R	Language	6	348	R_STSdp_ROI
+310	310	Default-27_R-Ctx	255	0	0	255	R	Default	9	538	R_STSvp_ROI
+311	311	Default-28_R-Ctx	255	0	0	255	R	Default	9	539	R_TGd_ROI
+312	312	Default-29_R-Ctx	255	0	0	255	R	Default	9	540	R_TE1a_ROI
+313	313	Frontoparietal-21_R-Ctx	255	255	0	255	R	Frontoparietal	7	403	R_TE1p_ROI
+314	314	Default-30_R-Ctx	255	0	0	255	R	Default	9	541	R_TE2a_ROI
+315	315	Ventral-Multimodal-02_R-Ctx	255	157	0	255	R	Ventral-Multimodal	11	620	R_TF_ROI
+316	316	Dorsal-Attention-08_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	298	R_TE2p_ROI
+317	317	Dorsal-Attention-09_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	299	R_PHT_ROI
+318	318	Visual2-18_R-Ctx	100	0	255	255	R	Visual2	2	91	R_PH_ROI
+319	319	Language-08_R-Ctx	0	155	155	255	R	Language	6	349	R_TPOJ1_ROI
+320	320	Posterior-Multimodal-03_R-Ctx	177	89	40	255	R	Posterior-Multimodal	10	581	R_TPOJ2_ROI
+321	321	Posterior-Multimodal-04_R-Ctx	177	89	40	255	R	Posterior-Multimodal	10	582	R_TPOJ3_ROI
+322	322	Visual1-03_R-Ctx	0	0	255	255	R	Visual1	1	6	R_DVT_ROI
+323	323	Dorsal-Attention-10_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	300	R_PGp_ROI
+324	324	Frontoparietal-22_R-Ctx	255	255	0	255	R	Frontoparietal	7	404	R_IP2_ROI
+325	325	Frontoparietal-23_R-Ctx	255	255	0	255	R	Frontoparietal	7	405	R_IP1_ROI
+326	326	Dorsal-Attention-11_R-Ctx	0	255	0	255	R	Dorsal-Attention	5	301	R_IP0_ROI
+327	327	Cingulo-Opercular-23_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	253	R_PFop_ROI
+328	328	Cingulo-Opercular-24_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	254	R_PF_ROI
+329	329	Frontoparietal-24_R-Ctx	255	255	0	255	R	Frontoparietal	7	406	R_PFm_ROI
+330	330	Default-31_R-Ctx	255	0	0	255	R	Default	9	542	R_PGi_ROI
+331	331	Default-32_R-Ctx	255	0	0	255	R	Default	9	543	R_PGs_ROI
+332	332	Visual2-19_R-Ctx	100	0	255	255	R	Visual2	2	92	R_V6A_ROI
+333	333	Visual2-20_R-Ctx	100	0	255	255	R	Visual2	2	93	R_VMV1_ROI
+334	334	Visual2-21_R-Ctx	100	0	255	255	R	Visual2	2	94	R_VMV3_ROI
+335	335	Default-33_R-Ctx	255	0	0	255	R	Default	9	544	R_PHA2_ROI
+336	336	Visual2-22_R-Ctx	100	0	255	255	R	Visual2	2	95	R_V4t_ROI
+337	337	Visual2-23_R-Ctx	100	0	255	255	R	Visual2	2	96	R_FST_ROI
+338	338	Visual2-24_R-Ctx	100	0	255	255	R	Visual2	2	97	R_V3CD_ROI
+339	339	Visual2-25_R-Ctx	100	0	255	255	R	Visual2	2	98	R_LO3_ROI
+340	340	Visual2-26_R-Ctx	100	0	255	255	R	Visual2	2	99	R_VMV2_ROI
+341	341	Default-34_R-Ctx	255	0	0	255	R	Default	9	545	R_31pd_ROI
+342	342	Frontoparietal-25_R-Ctx	255	255	0	255	R	Frontoparietal	7	407	R_31a_ROI
+343	343	Visual2-27_R-Ctx	100	0	255	255	R	Visual2	2	100	R_VVC_ROI
+344	344	Default-35_R-Ctx	255	0	0	255	R	Default	9	546	R_25_ROI
+345	345	Default-36_R-Ctx	255	0	0	255	R	Default	9	547	R_s32_ROI
+346	346	Orbito-Affective-03_R-Ctx	65	125	0	168	R	Orbito-Affective	12	630	R_pOFC_ROI
+347	347	Cingulo-Opercular-25_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	255	R_PoI1_ROI
+348	348	Somatomotor-20_R-Ctx	0	255	255	255	R	Somatomotor	3	175	R_Ig_ROI
+349	349	Cingulo-Opercular-26_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	256	R_FOP5_ROI
+350	350	Frontoparietal-26_R-Ctx	255	255	0	255	R	Frontoparietal	7	408	R_p10p_ROI
+351	351	Frontoparietal-27_R-Ctx	255	255	0	255	R	Frontoparietal	7	409	R_p47r_ROI
+352	352	Language-09_R-Ctx	0	155	155	255	R	Language	6	350	R_TGv_ROI
+353	353	Auditory-05_R-Ctx	250	62	251	255	R	Auditory	8	458	R_MBelt_ROI
+354	354	Auditory-06_R-Ctx	250	62	251	255	R	Auditory	8	459	R_LBelt_ROI
+355	355	Auditory-07_R-Ctx	250	62	251	255	R	Auditory	8	460	R_A4_ROI
+356	356	Default-37_R-Ctx	255	0	0	255	R	Default	9	548	R_STSva_ROI
+357	357	Frontoparietal-28_R-Ctx	255	255	0	255	R	Frontoparietal	7	410	R_TE1m_ROI
+358	358	Cingulo-Opercular-27_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	257	R_PI_ROI
+359	359	Cingulo-Opercular-28_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	258	R_a32pr_ROI
+360	360	Cingulo-Opercular-29_R-Ctx	153	0	153	255	R	Cingulo-Opercular	4	259	R_p24_ROI
+361	1010	Visual1-01_L-Caudate	0	0	255	255	L	Visual1	1	7	NA
+362	1020	Visual1-02_R-Caudate	0	0	255	255	R	Visual1	1	26	NA
+363	1030	Visual1-03_LR-Brainstem	0	0	255	255	LR	Visual1	1	43	NA
+364	1040	Visual1-04_LR-Brainstem	0	0	255	255	LR	Visual1	1	44	NA
+365	1050	Visual1-05_LR-Brainstem	0	0	255	255	LR	Visual1	1	45	NA
+366	1060	Visual1-06_LR-Brainstem	0	0	255	255	LR	Visual1	1	46	NA
+367	1070	Visual1-07_L-Caudate	0	0	255	255	L	Visual1	1	8	NA
+368	1080	Visual1-08_L-Caudate	0	0	255	255	L	Visual1	1	9	NA
+369	1090	Visual1-09_R-Caudate	0	0	255	255	R	Visual1	1	27	NA
+370	1100	Visual1-10_R-Caudate	0	0	255	255	R	Visual1	1	28	NA
+371	1110	Visual1-11_L-Cerebellum	0	0	255	255	L	Visual1	1	10	NA
+372	1120	Visual1-12_L-Cerebellum	0	0	255	255	L	Visual1	1	11	NA
+373	1130	Visual1-13_L-Cerebellum	0	0	255	255	L	Visual1	1	12	NA
+374	1140	Visual1-14_L-Cerebellum	0	0	255	255	L	Visual1	1	13	NA
+375	1150	Visual1-15_L-Cerebellum	0	0	255	255	L	Visual1	1	14	NA
+376	1160	Visual1-16_L-Cerebellum	0	0	255	255	L	Visual1	1	15	NA
+377	1170	Visual1-17_R-Cerebellum	0	0	255	255	R	Visual1	1	29	NA
+378	1180	Visual1-18_R-Cerebellum	0	0	255	255	R	Visual1	1	30	NA
+379	1190	Visual1-19_R-Cerebellum	0	0	255	255	R	Visual1	1	31	NA
+380	1200	Visual1-20_R-Cerebellum	0	0	255	255	R	Visual1	1	32	NA
+381	1210	Visual1-21_R-Cerebellum	0	0	255	255	R	Visual1	1	33	NA
+382	1220	Visual1-22_R-Cerebellum	0	0	255	255	R	Visual1	1	34	NA
+383	1230	Visual1-23_L-Diencephalon	0	0	255	255	L	Visual1	1	16	NA
+384	1240	Visual1-24_R-Diencephalon	0	0	255	255	R	Visual1	1	35	NA
+385	1250	Visual1-25_L-Hippocampus	0	0	255	255	L	Visual1	1	17	NA
+386	1260	Visual1-26_L-Hippocampus	0	0	255	255	L	Visual1	1	18	NA
+387	1270	Visual1-27_R-Hippocampus	0	0	255	255	R	Visual1	1	36	NA
+388	1280	Visual1-28_R-Hippocampus	0	0	255	255	R	Visual1	1	37	NA
+389	1290	Visual1-29_L-Pallidum	0	0	255	255	L	Visual1	1	19	NA
+390	1300	Visual1-30_R-Pallidum	0	0	255	255	R	Visual1	1	38	NA
+391	1310	Visual1-31_L-Putamen	0	0	255	255	L	Visual1	1	20	NA
+392	1320	Visual1-32_L-Putamen	0	0	255	255	L	Visual1	1	21	NA
+393	1330	Visual1-33_L-Putamen	0	0	255	255	L	Visual1	1	22	NA
+394	1340	Visual1-34_R-Putamen	0	0	255	255	R	Visual1	1	39	NA
+395	1350	Visual1-35_R-Putamen	0	0	255	255	R	Visual1	1	40	NA
+396	1360	Visual1-36_R-Putamen	0	0	255	255	R	Visual1	1	41	NA
+397	1370	Visual1-37_L-Thalamus	0	0	255	255	L	Visual1	1	23	NA
+398	1380	Visual1-38_L-Thalamus	0	0	255	255	L	Visual1	1	24	NA
+399	1390	Visual1-39_L-Thalamus	0	0	255	255	L	Visual1	1	25	NA
+400	1400	Visual1-40_R-Thalamus	0	0	255	255	R	Visual1	1	42	NA
+401	2010	Visual2-01_L-Amygdala	100	0	255	255	L	Visual2	2	101	NA
+402	2020	Visual2-02_L-Amygdala	100	0	255	255	L	Visual2	2	102	NA
+403	2030	Visual2-03_L-Amygdala	100	0	255	255	L	Visual2	2	103	NA
+404	2040	Visual2-04_R-Amygdala	100	0	255	255	R	Visual2	2	114	NA
+405	2050	Visual2-05_R-Amygdala	100	0	255	255	R	Visual2	2	115	NA
+406	2060	Visual2-06_R-Amygdala	100	0	255	255	R	Visual2	2	116	NA
+407	2070	Visual2-07_LR-Brainstem	100	0	255	255	LR	Visual2	2	133	NA
+408	2080	Visual2-08_LR-Brainstem	100	0	255	255	LR	Visual2	2	134	NA
+409	2090	Visual2-09_LR-Brainstem	100	0	255	255	LR	Visual2	2	135	NA
+410	2100	Visual2-10_LR-Brainstem	100	0	255	255	LR	Visual2	2	136	NA
+411	2110	Visual2-11_R-Caudate	100	0	255	255	R	Visual2	2	117	NA
+412	2120	Visual2-12_L-Cerebellum	100	0	255	255	L	Visual2	2	104	NA
+413	2130	Visual2-13_L-Cerebellum	100	0	255	255	L	Visual2	2	105	NA
+414	2140	Visual2-14_L-Cerebellum	100	0	255	255	L	Visual2	2	106	NA
+415	2150	Visual2-15_R-Cerebellum	100	0	255	255	R	Visual2	2	118	NA
+416	2160	Visual2-16_R-Cerebellum	100	0	255	255	R	Visual2	2	119	NA
+417	2170	Visual2-17_R-Cerebellum	100	0	255	255	R	Visual2	2	120	NA
+418	2180	Visual2-18_R-Cerebellum	100	0	255	255	R	Visual2	2	121	NA
+419	2190	Visual2-19_R-Cerebellum	100	0	255	255	R	Visual2	2	122	NA
+420	2200	Visual2-20_R-Cerebellum	100	0	255	255	R	Visual2	2	123	NA
+421	2210	Visual2-21_L-Diencephalon	100	0	255	255	L	Visual2	2	107	NA
+422	2220	Visual2-22_L-Diencephalon	100	0	255	255	L	Visual2	2	108	NA
+423	2230	Visual2-23_L-Diencephalon	100	0	255	255	L	Visual2	2	109	NA
+424	2240	Visual2-24_L-Diencephalon	100	0	255	255	L	Visual2	2	110	NA
+425	2250	Visual2-25_R-Diencephalon	100	0	255	255	R	Visual2	2	124	NA
+426	2260	Visual2-26_R-Diencephalon	100	0	255	255	R	Visual2	2	125	NA
+427	2270	Visual2-27_R-Diencephalon	100	0	255	255	R	Visual2	2	126	NA
+428	2280	Visual2-28_R-Diencephalon	100	0	255	255	R	Visual2	2	127	NA
+429	2290	Visual2-29_L-Hippocampus	100	0	255	255	L	Visual2	2	111	NA
+430	2300	Visual2-30_R-Hippocampus	100	0	255	255	R	Visual2	2	128	NA
+431	2310	Visual2-31_R-Pallidum	100	0	255	255	R	Visual2	2	129	NA
+432	2320	Visual2-32_L-Caudate	100	0	255	255	L	Visual2	2	112	NA
+433	2330	Visual2-33_R-Caudate	100	0	255	255	R	Visual2	2	130	NA
+434	2340	Visual2-34_R-Caudate	100	0	255	255	R	Visual2	2	131	NA
+435	2350	Visual2-35_L-Thalamus	100	0	255	255	L	Visual2	2	113	NA
+436	2360	Visual2-36_R-Thalamus	100	0	255	255	R	Visual2	2	132	NA
+437	3010	Somatomotor-01_L-Amygdala	0	255	255	255	L	Somatomotor	3	176	NA
+438	3020	Somatomotor-02_R-Amygdala	0	255	255	255	R	Somatomotor	3	189	NA
+439	3030	Somatomotor-03_L-Cerebellum	0	255	255	255	L	Somatomotor	3	177	NA
+440	3040	Somatomotor-04_L-Cerebellum	0	255	255	255	L	Somatomotor	3	178	NA
+441	3050	Somatomotor-05_L-Cerebellum	0	255	255	255	L	Somatomotor	3	179	NA
+442	3060	Somatomotor-06_L-Cerebellum	0	255	255	255	L	Somatomotor	3	180	NA
+443	3070	Somatomotor-07_L-Cerebellum	0	255	255	255	L	Somatomotor	3	181	NA
+444	3080	Somatomotor-08_L-Cerebellum	0	255	255	255	L	Somatomotor	3	182	NA
+445	3090	Somatomotor-09_L-Cerebellum	0	255	255	255	L	Somatomotor	3	183	NA
+446	3100	Somatomotor-10_R-Cerebellum	0	255	255	255	R	Somatomotor	3	190	NA
+447	3110	Somatomotor-11_R-Cerebellum	0	255	255	255	R	Somatomotor	3	191	NA
+448	3120	Somatomotor-12_R-Cerebellum	0	255	255	255	R	Somatomotor	3	192	NA
+449	3130	Somatomotor-13_R-Cerebellum	0	255	255	255	R	Somatomotor	3	193	NA
+450	3140	Somatomotor-14_R-Cerebellum	0	255	255	255	R	Somatomotor	3	194	NA
+451	3150	Somatomotor-15_R-Cerebellum	0	255	255	255	R	Somatomotor	3	195	NA
+452	3160	Somatomotor-16_R-Cerebellum	0	255	255	255	R	Somatomotor	3	196	NA
+453	3170	Somatomotor-17_R-Cerebellum	0	255	255	255	R	Somatomotor	3	197	NA
+454	3180	Somatomotor-18_L-Hippocampus	0	255	255	255	L	Somatomotor	3	184	NA
+455	3190	Somatomotor-19_L-Hippocampus	0	255	255	255	L	Somatomotor	3	185	NA
+456	3200	Somatomotor-20_L-Hippocampus	0	255	255	255	L	Somatomotor	3	186	NA
+457	3210	Somatomotor-21_R-Hippocampus	0	255	255	255	R	Somatomotor	3	198	NA
+458	3220	Somatomotor-22_R-Hippocampus	0	255	255	255	R	Somatomotor	3	199	NA
+459	3230	Somatomotor-23_R-Hippocampus	0	255	255	255	R	Somatomotor	3	200	NA
+460	3240	Somatomotor-24_L-Pallidum	0	255	255	255	L	Somatomotor	3	187	NA
+461	3250	Somatomotor-25_R-Pallidum	0	255	255	255	R	Somatomotor	3	201	NA
+462	3260	Somatomotor-26_R-Pallidum	0	255	255	255	R	Somatomotor	3	202	NA
+463	3270	Somatomotor-27_L-Thalamus	0	255	255	255	L	Somatomotor	3	188	NA
+464	3280	Somatomotor-28_R-Thalamus	0	255	255	255	R	Somatomotor	3	203	NA
+465	4010	Cingulo-Opercular-01_LR-Brainstem	153	0	153	255	LR	Cingulo-Opercular	4	269	NA
+466	4020	Cingulo-Opercular-02_LR-Brainstem	153	0	153	255	LR	Cingulo-Opercular	4	270	NA
+467	4030	Cingulo-Opercular-03_LR-Brainstem	153	0	153	255	LR	Cingulo-Opercular	4	271	NA
+468	4040	Cingulo-Opercular-04_LR-Brainstem	153	0	153	255	LR	Cingulo-Opercular	4	272	NA
+469	4050	Cingulo-Opercular-05_L-Caudate	153	0	153	255	L	Cingulo-Opercular	4	260	NA
+470	4060	Cingulo-Opercular-06_R-Caudate	153	0	153	255	R	Cingulo-Opercular	4	273	NA
+471	4070	Cingulo-Opercular-07_L-Cerebellum	153	0	153	255	L	Cingulo-Opercular	4	261	NA
+472	4080	Cingulo-Opercular-08_L-Cerebellum	153	0	153	255	L	Cingulo-Opercular	4	262	NA
+473	4090	Cingulo-Opercular-09_L-Cerebellum	153	0	153	255	L	Cingulo-Opercular	4	263	NA
+474	4100	Cingulo-Opercular-10_L-Cerebellum	153	0	153	255	L	Cingulo-Opercular	4	264	NA
+475	4110	Cingulo-Opercular-11_R-Cerebellum	153	0	153	255	R	Cingulo-Opercular	4	274	NA
+476	4120	Cingulo-Opercular-12_R-Cerebellum	153	0	153	255	R	Cingulo-Opercular	4	275	NA
+477	4130	Cingulo-Opercular-13_R-Cerebellum	153	0	153	255	R	Cingulo-Opercular	4	276	NA
+478	4140	Cingulo-Opercular-14_R-Cerebellum	153	0	153	255	R	Cingulo-Opercular	4	277	NA
+479	4150	Cingulo-Opercular-15_L-Diencephalon	153	0	153	255	L	Cingulo-Opercular	4	265	NA
+480	4160	Cingulo-Opercular-16_L-Pallidum	153	0	153	255	L	Cingulo-Opercular	4	266	NA
+481	4170	Cingulo-Opercular-17_L-Pallidum	153	0	153	255	L	Cingulo-Opercular	4	267	NA
+482	4180	Cingulo-Opercular-18_L-Putamen	153	0	153	255	L	Cingulo-Opercular	4	268	NA
+483	4190	Cingulo-Opercular-19_R-Putamen	153	0	153	255	R	Cingulo-Opercular	4	278	NA
+484	5010	Dorsal-Attention-01_L-Caudate	0	255	0	255	L	Dorsal-Attention	5	302	NA
+485	5020	Dorsal-Attention-02_L-Caudate	0	255	0	255	L	Dorsal-Attention	5	303	NA
+486	5030	Dorsal-Attention-03_R-Caudate	0	255	0	255	R	Dorsal-Attention	5	316	NA
+487	5040	Dorsal-Attention-04_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	304	NA
+488	5050	Dorsal-Attention-05_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	305	NA
+489	5060	Dorsal-Attention-06_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	306	NA
+490	5070	Dorsal-Attention-07_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	307	NA
+491	5080	Dorsal-Attention-08_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	308	NA
+492	5090	Dorsal-Attention-09_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	309	NA
+493	5100	Dorsal-Attention-10_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	310	NA
+494	5110	Dorsal-Attention-11_L-Cerebellum	0	255	0	255	L	Dorsal-Attention	5	311	NA
+495	5120	Dorsal-Attention-12_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	317	NA
+496	5130	Dorsal-Attention-13_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	318	NA
+497	5140	Dorsal-Attention-14_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	319	NA
+498	5150	Dorsal-Attention-15_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	320	NA
+499	5160	Dorsal-Attention-16_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	321	NA
+500	5170	Dorsal-Attention-17_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	322	NA
+501	5180	Dorsal-Attention-18_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	323	NA
+502	5190	Dorsal-Attention-19_R-Cerebellum	0	255	0	255	R	Dorsal-Attention	5	324	NA
+503	5200	Dorsal-Attention-20_L-Putamen	0	255	0	255	L	Dorsal-Attention	5	312	NA
+504	5210	Dorsal-Attention-21_L-Putamen	0	255	0	255	L	Dorsal-Attention	5	313	NA
+505	5220	Dorsal-Attention-22_R-Putamen	0	255	0	255	R	Dorsal-Attention	5	325	NA
+506	5230	Dorsal-Attention-23_R-Putamen	0	255	0	255	R	Dorsal-Attention	5	326	NA
+507	5240	Dorsal-Attention-24_L-Thalamus	0	255	0	255	L	Dorsal-Attention	5	314	NA
+508	5250	Dorsal-Attention-25_L-Thalamus	0	255	0	255	L	Dorsal-Attention	5	315	NA
+509	5260	Dorsal-Attention-26_R-Thalamus	0	255	0	255	R	Dorsal-Attention	5	327	NA
+510	6010	Language-01_L-Amygdala	0	155	155	255	L	Language	6	351	NA
+511	6020	Language-02_R-Amygdala	0	155	155	255	R	Language	6	354	NA
+512	6030	Language-03_R-Amygdala	0	155	155	255	R	Language	6	355	NA
+513	6040	Language-04_L-Caudate	0	155	155	255	L	Language	6	352	NA
+514	6050	Language-05_R-Caudate	0	155	155	255	R	Language	6	356	NA
+515	6060	Language-06_L-Cerebellum	0	155	155	255	L	Language	6	353	NA
+516	6070	Language-07_R-Cerebellum	0	155	155	255	R	Language	6	357	NA
+517	6080	Language-08_R-Cerebellum	0	155	155	255	R	Language	6	358	NA
+518	6090	Language-09_R-Cerebellum	0	155	155	255	R	Language	6	359	NA
+519	6100	Language-10_R-Cerebellum	0	155	155	255	R	Language	6	360	NA
+520	7010	Frontoparietal-01_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	438	NA
+521	7020	Frontoparietal-02_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	439	NA
+522	7030	Frontoparietal-03_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	440	NA
+523	7040	Frontoparietal-04_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	441	NA
+524	7050	Frontoparietal-05_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	442	NA
+525	7060	Frontoparietal-06_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	443	NA
+526	7070	Frontoparietal-07_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	444	NA
+527	7080	Frontoparietal-08_LR-Brainstem	255	255	0	255	LR	Frontoparietal	7	445	NA
+528	7090	Frontoparietal-09_L-Caudate	255	255	0	255	L	Frontoparietal	7	411	NA
+529	7100	Frontoparietal-10_R-Caudate	255	255	0	255	R	Frontoparietal	7	426	NA
+530	7110	Frontoparietal-11_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	412	NA
+531	7120	Frontoparietal-12_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	413	NA
+532	7130	Frontoparietal-13_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	414	NA
+533	7140	Frontoparietal-14_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	415	NA
+534	7150	Frontoparietal-15_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	416	NA
+535	7160	Frontoparietal-16_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	417	NA
+536	7170	Frontoparietal-17_L-Cerebellum	255	255	0	255	L	Frontoparietal	7	418	NA
+537	7180	Frontoparietal-18_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	427	NA
+538	7190	Frontoparietal-19_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	428	NA
+539	7200	Frontoparietal-20_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	429	NA
+540	7210	Frontoparietal-21_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	430	NA
+541	7220	Frontoparietal-22_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	431	NA
+542	7230	Frontoparietal-23_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	432	NA
+543	7240	Frontoparietal-24_R-Cerebellum	255	255	0	255	R	Frontoparietal	7	433	NA
+544	7250	Frontoparietal-25_L-Diencephalon	255	255	0	255	L	Frontoparietal	7	419	NA
+545	7260	Frontoparietal-26_L-Diencephalon	255	255	0	255	L	Frontoparietal	7	420	NA
+546	7270	Frontoparietal-27_L-Diencephalon	255	255	0	255	L	Frontoparietal	7	421	NA
+547	7280	Frontoparietal-28_L-Diencephalon	255	255	0	255	L	Frontoparietal	7	422	NA
+548	7290	Frontoparietal-29_R-Diencephalon	255	255	0	255	R	Frontoparietal	7	434	NA
+549	7300	Frontoparietal-30_L-Putamen	255	255	0	255	L	Frontoparietal	7	423	NA
+550	7310	Frontoparietal-31_R-Putamen	255	255	0	255	R	Frontoparietal	7	435	NA
+551	7320	Frontoparietal-32_L-Thalamus	255	255	0	255	L	Frontoparietal	7	424	NA
+552	7330	Frontoparietal-33_L-Thalamus	255	255	0	255	L	Frontoparietal	7	425	NA
+553	7340	Frontoparietal-34_R-Thalamus	255	255	0	255	R	Frontoparietal	7	436	NA
+554	7350	Frontoparietal-35_R-Thalamus	255	255	0	255	R	Frontoparietal	7	437	NA
+555	8010	Auditory-01_L-Accumbens	250	62	251	255	L	Auditory	8	461	NA
+556	8020	Auditory-02_R-Accumbens	250	62	251	255	R	Auditory	8	466	NA
+557	8030	Auditory-03_L-Diencephalon	250	62	251	255	L	Auditory	8	462	NA
+558	8040	Auditory-04_L-Diencephalon	250	62	251	255	L	Auditory	8	463	NA
+559	8050	Auditory-05_R-Diencephalon	250	62	251	255	R	Auditory	8	467	NA
+560	8060	Auditory-06_R-Diencephalon	250	62	251	255	R	Auditory	8	468	NA
+561	8070	Auditory-07_L-Pallidum	250	62	251	255	L	Auditory	8	464	NA
+562	8080	Auditory-08_R-Pallidum	250	62	251	255	R	Auditory	8	469	NA
+563	8090	Auditory-09_L-Caudate	250	62	251	255	L	Auditory	8	465	NA
+564	8100	Auditory-10_R-Caudate	250	62	251	255	R	Auditory	8	470	NA
+565	8110	Auditory-11_R-Caudate	250	62	251	255	R	Auditory	8	471	NA
+566	9010	Default-01_L-Accumbens	255	0	0	255	L	Default	9	549	NA
+567	9020	Default-02_R-Accumbens	255	0	0	255	R	Default	9	559	NA
+568	9030	Default-03_R-Accumbens	255	0	0	255	R	Default	9	560	NA
+569	9040	Default-04_LR-Brainstem	255	0	0	255	LR	Default	9	572	NA
+570	9050	Default-05_LR-Brainstem	255	0	0	255	LR	Default	9	573	NA
+571	9060	Default-06_LR-Brainstem	255	0	0	255	LR	Default	9	574	NA
+572	9070	Default-07_LR-Brainstem	255	0	0	255	LR	Default	9	575	NA
+573	9080	Default-08_R-Caudate	255	0	0	255	R	Default	9	561	NA
+574	9090	Default-09_L-Cerebellum	255	0	0	255	L	Default	9	550	NA
+575	9100	Default-10_L-Cerebellum	255	0	0	255	L	Default	9	551	NA
+576	9110	Default-11_R-Cerebellum	255	0	0	255	R	Default	9	562	NA
+577	9120	Default-12_R-Cerebellum	255	0	0	255	R	Default	9	563	NA
+578	9130	Default-13_L-Diencephalon	255	0	0	255	L	Default	9	552	NA
+579	9140	Default-14_R-Diencephalon	255	0	0	255	R	Default	9	564	NA
+580	9150	Default-15_L-Hippocampus	255	0	0	255	L	Default	9	553	NA
+581	9160	Default-16_L-Hippocampus	255	0	0	255	L	Default	9	554	NA
+582	9170	Default-17_L-Hippocampus	255	0	0	255	L	Default	9	555	NA
+583	9180	Default-18_L-Hippocampus	255	0	0	255	L	Default	9	556	NA
+584	9190	Default-19_R-Hippocampus	255	0	0	255	R	Default	9	565	NA
+585	9200	Default-20_R-Hippocampus	255	0	0	255	R	Default	9	566	NA
+586	9210	Default-21_R-Hippocampus	255	0	0	255	R	Default	9	567	NA
+587	9220	Default-22_R-Hippocampus	255	0	0	255	R	Default	9	568	NA
+588	9230	Default-23_L-Thalamus	255	0	0	255	L	Default	9	557	NA
+589	9240	Default-24_L-Thalamus	255	0	0	255	L	Default	9	558	NA
+590	9250	Default-25_R-Thalamus	255	0	0	255	R	Default	9	569	NA
+591	9260	Default-26_R-Thalamus	255	0	0	255	R	Default	9	570	NA
+592	9270	Default-27_R-Thalamus	255	0	0	255	R	Default	9	571	NA
+593	10010	Posterior-Multimodal-01_R-Accumbens	177	89	40	255	R	Posterior-Multimodal	10	605	NA
+594	10020	Posterior-Multimodal-02_L-Amygdala	177	89	40	255	L	Posterior-Multimodal	10	583	NA
+595	10030	Posterior-Multimodal-03_L-Amygdala	177	89	40	255	L	Posterior-Multimodal	10	584	NA
+596	10040	Posterior-Multimodal-04_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	598	NA
+597	10050	Posterior-Multimodal-05_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	599	NA
+598	10060	Posterior-Multimodal-06_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	600	NA
+599	10070	Posterior-Multimodal-07_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	601	NA
+600	10080	Posterior-Multimodal-08_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	602	NA
+601	10090	Posterior-Multimodal-09_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	603	NA
+602	10100	Posterior-Multimodal-10_LR-Brainstem	177	89	40	255	LR	Posterior-Multimodal	10	604	NA
+603	10110	Posterior-Multimodal-11_L-Caudate	177	89	40	255	L	Posterior-Multimodal	10	585	NA
+604	10120	Posterior-Multimodal-12_R-Caudate	177	89	40	255	R	Posterior-Multimodal	10	606	NA
+605	10130	Posterior-Multimodal-13_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	586	NA
+606	10140	Posterior-Multimodal-14_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	587	NA
+607	10150	Posterior-Multimodal-15_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	588	NA
+608	10160	Posterior-Multimodal-16_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	589	NA
+609	10170	Posterior-Multimodal-17_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	590	NA
+610	10180	Posterior-Multimodal-18_L-Cerebellum	177	89	40	255	L	Posterior-Multimodal	10	591	NA
+611	10190	Posterior-Multimodal-19_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	607	NA
+612	10200	Posterior-Multimodal-20_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	608	NA
+613	10210	Posterior-Multimodal-21_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	609	NA
+614	10220	Posterior-Multimodal-22_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	610	NA
+615	10230	Posterior-Multimodal-23_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	611	NA
+616	10240	Posterior-Multimodal-24_R-Cerebellum	177	89	40	255	R	Posterior-Multimodal	10	612	NA
+617	10250	Posterior-Multimodal-25_L-Diencephalon	177	89	40	255	L	Posterior-Multimodal	10	592	NA
+618	10260	Posterior-Multimodal-26_L-Diencephalon	177	89	40	255	L	Posterior-Multimodal	10	593	NA
+619	10270	Posterior-Multimodal-27_R-Diencephalon	177	89	40	255	R	Posterior-Multimodal	10	613	NA
+620	10280	Posterior-Multimodal-28_R-Diencephalon	177	89	40	255	R	Posterior-Multimodal	10	614	NA
+621	10290	Posterior-Multimodal-29_L-Hippocampus	177	89	40	255	L	Posterior-Multimodal	10	594	NA
+622	10300	Posterior-Multimodal-30_L-Putamen	177	89	40	255	L	Posterior-Multimodal	10	595	NA
+623	10310	Posterior-Multimodal-31_L-Putamen	177	89	40	255	L	Posterior-Multimodal	10	596	NA
+624	10320	Posterior-Multimodal-32_R-Putamen	177	89	40	255	R	Posterior-Multimodal	10	615	NA
+625	10330	Posterior-Multimodal-33_L-Thalamus	177	89	40	255	L	Posterior-Multimodal	10	597	NA
+626	10340	Posterior-Multimodal-34_R-Thalamus	177	89	40	255	R	Posterior-Multimodal	10	616	NA
+627	11010	Ventral-Multimodal-01_R-Diencephalon	255	157	0	255	R	Ventral-Multimodal	11	623	NA
+628	11020	Ventral-Multimodal-02_L-Hippocampus	255	157	0	255	L	Ventral-Multimodal	11	621	NA
+629	11030	Ventral-Multimodal-03_L-Hippocampus	255	157	0	255	L	Ventral-Multimodal	11	622	NA
+630	11040	Ventral-Multimodal-04_R-Hippocampus	255	157	0	255	R	Ventral-Multimodal	11	624	NA
+631	12010	Orbito-Affective-01_L-Accumbens	65	125	0	168	L	Orbito-Affective	12	631	NA
+632	12020	Orbito-Affective-02_R-Accumbens	65	125	0	168	R	Orbito-Affective	12	640	NA
+633	12030	Orbito-Affective-03_L-Caudate	65	125	0	168	L	Orbito-Affective	12	632	NA
+634	12040	Orbito-Affective-04_R-Caudate	65	125	0	168	R	Orbito-Affective	12	641	NA
+635	12050	Orbito-Affective-05_L-Diencephalon	65	125	0	168	L	Orbito-Affective	12	633	NA
+636	12060	Orbito-Affective-06_L-Diencephalon	65	125	0	168	L	Orbito-Affective	12	634	NA
+637	12070	Orbito-Affective-07_R-Diencephalon	65	125	0	168	R	Orbito-Affective	12	642	NA
+638	12080	Orbito-Affective-08_R-Diencephalon	65	125	0	168	R	Orbito-Affective	12	643	NA
+639	12090	Orbito-Affective-09_R-Diencephalon	65	125	0	168	R	Orbito-Affective	12	644	NA
+640	12100	Orbito-Affective-10_L-Pallidum	65	125	0	168	L	Orbito-Affective	12	635	NA
+641	12110	Orbito-Affective-11_L-Pallidum	65	125	0	168	L	Orbito-Affective	12	636	NA
+642	12120	Orbito-Affective-12_L-Pallidum	65	125	0	168	L	Orbito-Affective	12	637	NA
+643	12130	Orbito-Affective-13_R-Pallidum	65	125	0	168	R	Orbito-Affective	12	645	NA
+644	12140	Orbito-Affective-14_R-Pallidum	65	125	0	168	R	Orbito-Affective	12	646	NA
+645	12150	Orbito-Affective-15_L-Putamen	65	125	0	168	L	Orbito-Affective	12	638	NA
+646	12160	Orbito-Affective-16_L-Putamen	65	125	0	168	L	Orbito-Affective	12	639	NA
+647	12170	Orbito-Affective-17_R-Putamen	65	125	0	168	R	Orbito-Affective	12	647	NA
+648	12180	Orbito-Affective-18_R-Putamen	65	125	0	168	R	Orbito-Affective	12	648	NA
