@@ -9,6 +9,8 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
+**Version 1.1.6**: Feb 7, 2021, fixed missing values in CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_LabelKey.txt, removed reference files (Q1-Q6_RelatedValidation210.L.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR) from original Glasser 2016 parcellation.
+
 **Version 1.1.5**: Aug 17, 2020, updated CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_LabelKey.txt and CortexSubcortex_ColeAnticevic_NetPartition_woSubcorGSR_parcels_LR_LabelKey.txt to include mapping to original cortical parcel label names from Glasser et al. 2016.
 
 **Version 1.1.4**: June 11, 2020, updated displayed borders in scene files to render as lines (instead of spheres) to speed up loading time in wb_view.
