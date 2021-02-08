@@ -9,7 +9,7 @@ Anticevic Lab, http://anticeviclab.yale.edu/
 
 ## Version Info and Acknowledgements
 
-**Version 1.1.6**: Feb 7, 2021, fixed missing values in CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_LabelKey.txt, removed reference files (Q1-Q6_RelatedValidation210.L.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR) from original Glasser 2016 parcellation.
+**Version 1.1.6**: Feb 7, 2021, fixed missing values in CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_LabelKey.txt, removed reference files (Q1-Q6_RelatedValidation210.*.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR) from original Glasser 2016 parcellation.
 
 **Version 1.1.5**: Aug 17, 2020, updated CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_LR_LabelKey.txt and CortexSubcortex_ColeAnticevic_NetPartition_woSubcorGSR_parcels_LR_LabelKey.txt to include mapping to original cortical parcel label names from Glasser et al. 2016.
 
@@ -133,10 +133,6 @@ The partition across transaxial slices of the S1200 HCP average T1 image.
   - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_netassignments_R.dlabel.nii - Right hemisphere cortex+subcortex network assignments for each parcel
   - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_L.dlabel.nii - Left hemisphere cortex+subcortex list of parcels, with a label for each parcel. Note that some midline subcortical parcels were split to create this left-hemisphere-only version, such that combining both hemispheres results in 758 parcels (rather than 718).
   - CortexSubcortex_ColeAnticevic_NetPartition_wSubcorGSR_parcels_R.dlabel.nii - Right hemisphere cortex+subcortex list of parcels, with a label for each parcel. Note that some midline subcortical parcels were split to create this right-hemisphere-only version, such that combining both hemispheres results in 758 parcels (rather than 718).
-  - Q1-Q6_RelatedValidation210.L.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, left hemisphere, as a dlabel CIFTI file
-  - Q1-Q6_RelatedValidation210.L.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR.label.gii - Glasser2016 cortical parcels, left hemisphere, as a label GIFTI file
-  - Q1-Q6_RelatedValidation210.R.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR.dlabel.nii - Glasser2016 cortical parcels, right hemisphere, as a dlabel CIFTI file
-  - Q1-Q6_RelatedValidation210.R.CorticalAreas_dil_Final_Final_Areas_Group_Colors.32k_fs_LR.label.gii - Glasser2016 cortical parcels, right hemisphere, as a label GIFTI file
   - subcortex_atlas_GSR_L.nii - Left hemisphere subcortex-only network partition
   - subcortex_atlas_GSR_R.nii - Right hemisphere subcortex-only network partition
   - subcortex_atlas_GSR_parcels_L.nii - Left hemisphere subcortex-only network parcellation (each parcel separated)
