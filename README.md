@@ -5,7 +5,7 @@ Jie Lisa Ji, Marjolein Spronk, Kaustubh Kulkarni, Grega Repovs, Alan Anticevic, 
 
 Cole Neurocognition Lab, http://www.colelab.org/
 
-Anticevic Lab, http://anticeviclab.yale.edu/
+Anticevic Lab
 
 ## Version Info and Acknowledgements
 
